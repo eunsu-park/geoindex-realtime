@@ -157,7 +157,15 @@ def main() -> int:
         logger.info("--dry-run enabled: using fixtures at %s", fixtures)
         swpc_1min, hpo = _load_fixtures(fixtures)
     else:
-        swpc_1min, hpo = _fetch_live(cfg, cache_root)
+        try:
+            swpc_1min, hpo = _fetch_live(cfg, cache_root)
+        except Exception as exc:  # noqa: BLE001
+            # An upstream feed (NOAA/GFZ) being unreachable is a transient data
+            # gap, not a pipeline error. Exit 2 (same as InsufficientDataError)
+            # so the site shows a "waiting for next cycle" warning instead of a
+            # hard error, and the previous forecast is preserved.
+            logger.error("Upstream fetch failed (treating as data gap): %s", exc)
+            return 2
 
     # Aggregate 1-min → 30-min, covering a window that comfortably spans the lookback.
     # Floor the window boundaries to :00/:30 so the aggregation grid matches the
