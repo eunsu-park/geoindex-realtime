@@ -4,9 +4,6 @@ Files under this directory are **verbatim or near-verbatim copies** from the
 two sibling projects. They carry upstream identifiers so changes can be
 tracked and resynchronized.
 
-이 디렉터리의 파일은 자매 프로젝트에서 복사된 코드입니다. 재동기화를 위한
-upstream 식별자를 상단 헤더에 유지합니다.
-
 ## Provenance
 
 | Vendored path | Upstream path | Commit |
