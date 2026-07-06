@@ -5,8 +5,6 @@ nowcast feeds. The engine is **index-agnostic** — the predicted index is
 determined by the vendored checkpoint; the current default checkpoint targets
 **ap30** (30-minute ap index).
 
----
-
 ## Overview
 
 This project is the on-demand inference companion of [geoindex-model](../geoindex-model)
@@ -20,8 +18,6 @@ model to produce a 12-hour ap30 forecast.
 - **Output**: 24-step ap30 forecast (30 min → 12 hours ahead)
 - **Execution**: On-demand CLI (single-run). Run manually when a forecast is needed.
 
----
-
 ## Architecture
 
 ```
@@ -34,9 +30,7 @@ GFZ Hp30/ap30 nowcast  ─┘                               ├─► align ─�
 All vendored dependencies (downloader, normalizer, model code) live under
 `src/_vendor/`. The project has no runtime dependency on the sibling folders.
 
----
-
-## Quickstart
+## Quick Start
 
 ```bash
 conda activate ap
@@ -70,8 +64,6 @@ Optional flags:
 | `--device`       | `cpu`, `cuda`, or `mps` (overrides YAML) |
 | `--verbose`      | Enable DEBUG-level logging |
 
----
-
 ## Configuration
 
 Edit `configs/realtime.yaml` to change URLs, paths, window size, or the
@@ -93,8 +85,6 @@ window:
   forecast_steps: 24
 ```
 
----
-
 ## Data Sources
 
 | Source | URL | Cadence | Purpose |
@@ -113,8 +103,6 @@ no longer served.
 Each RTSW file covers a rolling ~24 hours — enough for the 12-hour lookback but
 not for multi-day backtests. For historical backtests, use the OMNI archive via
 `geoindex-data` instead.
-
----
 
 ## Output Schema
 
@@ -145,8 +133,6 @@ Each run produces a JSON and a CSV file in
 
 CSV columns: `horizon_steps, horizon_minutes, target_timestamp_utc, ap30_pred`.
 
----
-
 ## Model
 
 The default profile `in12h_out12h_gnn_patchtst` is an 8-node GNN encoder with a
@@ -158,8 +144,6 @@ inference.
 
 Checkpoint size: ~4.5 MB. CPU inference latency: ~100 ms per request.
 
----
-
 ## Troubleshooting
 
 | Symptom | Likely cause | Fix |
@@ -168,8 +152,6 @@ Checkpoint size: ~4.5 MB. CPU inference latency: ~100 ms per request.
 | `FileNotFoundError: table_stats.pkl` | Stats file path wrong | Update `paths.stats_file` in config |
 | Unrealistic forecast values | Stats/model mismatch | Ensure stats file matches checkpoint training |
 | SSL warnings | `urllib3` InsecureRequestWarning | Emitted when fetching from NOAA SWPC / GFZ Potsdam over legacy TLS — safe to ignore |
-
----
 
 ## License
 
