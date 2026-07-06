@@ -25,8 +25,8 @@ model to produce a 12-hour ap30 forecast.
 ## Architecture
 
 ```
-NOAA SWPC plasma.json  ─┐
-NOAA SWPC mag.json     ─┼─► fetch ─► aggregate(30-min) ─┐
+NOAA RTSW wind.json    ─┐
+NOAA RTSW mag.json     ─┼─► fetch ─► aggregate(30-min) ─┐
 GFZ Hp30/ap30 nowcast  ─┘                               ├─► align ─► event CSV ─► predict ─► results JSON/CSV
                                                          ┘
 ```
@@ -85,8 +85,8 @@ paths:
   checkpoint: "/path/to/model_best.pth"
   stats_file: "/path/to/table_stats.pkl"
 sources:
-  noaa_plasma_url: "https://services.swpc.noaa.gov/products/solar-wind/plasma-7-day.json"
-  noaa_mag_url:    "https://services.swpc.noaa.gov/products/solar-wind/mag-7-day.json"
+  noaa_plasma_url: "https://services.swpc.noaa.gov/json/rtsw/rtsw_wind_1m.json"
+  noaa_mag_url:    "https://services.swpc.noaa.gov/json/rtsw/rtsw_mag_1m.json"
   gfz_hpo_url:     "https://www-app3.gfz-potsdam.de/kp_index/Hp30_ap30_nowcast.txt"
 window:
   lookback_steps: 24
@@ -99,12 +99,19 @@ window:
 
 | Source | URL | Cadence | Purpose |
 |---|---|---|---|
-| NOAA SWPC plasma | https://services.swpc.noaa.gov/products/solar-wind/plasma-7-day.json | ~1 min | density, speed, temperature |
-| NOAA SWPC mag    | https://services.swpc.noaa.gov/products/solar-wind/mag-7-day.json    | ~1 min | bx/by/bz/bt (GSM) |
-| GFZ HPo nowcast  | https://www-app3.gfz-potsdam.de/kp_index/Hp30_ap30_nowcast.txt       | 30 min | Hp30, ap30 |
+| NOAA RTSW wind | https://services.swpc.noaa.gov/json/rtsw/rtsw_wind_1m.json | ~1 min | density, speed, temperature |
+| NOAA RTSW mag  | https://services.swpc.noaa.gov/json/rtsw/rtsw_mag_1m.json  | ~1 min | bx/by/bz/bt (GSM) |
+| GFZ HPo nowcast | https://www-app3.gfz-potsdam.de/kp_index/Hp30_ap30_nowcast.txt | 30 min | Hp30, ap30 |
 
-NOAA provides only the past 7 days of data; the pipeline cannot backtest further
-into the past from this source. For historical backtests, use OMNI archive via
+NOAA's RTSW feeds publish one record per timestamp **per spacecraft**
+(`source` ∈ {SOLAR1, ACE, IMAP, ...}). SOLAR1 replaced DSCOVR as the primary L1
+monitor; the fetch layer keeps SOLAR1 per timestamp and only falls back to
+NOAA's `active`-flagged backup where SOLAR1 is missing. The retired
+`products/solar-wind/*-7-day.json` feeds (DSCOVR-era, header-first format) are
+no longer served.
+
+Each RTSW file covers a rolling ~24 hours — enough for the 12-hour lookback but
+not for multi-day backtests. For historical backtests, use the OMNI archive via
 `geoindex-data` instead.
 
 ---

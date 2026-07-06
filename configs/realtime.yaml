@@ -29,8 +29,8 @@ paths:
   results_dir: "D:/realtime/results"
 
 sources:
-  noaa_plasma_url: "https://services.swpc.noaa.gov/products/solar-wind/plasma-7-day.json"
-  noaa_mag_url:    "https://services.swpc.noaa.gov/products/solar-wind/mag-7-day.json"
+  noaa_plasma_url: "https://services.swpc.noaa.gov/json/rtsw/rtsw_wind_1m.json"
+  noaa_mag_url:    "https://services.swpc.noaa.gov/json/rtsw/rtsw_mag_1m.json"
   gfz_hpo_url:     "https://www-app3.gfz-potsdam.de/kp_index/Hp30_ap30_nowcast.txt"
   download_timeout: 30
   max_retries: 3
