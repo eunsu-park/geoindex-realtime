@@ -1,4 +1,4 @@
-# Extracted from regression-sw/configs/io/in2d_out6h.yaml @ 2d89767.
+# Extracted from geoindex-model/configs/io/in2d_out6h.yaml @ 2d89767.
 # 2-day input (96 steps) → 6-hour output (12 steps).
 
 data:

@@ -1,4 +1,4 @@
-# Extracted from regression-sw/configs/model/gnn_transformer.yaml @ 2d89767.
+# Extracted from geoindex-model/configs/model/gnn_transformer.yaml @ 2d89767.
 
 model:
   model_type: "gnn"

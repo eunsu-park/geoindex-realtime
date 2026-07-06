@@ -1,27 +1,31 @@
-# realtime-regression-sw
+# geoindex-realtime
 
-Real-time **ap30** geomagnetic index prediction from live solar-wind and
-geomagnetic nowcast feeds.
+Real-time geomagnetic index prediction from live solar-wind and geomagnetic
+nowcast feeds. The engine is **index-agnostic** — the predicted index is
+determined by the vendored checkpoint; the current default checkpoint targets
+**ap30** (30-minute ap index).
 
-태양풍·지자기 실황 데이터를 사용한 **ap30** (30분 지자기 지수) 실시간 예측기.
+태양풍·지자기 실황 데이터를 사용한 실시간 지자기 지수 예측기. 엔진 자체는 특정
+지수에 종속되지 않으며(**index-agnostic**), 예측 대상 지수는 반입된 체크포인트가
+결정합니다. 현재 기본 체크포인트는 **ap30** (30분 ap 지수) 을 예측합니다.
 
 ---
 
 ## Overview / 개요
 
-This project is the on-demand inference companion of [regression-sw](../regression-sw)
-and [setup-sw-db](../setup-sw-db). It downloads live data from NOAA SWPC (solar
+This project is the on-demand inference companion of [geoindex-model](../geoindex-model)
+and [geoindex-data](../geoindex-data). It downloads live data from NOAA SWPC (solar
 wind) and GFZ Potsdam (Hp30/ap30 nowcast), preprocesses it into the same
 30-minute event format used for training, and runs the best-performing trained
-model to produce a 6-hour ap30 forecast.
+model to produce a 12-hour ap30 forecast.
 
-본 프로젝트는 [regression-sw](../regression-sw)·[setup-sw-db](../setup-sw-db)
+본 프로젝트는 [geoindex-model](../geoindex-model)·[geoindex-data](../geoindex-data)
 의 실시간 추론 파트너입니다. NOAA SWPC(태양풍)와 GFZ Potsdam(Hp30/ap30
 nowcast)에서 실황 데이터를 내려받아, 학습 때와 동일한 30분 이벤트 포맷으로
-전처리한 뒤, 가장 성능이 좋은 학습 모델로 향후 6시간의 ap30 을 예측합니다.
+전처리한 뒤, 가장 성능이 좋은 학습 모델로 향후 12시간의 ap30 을 예측합니다.
 
-- **Default model / 기본 모델**: `in2d_out12h_gnn_transformer` (Val Loss 0.2727, Val MAE 0.3840)
-- **Input / 입력**: 2-day lookback (96 steps at 30-min cadence, 22 variables)
+- **Default model / 기본 모델**: `in12h_out12h_gnn_patchtst` (Val Loss 0.245454, Val MAE 0.3781)
+- **Input / 입력**: 12-hour lookback (24 steps at 30-min cadence, 22 variables → tensor (1, 24, 22))
 - **Output / 출력**: 24-step ap30 forecast (30 min → 12 hours ahead)
 - **Execution / 실행 방식**: On-demand CLI (single-run). Run manually when a forecast is needed.
 
@@ -101,8 +105,8 @@ sources:
   noaa_mag_url:    "https://services.swpc.noaa.gov/products/solar-wind/mag-7-day.json"
   gfz_hpo_url:     "https://www-app3.gfz-potsdam.de/kp_index/Hp30_ap30_nowcast.txt"
 window:
-  lookback_steps: 96
-  forecast_steps: 12
+  lookback_steps: 24
+  forecast_steps: 24
 ```
 
 ---
@@ -117,10 +121,10 @@ window:
 
 NOAA provides only the past 7 days of data; the pipeline cannot backtest further
 into the past from this source. For historical backtests, use OMNI archive via
-`setup-sw-db` instead.
+`geoindex-data` instead.
 
 NOAA 는 최근 7일만 제공하므로, 그 이전 시점의 재현 테스트는 본 파이프라인으로
-불가능합니다. 장기간 backtest 는 `setup-sw-db` 로 OMNI archive 를 사용하세요.
+불가능합니다. 장기간 backtest 는 `geoindex-data` 로 OMNI archive 를 사용하세요.
 
 ---
 
@@ -134,11 +138,11 @@ Each run produces a JSON and a CSV file in
   "run_timestamp_utc": "2026-04-19T12:17:03Z",
   "anchor_timestamp_utc": "2026-04-19T12:00:00Z",
   "model": {
-    "profile": "in2d_out6h_gnn_transformer",
+    "profile": "in12h_out12h_gnn_patchtst",
     "checkpoint_path": "...",
     "checkpoint_sha256": "abcd1234...",
-    "val_loss_at_train": 0.2178,
-    "val_mae_at_train": 0.3532
+    "val_loss_at_train": 0.245454,
+    "val_mae_at_train": 0.3781
   },
   "input": {
     "event_csv": "dataset/events/20260419120000.csv",
@@ -157,16 +161,17 @@ CSV columns: `horizon_steps, horizon_minutes, target_timestamp_utc, ap30_pred`.
 
 ## Model / 모델
 
-The default profile `in2d_out6h_gnn_transformer` is a GNN encoder with a
-Transformer temporal backbone, selected as the single best model across 99
-trained configurations (lowest validation loss of 0.2178). The checkpoint and
-the per-variable statistics file (`table_stats.pkl`) used at training time are
-required for inference.
+The default profile `in12h_out12h_gnn_patchtst` is an 8-node GNN encoder with a
+PatchTST temporal backbone, selected as the single best model across the
+24 × 9 = 216 profile grid (24 input/output windows × 9 model architectures;
+lowest validation loss of 0.245454). The checkpoint and the per-variable
+statistics file (`table_stats.pkl`) used at training time are required for
+inference.
 
-기본 프로파일 `in2d_out6h_gnn_transformer` 는 GNN 인코더 + Transformer 시계열
-인코더 조합이며, 99개 학습 결과 중 검증 손실(Val Loss 0.2178)이 가장 낮아
-선정되었습니다. 추론에는 학습 당시의 체크포인트와 변수별 통계 파일
-(`table_stats.pkl`) 이 필요합니다.
+기본 프로파일 `in12h_out12h_gnn_patchtst` 는 8-노드 GNN 인코더 + PatchTST 시계열
+인코더 조합이며, 24 × 9 = 216 개 프로파일 조합(입출력 윈도우 24 × 모델 구조 9)
+중 검증 손실(Val Loss 0.245454)이 가장 낮아 선정되었습니다. 추론에는 학습 당시의
+체크포인트와 변수별 통계 파일 (`table_stats.pkl`) 이 필요합니다.
 
 Checkpoint size: ~4.5 MB. CPU inference latency: ~100 ms per request.
 
@@ -179,7 +184,7 @@ Checkpoint size: ~4.5 MB. CPU inference latency: ~100 ms per request.
 | `InsufficientDataError` | NOAA/GFZ outage or many recent NaNs | Retry later; check source URLs |
 | `FileNotFoundError: table_stats.pkl` | Stats file path wrong | Update `paths.stats_file` in config |
 | Unrealistic forecast values | Stats/model mismatch | Ensure stats file matches checkpoint training |
-| SSL warnings | `urllib3` InsecureRequestWarning | Suppressed for JSOC compatibility — safe to ignore |
+| SSL warnings | `urllib3` InsecureRequestWarning | Emitted when fetching from NOAA SWPC / GFZ Potsdam over legacy TLS — safe to ignore |
 
 ---
 

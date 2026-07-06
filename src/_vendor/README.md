@@ -11,16 +11,16 @@ upstream 식별자를 상단 헤더에 유지합니다.
 
 | Vendored path | Upstream path | Commit |
 |---|---|---|
-| `download.py` | `setup-sw-db/core/download.py` (subset) | `de72933` |
-| `parse_hpo.py` | `setup-sw-db/core/parse.py` (HP30 subset) | `de72933` |
-| `normalizer.py` | `regression-sw/src/pipeline/normalizer.py` (Normalizer only) | `2d89767` |
-| `checkpoint.py` | `regression-sw/src/utils.py` (load_model, setup_device) | `2d89767` |
-| `networks/_registry.py` | `regression-sw/src/networks/_registry.py` | `2d89767` |
-| `networks/_base.py` | `regression-sw/src/networks/_base.py` | `2d89767` |
-| `networks/gnn.py` | `regression-sw/src/networks/gnn.py` | `2d89767` |
-| `networks/transformer.py` | `regression-sw/src/networks/transformer.py` | `2d89767` |
-| `networks/tcn.py` | `regression-sw/src/networks/tcn.py` (for gnn.py import) | `2d89767` |
-| `networks/patchtst.py` | `regression-sw/src/networks/patchtst.py` (for gnn.py import) | `2d89767` |
+| `download.py` | `geoindex-data/core/download.py` (subset) | `de72933` |
+| `parse_hpo.py` | `geoindex-data/core/parse.py` (HP30 subset) | `de72933` |
+| `normalizer.py` | `geoindex-model/src/pipeline/normalizer.py` (Normalizer only) | `2d89767` |
+| `checkpoint.py` | `geoindex-model/src/utils.py` (load_model, setup_device) | `2d89767` |
+| `networks/_registry.py` | `geoindex-model/src/networks/_registry.py` | `2d89767` |
+| `networks/_base.py` | `geoindex-model/src/networks/_base.py` | `2d89767` |
+| `networks/gnn.py` | `geoindex-model/src/networks/gnn.py` | `2d89767` |
+| `networks/transformer.py` | `geoindex-model/src/networks/transformer.py` | `2d89767` |
+| `networks/tcn.py` | `geoindex-model/src/networks/tcn.py` (for gnn.py import) | `2d89767` |
+| `networks/patchtst.py` | `geoindex-model/src/networks/patchtst.py` (for gnn.py import) | `2d89767` |
 
 ## Resync Procedure
 

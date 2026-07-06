@@ -1,4 +1,4 @@
-# macOS / Linux variant — in2d_out12h_gnn_transformer profile.
+# macOS / Linux variant — in12h_out12h_gnn_patchtst profile.
 # Workspace: /Users/eunsupark/realtime/ with the standard layout
 # (checkpoint/, dataset/, results/ under the root).
 #
@@ -6,12 +6,12 @@
 #   python scripts/run_realtime.py --config configs/realtime.mac.yaml
 
 profile:
-  name: "in2d_out12h_gnn_transformer"
-  io: "in2d_out12h"          # 2-day input, 12-hour (24-step) output
-  model: "gnn_transformer"   # GNN with Transformer temporal backend
+  name: "in12h_out12h_gnn_patchtst"
+  io: "in12h_out12h"         # 12-hour input (24 steps), 12-hour (24-step) output
+  model: "gnn_patchtst"      # GNN with PatchTST temporal backend
 
 experiment:
-  name: "in2d_out12h_gnn_transformer"
+  name: "in12h_out12h_gnn_patchtst"
 
 paths:
   checkpoint: "/Users/eunsupark/realtime/checkpoint/model_best.pth"
@@ -28,7 +28,7 @@ sources:
   max_retries: 3
 
 window:
-  lookback_steps: 96
+  lookback_steps: 24         # 12 hours × 2 steps/hour
   forecast_steps: 24         # 12 hours × 2 steps/hour
   boundary_offset_minutes: 2
 
@@ -54,9 +54,9 @@ analysis:
     save_npz: true
 
 # Reference metrics for the default checkpoint (reported at provenance time).
-# Values taken from in2d_out12h_gnn_transformer/log/training_history.json (epoch 8).
+# Values taken from in12h_out12h_gnn_patchtst/log/training_history.json (epoch 9).
 model_provenance:
-  val_loss_at_train: 0.2727
-  val_mae_at_train: 0.3840
-  val_rmse_at_train: 0.4960
-  trained_on_epoch: 8
+  val_loss_at_train: 0.245454
+  val_mae_at_train: 0.3781     # ap30-specific MAE
+  val_rmse_at_train: 0.4956    # ap30-specific RMSE
+  trained_on_epoch: 9

@@ -1,8 +1,8 @@
-# Extracted from regression-sw/configs/base.yaml @ 2d89767.
+# Extracted from geoindex-model/configs/base.yaml @ 2d89767.
 # Only the keys needed at inference time are retained.
 
 experiment:
-  name: "in2d_out6h_gnn_transformer"
+  name: "in12h_out12h_gnn_patchtst"
   seed: 250104
   batch_size: 1
 
