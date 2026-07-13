@@ -1,0 +1,43 @@
+# Target overlay: hp30.
+# Input = 21 solar-wind columns + hp30, GNN hp30 node, hp30 regression target
+# (mirrors ap30.yaml with hp30 substituted for ap30). The GFZ nowcast feed
+# already provides hp30, so no source change is needed.
+
+data:
+  timeseries:
+    input_variables:
+      - "v_avg"
+      - "v_min"
+      - "v_max"
+      - "np_avg"
+      - "np_min"
+      - "np_max"
+      - "t_avg"
+      - "t_min"
+      - "t_max"
+      - "bx_avg"
+      - "bx_min"
+      - "bx_max"
+      - "by_avg"
+      - "by_min"
+      - "by_max"
+      - "bz_avg"
+      - "bz_min"
+      - "bz_max"
+      - "bt_avg"
+      - "bt_min"
+      - "bt_max"
+      - "hp30"
+
+    gnn_variable_groups:
+      v: ["v_avg", "v_min", "v_max"]
+      np: ["np_avg", "np_min", "np_max"]
+      t: ["t_avg", "t_min", "t_max"]
+      bx: ["bx_avg", "bx_min", "bx_max"]
+      by: ["by_avg", "by_min", "by_max"]
+      bz: ["bz_avg", "bz_min", "bz_max"]
+      bt: ["bt_avg", "bt_min", "bt_max"]
+      hp30: ["hp30"]
+
+    target_variables:
+      - "hp30"

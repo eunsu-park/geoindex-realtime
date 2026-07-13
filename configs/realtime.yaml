@@ -15,6 +15,7 @@
 
 profile:
   name: "in12h_out12h_gnn_patchtst"
+  target: "ap30"             # geomagnetic index to forecast (target overlay)
   io: "in12h_out12h"         # 12-hour input (24 steps), 12-hour (24-step) output
   model: "gnn_patchtst"      # GNN with PatchTST temporal backend
 

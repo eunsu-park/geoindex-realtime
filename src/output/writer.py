@@ -43,11 +43,13 @@ def write_forecast(
     missing_data_filled_fraction: float,
     interval_minutes: int = 30,
     analysis: Optional[Dict] = None,
+    target_variable: str = "ap30",
 ) -> ForecastArtifacts:
     """Persist the forecast to `results_dir/{YYYYMMDD}/{anchor}.{json,csv}`.
 
     Args:
-        forecast: Array of shape (forecast_steps,) of ap30 predictions.
+        forecast: Array of shape (forecast_steps,) of predictions for
+            `target_variable` (ap30 or hp30).
         t_end: Anchor timestamp (end of input window).
         event_csv: Path to the event CSV used as input.
         results_dir: Root results directory (`results/predictions`).
@@ -59,6 +61,8 @@ def write_forecast(
         interval_minutes: Forecast step size in minutes.
         analysis: Optional dict embedded under the `"analysis"` key with
             MCD summary stats, attention metadata, and plot paths.
+        target_variable: Forecast index name; used as the JSON value key and
+            the `{target}_pred` CSV column (default "ap30").
 
     Returns:
         ForecastArtifacts with both written paths.
@@ -82,14 +86,14 @@ def write_forecast(
             "horizon_steps": step_idx,
             "horizon_minutes": minutes,
             "target_timestamp_utc": _iso_utc(target_ts),
-            "ap30": float(value),
+            target_variable: float(value),
         }
         forecast_entries.append(entry)
         rows.append({
             "horizon_steps": step_idx,
             "horizon_minutes": minutes,
             "target_timestamp_utc": entry["target_timestamp_utc"],
-            "ap30_pred": float(value),
+            f"{target_variable}_pred": float(value),
         })
 
     payload = {

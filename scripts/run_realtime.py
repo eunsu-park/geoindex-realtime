@@ -1,4 +1,8 @@
-"""Realtime ap30 inference — single-run CLI.
+"""Realtime geomagnetic index inference (ap30/hp30) — single-run CLI.
+
+The forecast target is selected by `profile.target` in the runtime config
+(configs/profile/target/{ap30,hp30}.yaml); everything downstream is driven by
+`data.timeseries.target_variables`.
 
 Example:
     python scripts/run_realtime.py
@@ -43,7 +47,7 @@ logger = logging.getLogger("realtime")
 
 def parse_args() -> argparse.Namespace:
     """Parse CLI arguments."""
-    parser = argparse.ArgumentParser(description="Realtime ap30 inference")
+    parser = argparse.ArgumentParser(description="Realtime geomagnetic index inference")
     parser.add_argument("--config", type=Path,
                         default=_PROJECT_ROOT / "configs" / "realtime.yaml",
                         help="Path to runtime config YAML")
@@ -307,15 +311,20 @@ def main() -> int:
         np.savez_compressed(npz_path, **npz_payload)
         logger.info("Saved analysis NPZ: %s", npz_path)
 
-    # Provenance metadata.
+    # Provenance metadata. Values may be null (e.g. a freshly deployed
+    # checkpoint whose metrics haven't been backfilled yet), so convert
+    # defensively instead of assuming floats.
+    def _opt_float(value):
+        return float(value) if value is not None else None
+
     ckpt_sha = sha256_of(checkpoint_path)
     model_meta = {
         "profile": cfg.profile.name,
         "checkpoint_path": str(checkpoint_path),
         "checkpoint_sha256": ckpt_sha[:12],
-        "val_loss_at_train": float(cfg.model_provenance.val_loss_at_train),
-        "val_mae_at_train": float(cfg.model_provenance.val_mae_at_train),
-        "val_rmse_at_train": float(cfg.model_provenance.val_rmse_at_train),
+        "val_loss_at_train": _opt_float(cfg.model_provenance.val_loss_at_train),
+        "val_mae_at_train": _opt_float(cfg.model_provenance.val_mae_at_train),
+        "val_rmse_at_train": _opt_float(cfg.model_provenance.val_rmse_at_train),
     }
     source_urls = {
         "noaa_plasma_url": str(cfg.sources.noaa_plasma_url),
@@ -354,6 +363,7 @@ def main() -> int:
         source_urls=source_urls,
         missing_data_filled_fraction=aligned.filled_fraction,
         analysis=analysis_meta or None,
+        target_variable=target_var,
     )
 
     print(f"\nForecast written: {artifacts.json_path}")

@@ -1,0 +1,43 @@
+# Target overlay: ap30.
+# Input = 21 solar-wind columns + ap30, GNN ap30 node, ap30 regression target.
+# Kept out of base.yaml so a different target (hp30) fully replaces these keys
+# instead of deep-merging the GNN node dict.
+
+data:
+  timeseries:
+    input_variables:
+      - "v_avg"
+      - "v_min"
+      - "v_max"
+      - "np_avg"
+      - "np_min"
+      - "np_max"
+      - "t_avg"
+      - "t_min"
+      - "t_max"
+      - "bx_avg"
+      - "bx_min"
+      - "bx_max"
+      - "by_avg"
+      - "by_min"
+      - "by_max"
+      - "bz_avg"
+      - "bz_min"
+      - "bz_max"
+      - "bt_avg"
+      - "bt_min"
+      - "bt_max"
+      - "ap30"
+
+    gnn_variable_groups:
+      v: ["v_avg", "v_min", "v_max"]
+      np: ["np_avg", "np_min", "np_max"]
+      t: ["t_avg", "t_min", "t_max"]
+      bx: ["bx_avg", "bx_min", "bx_max"]
+      by: ["by_avg", "by_min", "by_max"]
+      bz: ["bz_avg", "bz_min", "bz_max"]
+      bt: ["bt_avg", "bt_min", "bt_max"]
+      ap30: ["ap30"]
+
+    target_variables:
+      - "ap30"

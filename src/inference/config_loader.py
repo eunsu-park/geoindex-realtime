@@ -50,10 +50,12 @@ def load_config(realtime_yaml: Optional[Path] = None) -> DictConfig:
     combinations can be selected without modifying this loader.
 
     Merge order (later overrides earlier):
-      1. `configs/profile/base.yaml` — variables, normalization, model defaults
-      2. `configs/profile/io/{profile.io}.yaml` — window indices
-      3. `configs/profile/model/{profile.model}.yaml` — model selector
-      4. `{realtime_yaml}` — runtime knobs (paths, URLs, analysis toggles)
+      1. `configs/profile/base.yaml` — normalization, model defaults
+      2. `configs/profile/target/{profile.target}.yaml` — input_variables,
+         gnn_variable_groups, target_variables (default: ap30)
+      3. `configs/profile/io/{profile.io}.yaml` — window indices
+      4. `configs/profile/model/{profile.model}.yaml` — model selector
+      5. `{realtime_yaml}` — runtime knobs (paths, URLs, analysis toggles)
 
     Args:
         realtime_yaml: Optional override for the runtime YAML path.
@@ -68,6 +70,7 @@ def load_config(realtime_yaml: Optional[Path] = None) -> DictConfig:
     profile_dir = root / "configs" / "profile"
     io_dir = profile_dir / "io"
     model_dir = profile_dir / "model"
+    target_dir = profile_dir / "target"
     default_runtime = root / "configs" / "realtime.yaml"
     runtime_path = Path(realtime_yaml) if realtime_yaml else default_runtime
 
@@ -77,10 +80,16 @@ def load_config(realtime_yaml: Optional[Path] = None) -> DictConfig:
                                     fragments_dir=io_dir)
     model_path = _resolve_profile_name(runtime, "model", default="gnn_transformer",
                                        fragments_dir=model_dir)
+    target_path = _resolve_profile_name(runtime, "target", default="ap30",
+                                        fragments_dir=target_dir)
 
     base = OmegaConf.load(profile_dir / "base.yaml")
+    target_cfg = OmegaConf.load(target_path)
     io_cfg = OmegaConf.load(io_path)
     model_cfg = OmegaConf.load(model_path)
 
-    merged = OmegaConf.merge(base, io_cfg, model_cfg, runtime)
+    # target must precede io/model/runtime so its input_variables /
+    # gnn_variable_groups / target_variables land intact (base intentionally
+    # omits them, so there is no GNN node dict to deep-merge against).
+    merged = OmegaConf.merge(base, target_cfg, io_cfg, model_cfg, runtime)
     return merged

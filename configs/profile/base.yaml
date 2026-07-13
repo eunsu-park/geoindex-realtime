@@ -30,42 +30,10 @@ data:
     target_start: null
     target_end: null
 
-    input_variables:
-      - "v_avg"
-      - "v_min"
-      - "v_max"
-      - "np_avg"
-      - "np_min"
-      - "np_max"
-      - "t_avg"
-      - "t_min"
-      - "t_max"
-      - "bx_avg"
-      - "bx_min"
-      - "bx_max"
-      - "by_avg"
-      - "by_min"
-      - "by_max"
-      - "bz_avg"
-      - "bz_min"
-      - "bz_max"
-      - "bt_avg"
-      - "bt_min"
-      - "bt_max"
-      - "ap30"
-
-    gnn_variable_groups:
-      v: ["v_avg", "v_min", "v_max"]
-      np: ["np_avg", "np_min", "np_max"]
-      t: ["t_avg", "t_min", "t_max"]
-      bx: ["bx_avg", "bx_min", "bx_max"]
-      by: ["by_avg", "by_min", "by_max"]
-      bz: ["bz_avg", "bz_min", "bz_max"]
-      bt: ["bt_avg", "bt_min", "bt_max"]
-      ap30: ["ap30"]
-
-    target_variables:
-      - "ap30"
+    # input_variables, gnn_variable_groups and target_variables are supplied by
+    # the target overlay (configs/profile/target/{ap30,hp30}.yaml), selected via
+    # profile.target in the runtime yaml. Keeping them out of base.yaml lets a
+    # target fully replace the GNN node dict instead of deep-merging it.
 
     normalization:
       default: "zscore"
