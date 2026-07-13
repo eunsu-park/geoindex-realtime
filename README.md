@@ -33,7 +33,7 @@ All vendored dependencies (downloader, normalizer, model code) live under
 ## Quick Start
 
 ```bash
-conda activate ap
+conda activate geoindex
 pip install -r requirements.txt
 
 # Windows (default) — assumes workspace at D:/realtime/ with the standard layout
