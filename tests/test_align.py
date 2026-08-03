@@ -183,3 +183,33 @@ class TestWindowShape:
         stamps = pd.to_datetime(result.frame["datetime"])
         assert stamps.iloc[-1] == result.t_end
         assert (stamps.diff().dropna() == pd.Timedelta(minutes=30)).all()
+
+
+class TestAnchorBinIsComplete:
+    """A bin labelled t covers [t, t+30), so an anchor at t is only honest once t+30 has passed.
+
+    Below 30 minutes of offset the newest boundary is an interval that has barely begun: at
+    12:03 the 12:00 bin holds three minutes, and the expected `max - min` span of a 2-minute
+    bin is about 28 % of a full one. Fourteen of the 21 wind inputs are min/max columns and
+    every training row was a complete 30-minute aggregate, so a partial anchor row hands the
+    model a compressed spread it never saw.
+    """
+
+    @pytest.mark.parametrize("now_minute,missing_tail", [(3, 2), (3, 1), (3, 0),
+                                                         (29, 2), (31, 0)])
+    def test_the_anchor_interval_has_finished(self, now_minute, missing_tail):
+        grid = _grid()
+        now = pd.Timestamp(f"2026-07-05 12:{now_minute:02d}:00")
+        result = align(_sw(grid), _hpo(grid, missing_tail=missing_tail), now=now,
+                       lookback_steps=LOOKBACK, boundary_offset_minutes=30,
+                       anchor_rollback_max_attempts=4)
+        assert result.t_end + pd.Timedelta(minutes=30) <= now
+
+    def test_a_short_offset_can_select_an_unfinished_interval(self):
+        """Why the default is 30: with the old value the anchor bin is still in progress."""
+        grid = _grid()
+        now = pd.Timestamp("2026-07-05 12:03:00")
+        result = align(_sw(grid), _hpo(grid, missing_tail=0), now=now,
+                       lookback_steps=LOOKBACK, boundary_offset_minutes=2,
+                       anchor_rollback_max_attempts=4)
+        assert result.t_end + pd.Timedelta(minutes=30) > now

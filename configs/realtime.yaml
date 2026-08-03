@@ -39,7 +39,13 @@ sources:
 window:
   lookback_steps: 24                      # 12 hours × 2 steps/hour
   forecast_steps: 24                      # 12 hours × 2 steps/hour
-  boundary_offset_minutes: 2
+  # A bin labelled t covers [t, t+30), so the newest boundary is an interval that has barely
+  # begun: at 12:03 the 12:00 bin holds three minutes, and a 2-minute bin's v_min/v_max span is
+  # ~28 % of a full one -- 14 of the 21 wind inputs are min/max columns, and training rows were
+  # always complete 30-minute aggregates. 30 makes the anchor bin complete by construction
+  # rather than relying on the GFZ nowcast being late, and costs nothing: the tail guard already
+  # rolls the anchor past it. See docs/geoindex-realtime/clock-audit-2026-08.md §3.
+  boundary_offset_minutes: 30
 
 runtime:
   device: "cpu"

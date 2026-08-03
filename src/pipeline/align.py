@@ -77,7 +77,9 @@ def align(
         now: Reference wall-clock time (usually datetime.utcnow()).
         lookback_steps: Number of 30-min steps in the output window (default 96).
         boundary_offset_minutes: Safety margin past :00/:30 before trusting the
-            newest bin.
+            newest bin. Bins are left-labelled, so a value below 30 can select an
+            interval that has barely begun and hand the model a partial aggregate
+            whose min/max span is far narrower than any training row's.
         max_gap_fraction: Reject the run if a single column is NaN in more than
             this fraction of steps after forward-filling.
         ffill_limit_steps: Maximum consecutive fill length, forward or backward,
