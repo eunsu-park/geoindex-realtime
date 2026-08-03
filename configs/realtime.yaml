@@ -47,7 +47,12 @@ runtime:
     max_gap_fraction: 0.10
     ffill_limit_steps: 2
     require_recent_steps_present: 3
-    anchor_rollback_max_attempts: 2
+    # The GFZ Hp30 nowcast for [T, T+30) cannot exist before T+30, so the newest one to
+    # three ap30 rows are routinely missing and the anchor must roll back past them. Two
+    # attempts only just covers the common case and fails on an ordinary publisher hiccup;
+    # four gives two hours of headroom and still refuses when the feed is genuinely stale.
+    # scripts/run_realtime.py sizes the aggregation window from this value.
+    anchor_rollback_max_attempts: 4
 
 analysis:
   plot:

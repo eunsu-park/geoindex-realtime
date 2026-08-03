@@ -1,8 +1,14 @@
 """Align 30-minute solar wind + GFZ HPo frames onto the lookback grid.
 
-This is where the missing-data policy is enforced: forward-fill small gaps,
-rollback the anchor when GFZ nowcast tail is NaN, and raise
-InsufficientDataError when the most recent steps are unusable.
+This is where the missing-data policy is enforced: fill small gaps inside each
+column's observed range, rollback the anchor when the GFZ nowcast tail is NaN,
+and raise InsufficientDataError when the most recent steps are unusable.
+
+The filling must not reach past the last real observation. Until 2026-08 it did:
+ffill(limit=2) followed by an unbounded interpolate(limit_direction="both") padded
+trailing NaNs with the last valid value, which removed the very NaNs the recency
+guard, the residual check, the rollback loop and InsufficientDataError were all
+written to detect. See docs/geoindex-realtime/clock-audit-2026-08.md.
 """
 
 from __future__ import annotations
@@ -74,8 +80,10 @@ def align(
             newest bin.
         max_gap_fraction: Reject the run if a single column is NaN in more than
             this fraction of steps after forward-filling.
-        ffill_limit_steps: Maximum consecutive forward-fill length before
-            falling back to linear interpolation.
+        ffill_limit_steps: Maximum consecutive fill length, forward or backward,
+            before falling back to linear interpolation. Applies to gaps inside a
+            column's observed range only; trailing NaNs are preserved so the
+            recency guard and the anchor rollback can see them.
         require_recent_steps_present: Number of most-recent steps that must be
             non-NaN after filling; otherwise rollback or raise.
         anchor_rollback_max_attempts: How many times to roll `t_end` back by
@@ -110,8 +118,18 @@ def align(
         before_nan = merged.isna().sum().sum()
         total_cells = merged.size
 
+        # Fill gaps INSIDE each column's observed range only. A trailing NaN means the
+        # publisher has not released that interval yet -- the GFZ Hp30 nowcast for
+        # [T, T+30) cannot exist before T+30, so the newest one to three ap30 rows are
+        # always missing -- and the guards below are written to detect exactly that.
+        # Filling it forward hides the condition and hands the model a fabricated anchor
+        # asserting the index has stopped moving, which is worst during a rising storm.
+        # `before_last` is True at or before each column's last real observation.
+        before_last = merged.notna()[::-1].cummax()[::-1]
         filled = merged.ffill(limit=ffill_limit_steps)
-        filled = filled.interpolate(method="linear", limit_direction="both")
+        filled = filled.interpolate(method="linear", limit_area="inside")
+        filled = filled.bfill(limit=ffill_limit_steps)
+        filled = filled.where(before_last)
 
         after_nan = filled.isna().sum().sum()
         filled_fraction = float((before_nan - after_nan) / max(total_cells, 1))

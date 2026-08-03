@@ -175,8 +175,12 @@ def main() -> int:
     # Floor the window boundaries to :00/:30 so the aggregation grid matches the
     # resample output and doesn't produce spurious all-NaN reindexed rows.
     lookback_steps = int(cfg.window.lookback_steps)
+    # Derive the slack from the rollback budget rather than hard-coding it: a rollback of N
+    # steps starts the window N steps earlier, and if the aggregation does not reach that far
+    # the rolled-back window is all-NaN at its tail and the run fails for the wrong reason.
+    rollback_steps = int(cfg.runtime.missing_data.anchor_rollback_max_attempts)
     now_ts = pd.Timestamp(now).floor("30min")
-    agg_start = now_ts - pd.Timedelta(minutes=30 * (lookback_steps + 6))
+    agg_start = now_ts - pd.Timedelta(minutes=30 * (lookback_steps + rollback_steps + 2))
     agg_end = now_ts + pd.Timedelta(minutes=30)
     sw_30min = aggregate_30min(swpc_1min, start=agg_start.to_pydatetime(),
                                end=agg_end.to_pydatetime())
