@@ -8,6 +8,12 @@ Example:
     python scripts/run_realtime.py
     python scripts/run_realtime.py --now 2026-04-19T12:00:00 --device cpu --verbose
     python scripts/run_realtime.py --dry-run        # use tests/fixtures/
+
+Exit codes:
+    0  a forecast was produced and written
+    2  an upstream feed (NOAA or GFZ) did not answer -- transient, keep the previous forecast
+    3  the feeds answered but the window could not be filled -- transient, same handling
+    1  anything else (a real error)
 """
 
 from __future__ import annotations
@@ -43,6 +49,12 @@ from src.pipeline.event_builder import build_event_csv  # noqa: E402
 from src._vendor.normalizer import Normalizer  # noqa: E402
 
 logger = logging.getLogger("realtime")
+
+# Exit codes. 2 and 3 are both "transient data gap, keep the previous forecast"; they are
+# distinct so the published run status can say WHICH, which the archive could not before.
+EXIT_OK = 0
+EXIT_FEED_UNREACHABLE = 2      # NOAA or GFZ did not answer
+EXIT_SPARSE_DATA = 3           # feeds answered; align() could not build a dense window
 
 
 def parse_args() -> argparse.Namespace:
@@ -179,12 +191,14 @@ def main() -> int:
         try:
             swpc_1min, hpo = _fetch_live(cfg, cache_root)
         except Exception as exc:  # noqa: BLE001
-            # An upstream feed (NOAA/GFZ) being unreachable is a transient data
-            # gap, not a pipeline error. Exit 2 (same as InsufficientDataError)
-            # so the site shows a "waiting for next cycle" warning instead of a
-            # hard error, and the previous forecast is preserved.
+            # An upstream feed being unreachable is a transient data gap, not a pipeline
+            # error, so the caller shows "waiting for next cycle" and keeps the previous
+            # forecast. It is reported separately from EXIT_SPARSE_DATA: the published
+            # status could not tell a dead feed from data too sparse to align, and 523 of
+            # the 908 missing anchors over 2026-06/07 are unexplained short gaps that need
+            # exactly that distinction to diagnose.
             logger.error("Upstream fetch failed (treating as data gap): %s", exc)
-            return 2
+            return EXIT_FEED_UNREACHABLE
 
     # Aggregate 1-min → 30-min, covering a window that comfortably spans the lookback.
     # Floor the window boundaries to :00/:30 so the aggregation grid matches the
@@ -215,8 +229,10 @@ def main() -> int:
             anchor_rollback_max_attempts=int(md.anchor_rollback_max_attempts),
         )
     except InsufficientDataError as exc:
+        # The feeds answered, but what they returned could not fill a dense window even
+        # after rolling the anchor back.
         logger.error("%s", exc)
-        return 2
+        return EXIT_SPARSE_DATA
 
     # Materialize the event CSV with the training-schema column order.
     input_vars = list(cfg.data.timeseries.input_variables)
