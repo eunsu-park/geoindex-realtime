@@ -1,0 +1,10838 @@
+[
+{
+"time_tag": "2026-07-04T16:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.36",
+"by_gsm": "5.14",
+"bz_gsm": "0.67",
+"bt": "4.16"
+},
+{
+"time_tag": "2026-07-04T16:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.87",
+"by_gsm": "-2.43",
+"bz_gsm": "-0.34",
+"bt": "5.30"
+},
+{
+"time_tag": "2026-07-04T16:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.57",
+"by_gsm": "2.39",
+"bz_gsm": "2.55",
+"bt": "6.16"
+},
+{
+"time_tag": "2026-07-04T16:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.72",
+"by_gsm": "-1.11",
+"bz_gsm": "-2.00",
+"bt": "5.44"
+},
+{
+"time_tag": "2026-07-04T16:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-7.58",
+"by_gsm": "-4.29",
+"bz_gsm": "1.02",
+"bt": "4.40"
+},
+{
+"time_tag": "2026-07-04T16:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.03",
+"by_gsm": "4.86",
+"bz_gsm": "-0.14",
+"bt": "4.91"
+},
+{
+"time_tag": "2026-07-04T16:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.98",
+"by_gsm": "-8.89",
+"bz_gsm": "-0.60",
+"bt": "4.61"
+},
+{
+"time_tag": "2026-07-04T16:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.30",
+"by_gsm": "-3.08",
+"bz_gsm": "-1.79",
+"bt": "3.90"
+},
+{
+"time_tag": "2026-07-04T16:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.54",
+"by_gsm": "1.42",
+"bz_gsm": "-0.17",
+"bt": "3.95"
+},
+{
+"time_tag": "2026-07-04T16:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.89",
+"by_gsm": "-1.34",
+"bz_gsm": "-3.24",
+"bt": "4.97"
+},
+{
+"time_tag": "2026-07-04T16:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.42",
+"by_gsm": "2.54",
+"bz_gsm": "-3.07",
+"bt": "5.41"
+},
+{
+"time_tag": "2026-07-04T16:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.53",
+"by_gsm": "-0.44",
+"bz_gsm": "0.26",
+"bt": "3.37"
+},
+{
+"time_tag": "2026-07-04T16:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.82",
+"by_gsm": "-1.67",
+"bz_gsm": "-3.37",
+"bt": "4.87"
+},
+{
+"time_tag": "2026-07-04T16:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.74",
+"by_gsm": "7.48",
+"bz_gsm": "1.42",
+"bt": "5.38"
+},
+{
+"time_tag": "2026-07-04T16:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.38",
+"by_gsm": "-0.86",
+"bz_gsm": "-1.32",
+"bt": "5.03"
+},
+{
+"time_tag": "2026-07-04T16:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.98",
+"by_gsm": "-0.64",
+"bz_gsm": "-0.48",
+"bt": "4.04"
+},
+{
+"time_tag": "2026-07-04T16:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.30",
+"by_gsm": "-3.88",
+"bz_gsm": "-0.76",
+"bt": "5.85"
+},
+{
+"time_tag": "2026-07-04T16:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.24",
+"by_gsm": "-2.70",
+"bz_gsm": "-0.21",
+"bt": "3.85"
+},
+{
+"time_tag": "2026-07-04T16:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.58",
+"by_gsm": "2.19",
+"bz_gsm": "-1.33",
+"bt": "5.50"
+},
+{
+"time_tag": "2026-07-04T16:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.77",
+"by_gsm": "1.90",
+"bz_gsm": "-1.47",
+"bt": "6.34"
+},
+{
+"time_tag": "2026-07-04T16:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.00",
+"by_gsm": "-0.07",
+"bz_gsm": "-1.08",
+"bt": "3.12"
+},
+{
+"time_tag": "2026-07-04T16:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.77",
+"by_gsm": "-2.53",
+"bz_gsm": "0.80",
+"bt": "5.15"
+},
+{
+"time_tag": "2026-07-04T16:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.32",
+"by_gsm": "2.33",
+"bz_gsm": "0.93",
+"bt": "5.20"
+},
+{
+"time_tag": "2026-07-04T16:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.05",
+"by_gsm": "-6.04",
+"bz_gsm": "1.16",
+"bt": "5.12"
+},
+{
+"time_tag": "2026-07-04T16:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.44",
+"by_gsm": "-1.27",
+"bz_gsm": "-0.29",
+"bt": "4.24"
+},
+{
+"time_tag": "2026-07-04T16:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.01",
+"by_gsm": "-0.95",
+"bz_gsm": "-1.20",
+"bt": "4.65"
+},
+{
+"time_tag": "2026-07-04T16:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.54",
+"by_gsm": "-3.03",
+"bz_gsm": "-3.57",
+"bt": "3.69"
+},
+{
+"time_tag": "2026-07-04T16:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.11",
+"by_gsm": "0.47",
+"bz_gsm": "0.15",
+"bt": "5.04"
+},
+{
+"time_tag": "2026-07-04T16:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.86",
+"by_gsm": "-2.40",
+"bz_gsm": "0.47",
+"bt": "5.40"
+},
+{
+"time_tag": "2026-07-04T16:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.39",
+"by_gsm": "-2.88",
+"bz_gsm": "-1.52",
+"bt": "4.33"
+},
+{
+"time_tag": "2026-07-04T16:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.74",
+"by_gsm": "6.25",
+"bz_gsm": "0.41",
+"bt": "4.10"
+},
+{
+"time_tag": "2026-07-04T16:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.55",
+"by_gsm": "2.54",
+"bz_gsm": "1.18",
+"bt": "4.50"
+},
+{
+"time_tag": "2026-07-04T16:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.90",
+"by_gsm": "4.14",
+"bz_gsm": "-0.73",
+"bt": "4.91"
+},
+{
+"time_tag": "2026-07-04T16:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-8.12",
+"by_gsm": "0.13",
+"bz_gsm": "0.81",
+"bt": "4.97"
+},
+{
+"time_tag": "2026-07-04T16:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.50",
+"by_gsm": "3.33",
+"bz_gsm": "-0.39",
+"bt": "4.83"
+},
+{
+"time_tag": "2026-07-04T16:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.82",
+"by_gsm": "2.68",
+"bz_gsm": "-3.65",
+"bt": "4.98"
+},
+{
+"time_tag": "2026-07-04T16:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.28",
+"by_gsm": "4.20",
+"bz_gsm": "-1.63",
+"bt": "3.76"
+},
+{
+"time_tag": "2026-07-04T16:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.85",
+"by_gsm": "8.25",
+"bz_gsm": "-1.53",
+"bt": "2.50"
+},
+{
+"time_tag": "2026-07-04T16:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.17",
+"by_gsm": "-0.84",
+"bz_gsm": "-0.03",
+"bt": "5.46"
+},
+{
+"time_tag": "2026-07-04T16:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.62",
+"by_gsm": "0.87",
+"bz_gsm": "-2.26",
+"bt": "6.17"
+},
+{
+"time_tag": "2026-07-04T16:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.98",
+"by_gsm": "-0.22",
+"bz_gsm": "-1.58",
+"bt": "3.66"
+},
+{
+"time_tag": "2026-07-04T16:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.25",
+"by_gsm": "-12.34",
+"bz_gsm": "-2.42",
+"bt": "4.33"
+},
+{
+"time_tag": "2026-07-04T16:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.87",
+"by_gsm": "-4.92",
+"bz_gsm": "-0.94",
+"bt": "5.18"
+},
+{
+"time_tag": "2026-07-04T16:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.71",
+"by_gsm": "0.03",
+"bz_gsm": "-0.77",
+"bt": "5.76"
+},
+{
+"time_tag": "2026-07-04T16:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.36",
+"by_gsm": "2.19",
+"bz_gsm": "0.68",
+"bt": "5.49"
+},
+{
+"time_tag": "2026-07-04T16:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.65",
+"by_gsm": "-2.05",
+"bz_gsm": "0.40",
+"bt": "6.04"
+},
+{
+"time_tag": "2026-07-04T16:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.22",
+"by_gsm": "3.95",
+"bz_gsm": "-0.61",
+"bt": "4.87"
+},
+{
+"time_tag": "2026-07-04T16:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.15",
+"by_gsm": "4.47",
+"bz_gsm": "-0.49",
+"bt": "5.28"
+},
+{
+"time_tag": "2026-07-04T16:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.65",
+"by_gsm": "-1.47",
+"bz_gsm": "-0.70",
+"bt": "5.28"
+},
+{
+"time_tag": "2026-07-04T16:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.95",
+"by_gsm": "4.96",
+"bz_gsm": "-0.70",
+"bt": "4.53"
+},
+{
+"time_tag": "2026-07-04T16:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.08",
+"by_gsm": "6.11",
+"bz_gsm": "1.60",
+"bt": "5.97"
+},
+{
+"time_tag": "2026-07-04T16:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.30",
+"by_gsm": "1.61",
+"bz_gsm": "-4.85",
+"bt": "5.46"
+},
+{
+"time_tag": "2026-07-04T16:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.68",
+"by_gsm": "-3.45",
+"bz_gsm": "-1.16",
+"bt": "5.78"
+},
+{
+"time_tag": "2026-07-04T16:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.84",
+"by_gsm": "5.12",
+"bz_gsm": "-0.38",
+"bt": "4.57"
+},
+{
+"time_tag": "2026-07-04T16:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.46",
+"by_gsm": "-0.59",
+"bz_gsm": "0.93",
+"bt": "5.82"
+},
+{
+"time_tag": "2026-07-04T16:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.14",
+"by_gsm": "-1.33",
+"bz_gsm": "-2.63",
+"bt": "3.98"
+},
+{
+"time_tag": "2026-07-04T16:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.73",
+"by_gsm": "0.40",
+"bz_gsm": "-0.32",
+"bt": "5.26"
+},
+{
+"time_tag": "2026-07-04T16:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.51",
+"by_gsm": "-1.89",
+"bz_gsm": "0.50",
+"bt": "2.61"
+},
+{
+"time_tag": "2026-07-04T16:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.78",
+"by_gsm": "3.75",
+"bz_gsm": "-1.59",
+"bt": "4.02"
+},
+{
+"time_tag": "2026-07-04T16:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.29",
+"by_gsm": "2.72",
+"bz_gsm": "-3.93",
+"bt": "5.56"
+},
+{
+"time_tag": "2026-07-04T17:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.17",
+"by_gsm": "4.26",
+"bz_gsm": "-1.45",
+"bt": "4.51"
+},
+{
+"time_tag": "2026-07-04T17:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.09",
+"by_gsm": "2.03",
+"bz_gsm": "-2.80",
+"bt": "5.06"
+},
+{
+"time_tag": "2026-07-04T17:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.71",
+"by_gsm": "-2.78",
+"bz_gsm": "0.16",
+"bt": "3.48"
+},
+{
+"time_tag": "2026-07-04T17:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.56",
+"by_gsm": "-0.56",
+"bz_gsm": "-2.24",
+"bt": "6.28"
+},
+{
+"time_tag": "2026-07-04T17:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.88",
+"by_gsm": "3.06",
+"bz_gsm": "1.97",
+"bt": "5.44"
+},
+{
+"time_tag": "2026-07-04T17:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.49",
+"by_gsm": "-1.42",
+"bz_gsm": "-0.65",
+"bt": "4.89"
+},
+{
+"time_tag": "2026-07-04T17:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.82",
+"by_gsm": "10.22",
+"bz_gsm": "-2.17",
+"bt": "5.28"
+},
+{
+"time_tag": "2026-07-04T17:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-7.63",
+"by_gsm": "-0.85",
+"bz_gsm": "-1.68",
+"bt": "5.20"
+},
+{
+"time_tag": "2026-07-04T17:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.54",
+"by_gsm": "-2.05",
+"bz_gsm": "-2.62",
+"bt": "6.16"
+},
+{
+"time_tag": "2026-07-04T17:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.09",
+"by_gsm": "4.02",
+"bz_gsm": "-0.25",
+"bt": "5.10"
+},
+{
+"time_tag": "2026-07-04T17:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "7.70",
+"by_gsm": "2.62",
+"bz_gsm": "1.51",
+"bt": "3.61"
+},
+{
+"time_tag": "2026-07-04T17:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.28",
+"by_gsm": "-0.10",
+"bz_gsm": "-1.22",
+"bt": "4.69"
+},
+{
+"time_tag": "2026-07-04T17:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.44",
+"by_gsm": "-0.81",
+"bz_gsm": "0.60",
+"bt": "6.04"
+},
+{
+"time_tag": "2026-07-04T17:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.69",
+"by_gsm": "1.49",
+"bz_gsm": "-2.38",
+"bt": "5.41"
+},
+{
+"time_tag": "2026-07-04T17:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.68",
+"by_gsm": "2.92",
+"bz_gsm": "-0.38",
+"bt": "4.54"
+},
+{
+"time_tag": "2026-07-04T17:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.81",
+"by_gsm": "2.67",
+"bz_gsm": "2.81",
+"bt": "5.45"
+},
+{
+"time_tag": "2026-07-04T17:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.60",
+"by_gsm": "-1.06",
+"bz_gsm": "-3.13",
+"bt": "5.01"
+},
+{
+"time_tag": "2026-07-04T17:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.31",
+"by_gsm": "1.51",
+"bz_gsm": "1.10",
+"bt": "5.45"
+},
+{
+"time_tag": "2026-07-04T17:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.78",
+"by_gsm": "2.95",
+"bz_gsm": "1.00",
+"bt": "3.51"
+},
+{
+"time_tag": "2026-07-04T17:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.53",
+"by_gsm": "2.68",
+"bz_gsm": "-3.88",
+"bt": "4.12"
+},
+{
+"time_tag": "2026-07-04T17:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.18",
+"by_gsm": "-10.80",
+"bz_gsm": "-3.17",
+"bt": "5.50"
+},
+{
+"time_tag": "2026-07-04T17:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.85",
+"by_gsm": "-3.12",
+"bz_gsm": "-2.44",
+"bt": "4.71"
+},
+{
+"time_tag": "2026-07-04T17:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.49",
+"by_gsm": "-2.72",
+"bz_gsm": "0.67",
+"bt": "5.22"
+},
+{
+"time_tag": "2026-07-04T17:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.15",
+"by_gsm": "-0.81",
+"bz_gsm": "-1.56",
+"bt": "6.63"
+},
+{
+"time_tag": "2026-07-04T17:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.57",
+"by_gsm": "0.63",
+"bz_gsm": "-1.14",
+"bt": "4.64"
+},
+{
+"time_tag": "2026-07-04T17:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.91",
+"by_gsm": "3.23",
+"bz_gsm": "0.25",
+"bt": "5.12"
+},
+{
+"time_tag": "2026-07-04T17:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.29",
+"by_gsm": "2.16",
+"bz_gsm": "-0.69",
+"bt": "4.42"
+},
+{
+"time_tag": "2026-07-04T17:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.76",
+"by_gsm": "-0.44",
+"bz_gsm": "-0.52",
+"bt": "4.36"
+},
+{
+"time_tag": "2026-07-04T17:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.49",
+"by_gsm": "0.08",
+"bz_gsm": "-1.39",
+"bt": "4.84"
+},
+{
+"time_tag": "2026-07-04T17:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.36",
+"by_gsm": "6.16",
+"bz_gsm": "0.92",
+"bt": "3.63"
+},
+{
+"time_tag": "2026-07-04T17:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.43",
+"by_gsm": "-2.14",
+"bz_gsm": "-2.12",
+"bt": "3.06"
+},
+{
+"time_tag": "2026-07-04T17:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.79",
+"by_gsm": "1.07",
+"bz_gsm": "1.80",
+"bt": "6.11"
+},
+{
+"time_tag": "2026-07-04T17:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.23",
+"by_gsm": "5.48",
+"bz_gsm": "-1.42",
+"bt": "4.82"
+},
+{
+"time_tag": "2026-07-04T17:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.73",
+"by_gsm": "1.21",
+"bz_gsm": "-2.15",
+"bt": "5.90"
+},
+{
+"time_tag": "2026-07-04T17:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.64",
+"by_gsm": "-7.15",
+"bz_gsm": "0.16",
+"bt": "5.02"
+},
+{
+"time_tag": "2026-07-04T17:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.23",
+"by_gsm": "1.31",
+"bz_gsm": "-0.16",
+"bt": "5.04"
+},
+{
+"time_tag": "2026-07-04T17:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.07",
+"by_gsm": "-1.36",
+"bz_gsm": "-4.05",
+"bt": "5.50"
+},
+{
+"time_tag": "2026-07-04T17:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.33",
+"by_gsm": "-0.40",
+"bz_gsm": "-0.53",
+"bt": "5.54"
+},
+{
+"time_tag": "2026-07-04T17:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.75",
+"by_gsm": "3.68",
+"bz_gsm": "-3.04",
+"bt": "3.85"
+},
+{
+"time_tag": "2026-07-04T17:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.09",
+"by_gsm": "1.64",
+"bz_gsm": "-2.21",
+"bt": "5.97"
+},
+{
+"time_tag": "2026-07-04T17:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.93",
+"by_gsm": "-0.92",
+"bz_gsm": "0.38",
+"bt": "4.06"
+},
+{
+"time_tag": "2026-07-04T17:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.60",
+"by_gsm": "3.12",
+"bz_gsm": "-2.26",
+"bt": "5.09"
+},
+{
+"time_tag": "2026-07-04T17:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.18",
+"by_gsm": "1.52",
+"bz_gsm": "-0.31",
+"bt": "7.16"
+},
+{
+"time_tag": "2026-07-04T17:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.95",
+"by_gsm": "0.37",
+"bz_gsm": "-1.49",
+"bt": "4.98"
+},
+{
+"time_tag": "2026-07-04T17:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.93",
+"by_gsm": "1.05",
+"bz_gsm": "2.21",
+"bt": "6.38"
+},
+{
+"time_tag": "2026-07-04T17:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.61",
+"by_gsm": "0.89",
+"bz_gsm": "-1.04",
+"bt": "4.61"
+},
+{
+"time_tag": "2026-07-04T17:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.02",
+"by_gsm": "-1.19",
+"bz_gsm": "-2.76",
+"bt": "5.45"
+},
+{
+"time_tag": "2026-07-04T17:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.06",
+"by_gsm": "-1.61",
+"bz_gsm": "-2.65",
+"bt": "4.96"
+},
+{
+"time_tag": "2026-07-04T17:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.19",
+"by_gsm": "0.09",
+"bz_gsm": "-2.33",
+"bt": "5.28"
+},
+{
+"time_tag": "2026-07-04T17:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.14",
+"by_gsm": "-3.34",
+"bz_gsm": "-0.68",
+"bt": "4.16"
+},
+{
+"time_tag": "2026-07-04T17:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.97",
+"by_gsm": "-4.41",
+"bz_gsm": "-0.89",
+"bt": "4.10"
+},
+{
+"time_tag": "2026-07-04T17:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.22",
+"by_gsm": "4.55",
+"bz_gsm": "0.66",
+"bt": "5.21"
+},
+{
+"time_tag": "2026-07-04T17:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.54",
+"by_gsm": "-0.84",
+"bz_gsm": "-0.62",
+"bt": "3.54"
+},
+{
+"time_tag": "2026-07-04T17:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.26",
+"by_gsm": "-0.08",
+"bz_gsm": "-0.68",
+"bt": "4.17"
+},
+{
+"time_tag": "2026-07-04T17:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.29",
+"by_gsm": "-0.47",
+"bz_gsm": "-0.37",
+"bt": "5.48"
+},
+{
+"time_tag": "2026-07-04T17:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.09",
+"by_gsm": "0.08",
+"bz_gsm": "-1.10",
+"bt": "4.37"
+},
+{
+"time_tag": "2026-07-04T17:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.53",
+"by_gsm": "0.08",
+"bz_gsm": "-0.42",
+"bt": "4.13"
+},
+{
+"time_tag": "2026-07-04T17:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.77",
+"by_gsm": "0.23",
+"bz_gsm": "0.36",
+"bt": "3.94"
+},
+{
+"time_tag": "2026-07-04T17:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.32",
+"by_gsm": "-2.82",
+"bz_gsm": "0.36",
+"bt": "5.04"
+},
+{
+"time_tag": "2026-07-04T17:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.54",
+"by_gsm": "3.26",
+"bz_gsm": "-1.77",
+"bt": "4.59"
+},
+{
+"time_tag": "2026-07-04T18:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.42",
+"by_gsm": "-2.42",
+"bz_gsm": "-3.72",
+"bt": "5.04"
+},
+{
+"time_tag": "2026-07-04T18:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.20",
+"by_gsm": "3.62",
+"bz_gsm": "-2.19",
+"bt": "4.75"
+},
+{
+"time_tag": "2026-07-04T18:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.44",
+"by_gsm": "-6.72",
+"bz_gsm": "-0.44",
+"bt": "6.54"
+},
+{
+"time_tag": "2026-07-04T18:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.93",
+"by_gsm": "-3.72",
+"bz_gsm": "-4.88",
+"bt": "4.53"
+},
+{
+"time_tag": "2026-07-04T18:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.92",
+"by_gsm": "3.47",
+"bz_gsm": "-1.66",
+"bt": "3.19"
+},
+{
+"time_tag": "2026-07-04T18:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.30",
+"by_gsm": "-0.52",
+"bz_gsm": "-0.18",
+"bt": "5.01"
+},
+{
+"time_tag": "2026-07-04T18:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.32",
+"by_gsm": "-2.35",
+"bz_gsm": "-1.80",
+"bt": "4.91"
+},
+{
+"time_tag": "2026-07-04T18:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.72",
+"by_gsm": "1.31",
+"bz_gsm": "-2.69",
+"bt": "5.05"
+},
+{
+"time_tag": "2026-07-04T18:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.39",
+"by_gsm": "-3.66",
+"bz_gsm": "1.91",
+"bt": "3.50"
+},
+{
+"time_tag": "2026-07-04T18:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.01",
+"by_gsm": "0.27",
+"bz_gsm": "1.32",
+"bt": "5.91"
+},
+{
+"time_tag": "2026-07-04T18:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.02",
+"by_gsm": "-7.75",
+"bz_gsm": "-1.31",
+"bt": "4.88"
+},
+{
+"time_tag": "2026-07-04T18:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.04",
+"by_gsm": "-1.58",
+"bz_gsm": "1.21",
+"bt": "4.87"
+},
+{
+"time_tag": "2026-07-04T18:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.88",
+"by_gsm": "-2.27",
+"bz_gsm": "1.18",
+"bt": "3.52"
+},
+{
+"time_tag": "2026-07-04T18:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.66",
+"by_gsm": "1.89",
+"bz_gsm": "-2.71",
+"bt": "5.33"
+},
+{
+"time_tag": "2026-07-04T18:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.22",
+"by_gsm": "3.07",
+"bz_gsm": "3.38",
+"bt": "4.85"
+},
+{
+"time_tag": "2026-07-04T18:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.97",
+"by_gsm": "-2.99",
+"bz_gsm": "-2.40",
+"bt": "6.10"
+},
+{
+"time_tag": "2026-07-04T18:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.94",
+"by_gsm": "5.63",
+"bz_gsm": "-1.33",
+"bt": "4.55"
+},
+{
+"time_tag": "2026-07-04T18:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.20",
+"by_gsm": "-2.07",
+"bz_gsm": "-2.66",
+"bt": "3.83"
+},
+{
+"time_tag": "2026-07-04T18:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.69",
+"by_gsm": "-7.20",
+"bz_gsm": "-0.78",
+"bt": "5.02"
+},
+{
+"time_tag": "2026-07-04T18:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.44",
+"by_gsm": "-8.33",
+"bz_gsm": "-3.01",
+"bt": "4.11"
+},
+{
+"time_tag": "2026-07-04T18:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.15",
+"by_gsm": "5.39",
+"bz_gsm": "-0.92",
+"bt": "5.28"
+},
+{
+"time_tag": "2026-07-04T18:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.42",
+"by_gsm": "-0.31",
+"bz_gsm": "0.82",
+"bt": "3.96"
+},
+{
+"time_tag": "2026-07-04T18:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.12",
+"by_gsm": "-2.27",
+"bz_gsm": "-0.57",
+"bt": "4.80"
+},
+{
+"time_tag": "2026-07-04T18:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.19",
+"by_gsm": "-2.62",
+"bz_gsm": "-1.33",
+"bt": "4.71"
+},
+{
+"time_tag": "2026-07-04T18:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-8.19",
+"by_gsm": "-3.82",
+"bz_gsm": "1.56",
+"bt": "4.88"
+},
+{
+"time_tag": "2026-07-04T18:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.61",
+"by_gsm": "4.73",
+"bz_gsm": "-2.35",
+"bt": "4.46"
+},
+{
+"time_tag": "2026-07-04T18:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.79",
+"by_gsm": "-0.29",
+"bz_gsm": "0.64",
+"bt": "4.20"
+},
+{
+"time_tag": "2026-07-04T18:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.94",
+"by_gsm": "6.27",
+"bz_gsm": "-1.40",
+"bt": "4.86"
+},
+{
+"time_tag": "2026-07-04T18:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.69",
+"by_gsm": "-0.70",
+"bz_gsm": "-0.57",
+"bt": "4.40"
+},
+{
+"time_tag": "2026-07-04T18:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.15",
+"by_gsm": "-8.23",
+"bz_gsm": "-0.87",
+"bt": "5.05"
+},
+{
+"time_tag": "2026-07-04T18:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.17",
+"by_gsm": "2.96",
+"bz_gsm": "-0.71",
+"bt": "4.67"
+},
+{
+"time_tag": "2026-07-04T18:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.25",
+"by_gsm": "-1.29",
+"bz_gsm": "-1.00",
+"bt": "2.95"
+},
+{
+"time_tag": "2026-07-04T18:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.54",
+"by_gsm": "-0.83",
+"bz_gsm": "-2.17",
+"bt": "4.86"
+},
+{
+"time_tag": "2026-07-04T18:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.55",
+"by_gsm": "5.49",
+"bz_gsm": "-1.83",
+"bt": "6.13"
+},
+{
+"time_tag": "2026-07-04T18:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.22",
+"by_gsm": "-0.92",
+"bz_gsm": "-0.21",
+"bt": "5.18"
+},
+{
+"time_tag": "2026-07-04T18:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.64",
+"by_gsm": "4.07",
+"bz_gsm": "-1.09",
+"bt": "5.44"
+},
+{
+"time_tag": "2026-07-04T18:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.24",
+"by_gsm": "-0.02",
+"bz_gsm": "-2.78",
+"bt": "5.31"
+},
+{
+"time_tag": "2026-07-04T18:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.37",
+"by_gsm": "-2.63",
+"bz_gsm": "-2.05",
+"bt": "4.50"
+},
+{
+"time_tag": "2026-07-04T18:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.30",
+"by_gsm": "1.78",
+"bz_gsm": "-2.03",
+"bt": "3.75"
+},
+{
+"time_tag": "2026-07-04T18:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.69",
+"by_gsm": "-2.10",
+"bz_gsm": "-1.01",
+"bt": "5.62"
+},
+{
+"time_tag": "2026-07-04T18:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.10",
+"by_gsm": "4.30",
+"bz_gsm": "-0.64",
+"bt": "5.83"
+},
+{
+"time_tag": "2026-07-04T18:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.52",
+"by_gsm": "3.36",
+"bz_gsm": "-0.78",
+"bt": "5.41"
+},
+{
+"time_tag": "2026-07-04T18:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.87",
+"by_gsm": "0.22",
+"bz_gsm": "-1.98",
+"bt": "5.28"
+},
+{
+"time_tag": "2026-07-04T18:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.56",
+"by_gsm": "2.13",
+"bz_gsm": "-0.90",
+"bt": "5.26"
+},
+{
+"time_tag": "2026-07-04T18:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-8.21",
+"by_gsm": "1.98",
+"bz_gsm": "-3.12",
+"bt": "4.89"
+},
+{
+"time_tag": "2026-07-04T18:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.92",
+"by_gsm": "-0.96",
+"bz_gsm": "-5.55",
+"bt": "5.15"
+},
+{
+"time_tag": "2026-07-04T18:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.17",
+"by_gsm": "3.13",
+"bz_gsm": "-1.02",
+"bt": "4.92"
+},
+{
+"time_tag": "2026-07-04T18:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.90",
+"by_gsm": "-0.80",
+"bz_gsm": "-3.58",
+"bt": "5.20"
+},
+{
+"time_tag": "2026-07-04T18:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.90",
+"by_gsm": "2.16",
+"bz_gsm": "-2.45",
+"bt": "4.09"
+},
+{
+"time_tag": "2026-07-04T18:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.75",
+"by_gsm": "-3.33",
+"bz_gsm": "-2.87",
+"bt": "4.36"
+},
+{
+"time_tag": "2026-07-04T18:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.99",
+"by_gsm": "0.36",
+"bz_gsm": "0.07",
+"bt": "5.41"
+},
+{
+"time_tag": "2026-07-04T18:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.00",
+"by_gsm": "1.46",
+"bz_gsm": "-2.88",
+"bt": "4.62"
+},
+{
+"time_tag": "2026-07-04T18:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.34",
+"by_gsm": "-2.76",
+"bz_gsm": "-0.50",
+"bt": "2.81"
+},
+{
+"time_tag": "2026-07-04T18:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.81",
+"by_gsm": "-1.45",
+"bz_gsm": "-1.73",
+"bt": "5.02"
+},
+{
+"time_tag": "2026-07-04T18:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.23",
+"by_gsm": "-1.86",
+"bz_gsm": "-2.93",
+"bt": "2.93"
+},
+{
+"time_tag": "2026-07-04T18:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.67",
+"by_gsm": "2.56",
+"bz_gsm": "-3.47",
+"bt": "6.57"
+},
+{
+"time_tag": "2026-07-04T18:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.60",
+"by_gsm": "-2.51",
+"bz_gsm": "-0.21",
+"bt": "5.54"
+},
+{
+"time_tag": "2026-07-04T18:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.03",
+"by_gsm": "1.55",
+"bz_gsm": "-0.34",
+"bt": "5.50"
+},
+{
+"time_tag": "2026-07-04T18:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.87",
+"by_gsm": "5.35",
+"bz_gsm": "0.28",
+"bt": "4.34"
+},
+{
+"time_tag": "2026-07-04T18:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.10",
+"by_gsm": "1.26",
+"bz_gsm": "1.97",
+"bt": "3.93"
+},
+{
+"time_tag": "2026-07-04T19:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.07",
+"by_gsm": "-5.62",
+"bz_gsm": "-0.52",
+"bt": "4.73"
+},
+{
+"time_tag": "2026-07-04T19:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.12",
+"by_gsm": "0.46",
+"bz_gsm": "-0.51",
+"bt": "4.93"
+},
+{
+"time_tag": "2026-07-04T19:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.61",
+"by_gsm": "3.66",
+"bz_gsm": "-1.16",
+"bt": "4.25"
+},
+{
+"time_tag": "2026-07-04T19:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.13",
+"by_gsm": "-0.98",
+"bz_gsm": "-0.79",
+"bt": "5.05"
+},
+{
+"time_tag": "2026-07-04T19:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.73",
+"by_gsm": "3.91",
+"bz_gsm": "-1.53",
+"bt": "5.51"
+},
+{
+"time_tag": "2026-07-04T19:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.50",
+"by_gsm": "2.19",
+"bz_gsm": "-2.40",
+"bt": "5.43"
+},
+{
+"time_tag": "2026-07-04T19:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.87",
+"by_gsm": "1.50",
+"bz_gsm": "2.22",
+"bt": "4.02"
+},
+{
+"time_tag": "2026-07-04T19:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.03",
+"by_gsm": "-0.89",
+"bz_gsm": "-3.95",
+"bt": "3.04"
+},
+{
+"time_tag": "2026-07-04T19:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.32",
+"by_gsm": "-1.77",
+"bz_gsm": "-0.56",
+"bt": "4.92"
+},
+{
+"time_tag": "2026-07-04T19:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.18",
+"by_gsm": "-0.87",
+"bz_gsm": "-0.26",
+"bt": "4.35"
+},
+{
+"time_tag": "2026-07-04T19:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.96",
+"by_gsm": "0.25",
+"bz_gsm": "-0.73",
+"bt": "5.30"
+},
+{
+"time_tag": "2026-07-04T19:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.15",
+"by_gsm": "1.86",
+"bz_gsm": "-2.51",
+"bt": "6.34"
+},
+{
+"time_tag": "2026-07-04T19:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.60",
+"by_gsm": "1.50",
+"bz_gsm": "-1.28",
+"bt": "6.34"
+},
+{
+"time_tag": "2026-07-04T19:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.28",
+"by_gsm": "-1.02",
+"bz_gsm": "-1.72",
+"bt": "5.17"
+},
+{
+"time_tag": "2026-07-04T19:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.40",
+"by_gsm": "0.26",
+"bz_gsm": "-2.70",
+"bt": "5.88"
+},
+{
+"time_tag": "2026-07-04T19:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.17",
+"by_gsm": "1.39",
+"bz_gsm": "-1.06",
+"bt": "6.34"
+},
+{
+"time_tag": "2026-07-04T19:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.93",
+"by_gsm": "-5.65",
+"bz_gsm": "-1.64",
+"bt": "4.96"
+},
+{
+"time_tag": "2026-07-04T19:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.60",
+"by_gsm": "-2.65",
+"bz_gsm": "-1.87",
+"bt": "5.15"
+},
+{
+"time_tag": "2026-07-04T19:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.77",
+"by_gsm": "-2.76",
+"bz_gsm": "0.11",
+"bt": "5.66"
+},
+{
+"time_tag": "2026-07-04T19:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.26",
+"by_gsm": "-0.67",
+"bz_gsm": "-2.68",
+"bt": "4.89"
+},
+{
+"time_tag": "2026-07-04T19:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.59",
+"by_gsm": "-0.92",
+"bz_gsm": "-0.29",
+"bt": "4.49"
+},
+{
+"time_tag": "2026-07-04T19:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.40",
+"by_gsm": "-0.86",
+"bz_gsm": "-1.97",
+"bt": "4.27"
+},
+{
+"time_tag": "2026-07-04T19:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.18",
+"by_gsm": "-3.01",
+"bz_gsm": "-0.31",
+"bt": "4.93"
+},
+{
+"time_tag": "2026-07-04T19:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.76",
+"by_gsm": "2.40",
+"bz_gsm": "-0.89",
+"bt": "4.39"
+},
+{
+"time_tag": "2026-07-04T19:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.01",
+"by_gsm": "1.02",
+"bz_gsm": "-0.61",
+"bt": "5.61"
+},
+{
+"time_tag": "2026-07-04T19:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.57",
+"by_gsm": "-5.70",
+"bz_gsm": "-2.57",
+"bt": "4.64"
+},
+{
+"time_tag": "2026-07-04T19:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.48",
+"by_gsm": "0.10",
+"bz_gsm": "-2.24",
+"bt": "6.18"
+},
+{
+"time_tag": "2026-07-04T19:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.62",
+"by_gsm": "-3.89",
+"bz_gsm": "-2.37",
+"bt": "5.97"
+},
+{
+"time_tag": "2026-07-04T19:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.24",
+"by_gsm": "6.01",
+"bz_gsm": "-0.72",
+"bt": "3.86"
+},
+{
+"time_tag": "2026-07-04T19:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.74",
+"by_gsm": "-1.54",
+"bz_gsm": "0.19",
+"bt": "5.86"
+},
+{
+"time_tag": "2026-07-04T19:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.37",
+"by_gsm": "-1.33",
+"bz_gsm": "0.72",
+"bt": "4.58"
+},
+{
+"time_tag": "2026-07-04T19:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.77",
+"by_gsm": "0.35",
+"bz_gsm": "-1.81",
+"bt": "6.11"
+},
+{
+"time_tag": "2026-07-04T19:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.65",
+"by_gsm": "-0.65",
+"bz_gsm": "-0.87",
+"bt": "5.37"
+},
+{
+"time_tag": "2026-07-04T19:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.46",
+"by_gsm": "-0.15",
+"bz_gsm": "-3.59",
+"bt": "4.89"
+},
+{
+"time_tag": "2026-07-04T19:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.08",
+"by_gsm": "5.47",
+"bz_gsm": "-4.55",
+"bt": "5.51"
+},
+{
+"time_tag": "2026-07-04T19:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.20",
+"by_gsm": "0.85",
+"bz_gsm": "-2.39",
+"bt": "4.45"
+},
+{
+"time_tag": "2026-07-04T19:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.71",
+"by_gsm": "2.98",
+"bz_gsm": "-2.07",
+"bt": "5.21"
+},
+{
+"time_tag": "2026-07-04T19:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.66",
+"by_gsm": "4.00",
+"bz_gsm": "-3.49",
+"bt": "5.26"
+},
+{
+"time_tag": "2026-07-04T19:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.53",
+"by_gsm": "-3.35",
+"bz_gsm": "-3.85",
+"bt": "4.80"
+},
+{
+"time_tag": "2026-07-04T19:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.45",
+"by_gsm": "5.97",
+"bz_gsm": "-0.16",
+"bt": "5.26"
+},
+{
+"time_tag": "2026-07-04T19:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.37",
+"by_gsm": "2.47",
+"bz_gsm": "-2.30",
+"bt": "4.07"
+},
+{
+"time_tag": "2026-07-04T19:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.62",
+"by_gsm": "3.41",
+"bz_gsm": "-3.70",
+"bt": "5.41"
+},
+{
+"time_tag": "2026-07-04T19:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.65",
+"by_gsm": "-2.96",
+"bz_gsm": "2.69",
+"bt": "3.89"
+},
+{
+"time_tag": "2026-07-04T19:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.30",
+"by_gsm": "2.92",
+"bz_gsm": "-0.75",
+"bt": "5.47"
+},
+{
+"time_tag": "2026-07-04T19:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.13",
+"by_gsm": "1.51",
+"bz_gsm": "-1.53",
+"bt": "5.34"
+},
+{
+"time_tag": "2026-07-04T19:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.14",
+"by_gsm": "-1.82",
+"bz_gsm": "0.06",
+"bt": "5.54"
+},
+{
+"time_tag": "2026-07-04T19:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.08",
+"by_gsm": "8.05",
+"bz_gsm": "-2.24",
+"bt": "4.46"
+},
+{
+"time_tag": "2026-07-04T19:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.58",
+"by_gsm": "2.05",
+"bz_gsm": "1.51",
+"bt": "7.54"
+},
+{
+"time_tag": "2026-07-04T19:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.30",
+"by_gsm": "-0.77",
+"bz_gsm": "-3.48",
+"bt": "4.74"
+},
+{
+"time_tag": "2026-07-04T19:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.59",
+"by_gsm": "0.74",
+"bz_gsm": "-3.11",
+"bt": "5.07"
+},
+{
+"time_tag": "2026-07-04T19:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.06",
+"by_gsm": "3.25",
+"bz_gsm": "-1.25",
+"bt": "4.29"
+},
+{
+"time_tag": "2026-07-04T19:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.16",
+"by_gsm": "4.02",
+"bz_gsm": "-2.25",
+"bt": "6.17"
+},
+{
+"time_tag": "2026-07-04T19:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.80",
+"by_gsm": "2.10",
+"bz_gsm": "1.22",
+"bt": "4.54"
+},
+{
+"time_tag": "2026-07-04T19:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.48",
+"by_gsm": "4.33",
+"bz_gsm": "-3.59",
+"bt": "5.79"
+},
+{
+"time_tag": "2026-07-04T19:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.84",
+"by_gsm": "5.21",
+"bz_gsm": "-2.20",
+"bt": "4.13"
+},
+{
+"time_tag": "2026-07-04T19:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.36",
+"by_gsm": "-4.25",
+"bz_gsm": "-0.66",
+"bt": "5.21"
+},
+{
+"time_tag": "2026-07-04T19:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.80",
+"by_gsm": "-1.63",
+"bz_gsm": "-0.14",
+"bt": "4.63"
+},
+{
+"time_tag": "2026-07-04T19:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.95",
+"by_gsm": "-3.22",
+"bz_gsm": "0.56",
+"bt": "5.74"
+},
+{
+"time_tag": "2026-07-04T19:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.34",
+"by_gsm": "0.41",
+"bz_gsm": "-0.50",
+"bt": "4.70"
+},
+{
+"time_tag": "2026-07-04T19:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.04",
+"by_gsm": "5.12",
+"bz_gsm": "2.47",
+"bt": "4.21"
+},
+{
+"time_tag": "2026-07-04T20:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.00",
+"by_gsm": "2.35",
+"bz_gsm": "-1.80",
+"bt": "5.33"
+},
+{
+"time_tag": "2026-07-04T20:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.12",
+"by_gsm": "-3.59",
+"bz_gsm": "-0.77",
+"bt": "3.93"
+},
+{
+"time_tag": "2026-07-04T20:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.40",
+"by_gsm": "-0.96",
+"bz_gsm": "0.32",
+"bt": "4.13"
+},
+{
+"time_tag": "2026-07-04T20:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.60",
+"by_gsm": "3.67",
+"bz_gsm": "-1.55",
+"bt": "5.61"
+},
+{
+"time_tag": "2026-07-04T20:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.66",
+"by_gsm": "-1.79",
+"bz_gsm": "-1.52",
+"bt": "3.35"
+},
+{
+"time_tag": "2026-07-04T20:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.47",
+"by_gsm": "-0.27",
+"bz_gsm": "-1.79",
+"bt": "5.60"
+},
+{
+"time_tag": "2026-07-04T20:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.78",
+"by_gsm": "1.14",
+"bz_gsm": "-2.08",
+"bt": "4.61"
+},
+{
+"time_tag": "2026-07-04T20:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.51",
+"by_gsm": "-6.31",
+"bz_gsm": "-2.86",
+"bt": "4.17"
+},
+{
+"time_tag": "2026-07-04T20:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.99",
+"by_gsm": "2.80",
+"bz_gsm": "-1.94",
+"bt": "5.16"
+},
+{
+"time_tag": "2026-07-04T20:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.15",
+"by_gsm": "1.27",
+"bz_gsm": "-3.53",
+"bt": "5.49"
+},
+{
+"time_tag": "2026-07-04T20:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.01",
+"by_gsm": "2.06",
+"bz_gsm": "-0.45",
+"bt": "4.46"
+},
+{
+"time_tag": "2026-07-04T20:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.33",
+"by_gsm": "-3.36",
+"bz_gsm": "-3.60",
+"bt": "4.80"
+},
+{
+"time_tag": "2026-07-04T20:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.28",
+"by_gsm": "-2.62",
+"bz_gsm": "2.23",
+"bt": "5.64"
+},
+{
+"time_tag": "2026-07-04T20:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.36",
+"by_gsm": "-2.02",
+"bz_gsm": "1.65",
+"bt": "5.60"
+},
+{
+"time_tag": "2026-07-04T20:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.32",
+"by_gsm": "0.95",
+"bz_gsm": "0.70",
+"bt": "4.91"
+},
+{
+"time_tag": "2026-07-04T20:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.83",
+"by_gsm": "0.32",
+"bz_gsm": "-1.40",
+"bt": "4.30"
+},
+{
+"time_tag": "2026-07-04T20:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.12",
+"by_gsm": "0.52",
+"bz_gsm": "-2.00",
+"bt": "4.15"
+},
+{
+"time_tag": "2026-07-04T20:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.38",
+"by_gsm": "6.34",
+"bz_gsm": "0.88",
+"bt": "4.45"
+},
+{
+"time_tag": "2026-07-04T20:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.91",
+"by_gsm": "4.64",
+"bz_gsm": "-0.78",
+"bt": "5.54"
+},
+{
+"time_tag": "2026-07-04T20:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.24",
+"by_gsm": "-2.45",
+"bz_gsm": "-0.18",
+"bt": "5.45"
+},
+{
+"time_tag": "2026-07-04T20:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.30",
+"by_gsm": "-2.22",
+"bz_gsm": "-2.22",
+"bt": "5.22"
+},
+{
+"time_tag": "2026-07-04T20:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.81",
+"by_gsm": "6.08",
+"bz_gsm": "0.63",
+"bt": "6.15"
+},
+{
+"time_tag": "2026-07-04T20:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.21",
+"by_gsm": "-1.04",
+"bz_gsm": "-2.35",
+"bt": "4.71"
+},
+{
+"time_tag": "2026-07-04T20:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.92",
+"by_gsm": "4.90",
+"bz_gsm": "-0.90",
+"bt": "4.64"
+},
+{
+"time_tag": "2026-07-04T20:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.96",
+"by_gsm": "5.67",
+"bz_gsm": "-3.83",
+"bt": "4.64"
+},
+{
+"time_tag": "2026-07-04T20:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.90",
+"by_gsm": "-1.83",
+"bz_gsm": "-2.12",
+"bt": "6.59"
+},
+{
+"time_tag": "2026-07-04T20:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.52",
+"by_gsm": "-0.87",
+"bz_gsm": "-0.28",
+"bt": "3.22"
+},
+{
+"time_tag": "2026-07-04T20:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.96",
+"by_gsm": "0.36",
+"bz_gsm": "-1.79",
+"bt": "5.21"
+},
+{
+"time_tag": "2026-07-04T20:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.60",
+"by_gsm": "-2.95",
+"bz_gsm": "-1.79",
+"bt": "5.35"
+},
+{
+"time_tag": "2026-07-04T20:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.90",
+"by_gsm": "-3.35",
+"bz_gsm": "0.18",
+"bt": "5.02"
+},
+{
+"time_tag": "2026-07-04T20:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.46",
+"by_gsm": "-1.33",
+"bz_gsm": "-1.19",
+"bt": "6.95"
+},
+{
+"time_tag": "2026-07-04T20:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.51",
+"by_gsm": "3.05",
+"bz_gsm": "0.90",
+"bt": "5.97"
+},
+{
+"time_tag": "2026-07-04T20:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.24",
+"by_gsm": "-1.50",
+"bz_gsm": "-4.93",
+"bt": "5.63"
+},
+{
+"time_tag": "2026-07-04T20:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.69",
+"by_gsm": "-0.65",
+"bz_gsm": "-0.17",
+"bt": "4.21"
+},
+{
+"time_tag": "2026-07-04T20:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.31",
+"by_gsm": "-1.56",
+"bz_gsm": "-0.27",
+"bt": "5.40"
+},
+{
+"time_tag": "2026-07-04T20:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.47",
+"by_gsm": "-4.71",
+"bz_gsm": "-3.54",
+"bt": "4.66"
+},
+{
+"time_tag": "2026-07-04T20:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.07",
+"by_gsm": "5.27",
+"bz_gsm": "-3.15",
+"bt": "5.01"
+},
+{
+"time_tag": "2026-07-04T20:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.43",
+"by_gsm": "-8.13",
+"bz_gsm": "0.32",
+"bt": "5.14"
+},
+{
+"time_tag": "2026-07-04T20:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.51",
+"by_gsm": "-2.22",
+"bz_gsm": "-2.78",
+"bt": "4.57"
+},
+{
+"time_tag": "2026-07-04T20:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.47",
+"by_gsm": "2.03",
+"bz_gsm": "-2.10",
+"bt": "5.51"
+},
+{
+"time_tag": "2026-07-04T20:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.91",
+"by_gsm": "-4.82",
+"bz_gsm": "-0.13",
+"bt": "6.36"
+},
+{
+"time_tag": "2026-07-04T20:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.03",
+"by_gsm": "2.19",
+"bz_gsm": "-1.61",
+"bt": "5.86"
+},
+{
+"time_tag": "2026-07-04T20:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.70",
+"by_gsm": "4.45",
+"bz_gsm": "-0.32",
+"bt": "5.16"
+},
+{
+"time_tag": "2026-07-04T20:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.51",
+"by_gsm": "-2.94",
+"bz_gsm": "-2.47",
+"bt": "3.34"
+},
+{
+"time_tag": "2026-07-04T20:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.89",
+"by_gsm": "0.80",
+"bz_gsm": "-0.61",
+"bt": "5.90"
+},
+{
+"time_tag": "2026-07-04T20:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.85",
+"by_gsm": "-3.82",
+"bz_gsm": "0.64",
+"bt": "5.89"
+},
+{
+"time_tag": "2026-07-04T20:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.95",
+"by_gsm": "1.84",
+"bz_gsm": "-0.57",
+"bt": "4.82"
+},
+{
+"time_tag": "2026-07-04T20:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.09",
+"by_gsm": "0.38",
+"bz_gsm": "-4.58",
+"bt": "4.58"
+},
+{
+"time_tag": "2026-07-04T20:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.07",
+"by_gsm": "0.82",
+"bz_gsm": "-0.05",
+"bt": "5.54"
+},
+{
+"time_tag": "2026-07-04T20:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "7.71",
+"by_gsm": "4.85",
+"bz_gsm": "-0.99",
+"bt": "4.30"
+},
+{
+"time_tag": "2026-07-04T20:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.64",
+"by_gsm": "1.72",
+"bz_gsm": "-2.53",
+"bt": "5.66"
+},
+{
+"time_tag": "2026-07-04T20:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.57",
+"by_gsm": "4.78",
+"bz_gsm": "1.13",
+"bt": "4.07"
+},
+{
+"time_tag": "2026-07-04T20:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.44",
+"by_gsm": "2.29",
+"bz_gsm": "-3.86",
+"bt": "4.21"
+},
+{
+"time_tag": "2026-07-04T20:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.44",
+"by_gsm": "-4.13",
+"bz_gsm": "1.90",
+"bt": "5.00"
+},
+{
+"time_tag": "2026-07-04T20:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.87",
+"by_gsm": "0.98",
+"bz_gsm": "-2.09",
+"bt": "3.75"
+},
+{
+"time_tag": "2026-07-04T20:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.94",
+"by_gsm": "1.78",
+"bz_gsm": "1.42",
+"bt": "4.99"
+},
+{
+"time_tag": "2026-07-04T20:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.79",
+"by_gsm": "-4.99",
+"bz_gsm": "-1.16",
+"bt": "5.44"
+},
+{
+"time_tag": "2026-07-04T20:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.69",
+"by_gsm": "4.74",
+"bz_gsm": "-3.21",
+"bt": "3.87"
+},
+{
+"time_tag": "2026-07-04T20:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.05",
+"by_gsm": "0.31",
+"bz_gsm": "-0.93",
+"bt": "5.77"
+},
+{
+"time_tag": "2026-07-04T20:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.50",
+"by_gsm": "1.36",
+"bz_gsm": "-0.56",
+"bt": "4.51"
+},
+{
+"time_tag": "2026-07-04T21:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.86",
+"by_gsm": "-3.07",
+"bz_gsm": "-0.22",
+"bt": "5.45"
+},
+{
+"time_tag": "2026-07-04T21:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.92",
+"by_gsm": "0.32",
+"bz_gsm": "0.60",
+"bt": "5.17"
+},
+{
+"time_tag": "2026-07-04T21:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.40",
+"by_gsm": "1.12",
+"bz_gsm": "-2.52",
+"bt": "4.60"
+},
+{
+"time_tag": "2026-07-04T21:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.22",
+"by_gsm": "-1.07",
+"bz_gsm": "-0.30",
+"bt": "4.55"
+},
+{
+"time_tag": "2026-07-04T21:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.42",
+"by_gsm": "0.35",
+"bz_gsm": "0.09",
+"bt": "3.55"
+},
+{
+"time_tag": "2026-07-04T21:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.32",
+"by_gsm": "-7.35",
+"bz_gsm": "-1.52",
+"bt": "4.40"
+},
+{
+"time_tag": "2026-07-04T21:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.73",
+"by_gsm": "4.83",
+"bz_gsm": "-2.58",
+"bt": "4.34"
+},
+{
+"time_tag": "2026-07-04T21:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.46",
+"by_gsm": "-3.83",
+"bz_gsm": "-2.61",
+"bt": "6.38"
+},
+{
+"time_tag": "2026-07-04T21:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.64",
+"by_gsm": "-7.57",
+"bz_gsm": "0.11",
+"bt": "5.85"
+},
+{
+"time_tag": "2026-07-04T21:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.04",
+"by_gsm": "-3.29",
+"bz_gsm": "0.19",
+"bt": "3.83"
+},
+{
+"time_tag": "2026-07-04T21:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.47",
+"by_gsm": "-2.86",
+"bz_gsm": "-2.41",
+"bt": "5.67"
+},
+{
+"time_tag": "2026-07-04T21:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.98",
+"by_gsm": "1.97",
+"bz_gsm": "-3.22",
+"bt": "5.18"
+},
+{
+"time_tag": "2026-07-04T21:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.41",
+"by_gsm": "-3.13",
+"bz_gsm": "0.89",
+"bt": "4.67"
+},
+{
+"time_tag": "2026-07-04T21:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.64",
+"by_gsm": "1.06",
+"bz_gsm": "-3.56",
+"bt": "5.38"
+},
+{
+"time_tag": "2026-07-04T21:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.50",
+"by_gsm": "-3.29",
+"bz_gsm": "-0.83",
+"bt": "5.66"
+},
+{
+"time_tag": "2026-07-04T21:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.60",
+"by_gsm": "7.79",
+"bz_gsm": "-2.37",
+"bt": "4.51"
+},
+{
+"time_tag": "2026-07-04T21:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.45",
+"by_gsm": "1.97",
+"bz_gsm": "-3.88",
+"bt": "4.76"
+},
+{
+"time_tag": "2026-07-04T21:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.34",
+"by_gsm": "6.91",
+"bz_gsm": "-0.89",
+"bt": "5.13"
+},
+{
+"time_tag": "2026-07-04T21:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.75",
+"by_gsm": "-3.49",
+"bz_gsm": "-1.39",
+"bt": "4.16"
+},
+{
+"time_tag": "2026-07-04T21:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.97",
+"by_gsm": "2.39",
+"bz_gsm": "1.20",
+"bt": "5.15"
+},
+{
+"time_tag": "2026-07-04T21:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.58",
+"by_gsm": "-3.28",
+"bz_gsm": "2.53",
+"bt": "4.93"
+},
+{
+"time_tag": "2026-07-04T21:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.36",
+"by_gsm": "2.09",
+"bz_gsm": "-1.39",
+"bt": "4.42"
+},
+{
+"time_tag": "2026-07-04T21:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.31",
+"by_gsm": "2.43",
+"bz_gsm": "0.54",
+"bt": "4.29"
+},
+{
+"time_tag": "2026-07-04T21:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.18",
+"by_gsm": "-5.52",
+"bz_gsm": "0.58",
+"bt": "5.25"
+},
+{
+"time_tag": "2026-07-04T21:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.73",
+"by_gsm": "-3.92",
+"bz_gsm": "-1.92",
+"bt": "5.73"
+},
+{
+"time_tag": "2026-07-04T21:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.03",
+"by_gsm": "-4.02",
+"bz_gsm": "-2.47",
+"bt": "5.27"
+},
+{
+"time_tag": "2026-07-04T21:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.20",
+"by_gsm": "-5.20",
+"bz_gsm": "1.48",
+"bt": "4.27"
+},
+{
+"time_tag": "2026-07-04T21:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.31",
+"by_gsm": "-2.50",
+"bz_gsm": "-1.67",
+"bt": "5.63"
+},
+{
+"time_tag": "2026-07-04T21:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.08",
+"by_gsm": "-3.30",
+"bz_gsm": "-1.13",
+"bt": "5.14"
+},
+{
+"time_tag": "2026-07-04T21:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.62",
+"by_gsm": "-5.00",
+"bz_gsm": "-1.55",
+"bt": "5.50"
+},
+{
+"time_tag": "2026-07-04T21:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.15",
+"by_gsm": "0.40",
+"bz_gsm": "-1.30",
+"bt": "5.98"
+},
+{
+"time_tag": "2026-07-04T21:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.05",
+"by_gsm": "1.96",
+"bz_gsm": "-2.05",
+"bt": "4.24"
+},
+{
+"time_tag": "2026-07-04T21:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.02",
+"by_gsm": "-4.55",
+"bz_gsm": "0.10",
+"bt": "4.88"
+},
+{
+"time_tag": "2026-07-04T21:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.43",
+"by_gsm": "-1.90",
+"bz_gsm": "0.91",
+"bt": "4.49"
+},
+{
+"time_tag": "2026-07-04T21:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.07",
+"by_gsm": "0.08",
+"bz_gsm": "-1.68",
+"bt": "4.26"
+},
+{
+"time_tag": "2026-07-04T21:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.88",
+"by_gsm": "-0.76",
+"bz_gsm": "-3.29",
+"bt": "6.69"
+},
+{
+"time_tag": "2026-07-04T21:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.58",
+"by_gsm": "-2.40",
+"bz_gsm": "-1.01",
+"bt": "5.79"
+},
+{
+"time_tag": "2026-07-04T21:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.11",
+"by_gsm": "2.88",
+"bz_gsm": "-3.46",
+"bt": "3.51"
+},
+{
+"time_tag": "2026-07-04T21:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.05",
+"by_gsm": "3.01",
+"bz_gsm": "-2.11",
+"bt": "5.36"
+},
+{
+"time_tag": "2026-07-04T21:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.95",
+"by_gsm": "2.42",
+"bz_gsm": "0.87",
+"bt": "4.53"
+},
+{
+"time_tag": "2026-07-04T21:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.17",
+"by_gsm": "-0.69",
+"bz_gsm": "2.61",
+"bt": "5.96"
+},
+{
+"time_tag": "2026-07-04T21:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.37",
+"by_gsm": "7.00",
+"bz_gsm": "-0.49",
+"bt": "5.07"
+},
+{
+"time_tag": "2026-07-04T21:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.17",
+"by_gsm": "6.13",
+"bz_gsm": "-2.79",
+"bt": "4.85"
+},
+{
+"time_tag": "2026-07-04T21:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.73",
+"by_gsm": "-1.36",
+"bz_gsm": "0.15",
+"bt": "5.12"
+},
+{
+"time_tag": "2026-07-04T21:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-7.34",
+"by_gsm": "-0.38",
+"bz_gsm": "-4.67",
+"bt": "5.32"
+},
+{
+"time_tag": "2026-07-04T21:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.15",
+"by_gsm": "4.20",
+"bz_gsm": "-2.20",
+"bt": "5.02"
+},
+{
+"time_tag": "2026-07-04T21:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.27",
+"by_gsm": "-2.76",
+"bz_gsm": "1.34",
+"bt": "4.81"
+},
+{
+"time_tag": "2026-07-04T21:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.75",
+"by_gsm": "1.43",
+"bz_gsm": "0.10",
+"bt": "4.88"
+},
+{
+"time_tag": "2026-07-04T21:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.00",
+"by_gsm": "0.20",
+"bz_gsm": "-3.29",
+"bt": "5.43"
+},
+{
+"time_tag": "2026-07-04T21:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.43",
+"by_gsm": "-2.42",
+"bz_gsm": "-3.74",
+"bt": "4.05"
+},
+{
+"time_tag": "2026-07-04T21:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.78",
+"by_gsm": "-0.77",
+"bz_gsm": "0.27",
+"bt": "5.00"
+},
+{
+"time_tag": "2026-07-04T21:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.19",
+"by_gsm": "-5.46",
+"bz_gsm": "-1.17",
+"bt": "4.90"
+},
+{
+"time_tag": "2026-07-04T21:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.38",
+"by_gsm": "-1.86",
+"bz_gsm": "-2.03",
+"bt": "4.59"
+},
+{
+"time_tag": "2026-07-04T21:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.66",
+"by_gsm": "-6.95",
+"bz_gsm": "-0.43",
+"bt": "5.62"
+},
+{
+"time_tag": "2026-07-04T21:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.67",
+"by_gsm": "8.01",
+"bz_gsm": "-2.00",
+"bt": "3.91"
+},
+{
+"time_tag": "2026-07-04T21:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.05",
+"by_gsm": "5.30",
+"bz_gsm": "-4.15",
+"bt": "4.69"
+},
+{
+"time_tag": "2026-07-04T21:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.30",
+"by_gsm": "4.33",
+"bz_gsm": "0.20",
+"bt": "4.28"
+},
+{
+"time_tag": "2026-07-04T21:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.65",
+"by_gsm": "1.09",
+"bz_gsm": "-2.12",
+"bt": "5.46"
+},
+{
+"time_tag": "2026-07-04T21:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.89",
+"by_gsm": "3.53",
+"bz_gsm": "-2.69",
+"bt": "4.61"
+},
+{
+"time_tag": "2026-07-04T21:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.20",
+"by_gsm": "4.48",
+"bz_gsm": "-3.21",
+"bt": "5.04"
+},
+{
+"time_tag": "2026-07-04T22:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.29",
+"by_gsm": "3.58",
+"bz_gsm": "-0.69",
+"bt": "5.32"
+},
+{
+"time_tag": "2026-07-04T22:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.19",
+"by_gsm": "3.24",
+"bz_gsm": "-2.37",
+"bt": "3.66"
+},
+{
+"time_tag": "2026-07-04T22:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.37",
+"by_gsm": "-3.17",
+"bz_gsm": "-0.10",
+"bt": "5.38"
+},
+{
+"time_tag": "2026-07-04T22:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.74",
+"by_gsm": "1.53",
+"bz_gsm": "-1.52",
+"bt": "4.37"
+},
+{
+"time_tag": "2026-07-04T22:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.16",
+"by_gsm": "-1.85",
+"bz_gsm": "0.63",
+"bt": "4.79"
+},
+{
+"time_tag": "2026-07-04T22:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.68",
+"by_gsm": "-4.11",
+"bz_gsm": "-1.70",
+"bt": "4.90"
+},
+{
+"time_tag": "2026-07-04T22:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.08",
+"by_gsm": "-3.97",
+"bz_gsm": "-2.13",
+"bt": "5.68"
+},
+{
+"time_tag": "2026-07-04T22:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.88",
+"by_gsm": "1.52",
+"bz_gsm": "-4.23",
+"bt": "5.62"
+},
+{
+"time_tag": "2026-07-04T22:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.96",
+"by_gsm": "3.71",
+"bz_gsm": "-2.84",
+"bt": "6.48"
+},
+{
+"time_tag": "2026-07-04T22:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.50",
+"by_gsm": "-4.77",
+"bz_gsm": "0.06",
+"bt": "5.15"
+},
+{
+"time_tag": "2026-07-04T22:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.57",
+"by_gsm": "6.13",
+"bz_gsm": "3.77",
+"bt": "4.60"
+},
+{
+"time_tag": "2026-07-04T22:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.98",
+"by_gsm": "5.16",
+"bz_gsm": "-3.08",
+"bt": "4.58"
+},
+{
+"time_tag": "2026-07-04T22:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "7.02",
+"by_gsm": "-1.32",
+"bz_gsm": "-2.74",
+"bt": "5.55"
+},
+{
+"time_tag": "2026-07-04T22:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.62",
+"by_gsm": "-1.61",
+"bz_gsm": "-0.55",
+"bt": "6.35"
+},
+{
+"time_tag": "2026-07-04T22:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.42",
+"by_gsm": "-0.24",
+"bz_gsm": "-0.33",
+"bt": "5.29"
+},
+{
+"time_tag": "2026-07-04T22:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.20",
+"by_gsm": "3.45",
+"bz_gsm": "-2.17",
+"bt": "4.52"
+},
+{
+"time_tag": "2026-07-04T22:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.48",
+"by_gsm": "-1.33",
+"bz_gsm": "-0.96",
+"bt": "5.23"
+},
+{
+"time_tag": "2026-07-04T22:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.44",
+"by_gsm": "-3.86",
+"bz_gsm": "-3.65",
+"bt": "5.21"
+},
+{
+"time_tag": "2026-07-04T22:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.97",
+"by_gsm": "1.21",
+"bz_gsm": "-1.56",
+"bt": "5.03"
+},
+{
+"time_tag": "2026-07-04T22:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.61",
+"by_gsm": "-7.22",
+"bz_gsm": "0.35",
+"bt": "4.38"
+},
+{
+"time_tag": "2026-07-04T22:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.06",
+"by_gsm": "0.50",
+"bz_gsm": "1.51",
+"bt": "2.87"
+},
+{
+"time_tag": "2026-07-04T22:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.20",
+"by_gsm": "4.06",
+"bz_gsm": "-1.36",
+"bt": "4.55"
+},
+{
+"time_tag": "2026-07-04T22:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.16",
+"by_gsm": "1.07",
+"bz_gsm": "-1.50",
+"bt": "5.88"
+},
+{
+"time_tag": "2026-07-04T22:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.13",
+"by_gsm": "2.74",
+"bz_gsm": "-0.37",
+"bt": "5.18"
+},
+{
+"time_tag": "2026-07-04T22:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.10",
+"by_gsm": "1.73",
+"bz_gsm": "0.67",
+"bt": "3.14"
+},
+{
+"time_tag": "2026-07-04T22:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.50",
+"by_gsm": "2.55",
+"bz_gsm": "-0.31",
+"bt": "5.00"
+},
+{
+"time_tag": "2026-07-04T22:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.03",
+"by_gsm": "0.51",
+"bz_gsm": "-2.28",
+"bt": "3.45"
+},
+{
+"time_tag": "2026-07-04T22:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.52",
+"by_gsm": "-2.90",
+"bz_gsm": "-0.52",
+"bt": "6.67"
+},
+{
+"time_tag": "2026-07-04T22:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.25",
+"by_gsm": "-0.79",
+"bz_gsm": "0.45",
+"bt": "5.16"
+},
+{
+"time_tag": "2026-07-04T22:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.21",
+"by_gsm": "-0.26",
+"bz_gsm": "-2.22",
+"bt": "3.99"
+},
+{
+"time_tag": "2026-07-04T22:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.97",
+"by_gsm": "4.41",
+"bz_gsm": "-3.21",
+"bt": "5.67"
+},
+{
+"time_tag": "2026-07-04T22:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.80",
+"by_gsm": "5.69",
+"bz_gsm": "-0.28",
+"bt": "4.34"
+},
+{
+"time_tag": "2026-07-04T22:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.42",
+"by_gsm": "1.47",
+"bz_gsm": "-0.50",
+"bt": "5.47"
+},
+{
+"time_tag": "2026-07-04T22:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.08",
+"by_gsm": "-2.63",
+"bz_gsm": "0.45",
+"bt": "5.02"
+},
+{
+"time_tag": "2026-07-04T22:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.51",
+"by_gsm": "-2.55",
+"bz_gsm": "-0.95",
+"bt": "4.01"
+},
+{
+"time_tag": "2026-07-04T22:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.39",
+"by_gsm": "-0.66",
+"bz_gsm": "-2.11",
+"bt": "5.56"
+},
+{
+"time_tag": "2026-07-04T22:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.01",
+"by_gsm": "4.86",
+"bz_gsm": "-1.78",
+"bt": "3.87"
+},
+{
+"time_tag": "2026-07-04T22:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.87",
+"by_gsm": "1.17",
+"bz_gsm": "-2.72",
+"bt": "6.13"
+},
+{
+"time_tag": "2026-07-04T22:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.60",
+"by_gsm": "-0.19",
+"bz_gsm": "-2.59",
+"bt": "5.05"
+},
+{
+"time_tag": "2026-07-04T22:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.61",
+"by_gsm": "-2.68",
+"bz_gsm": "-1.98",
+"bt": "4.14"
+},
+{
+"time_tag": "2026-07-04T22:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.94",
+"by_gsm": "3.09",
+"bz_gsm": "-1.85",
+"bt": "3.48"
+},
+{
+"time_tag": "2026-07-04T22:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.01",
+"by_gsm": "1.01",
+"bz_gsm": "0.69",
+"bt": "6.36"
+},
+{
+"time_tag": "2026-07-04T22:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.32",
+"by_gsm": "-0.18",
+"bz_gsm": "-3.04",
+"bt": "6.22"
+},
+{
+"time_tag": "2026-07-04T22:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.13",
+"by_gsm": "0.36",
+"bz_gsm": "-1.16",
+"bt": "3.94"
+},
+{
+"time_tag": "2026-07-04T22:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.55",
+"by_gsm": "5.90",
+"bz_gsm": "-2.02",
+"bt": "6.38"
+},
+{
+"time_tag": "2026-07-04T22:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.35",
+"by_gsm": "-0.56",
+"bz_gsm": "1.29",
+"bt": "5.14"
+},
+{
+"time_tag": "2026-07-04T22:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.28",
+"by_gsm": "5.91",
+"bz_gsm": "-0.66",
+"bt": "4.81"
+},
+{
+"time_tag": "2026-07-04T22:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.57",
+"by_gsm": "4.35",
+"bz_gsm": "-1.68",
+"bt": "4.93"
+},
+{
+"time_tag": "2026-07-04T22:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.94",
+"by_gsm": "0.18",
+"bz_gsm": "0.22",
+"bt": "4.77"
+},
+{
+"time_tag": "2026-07-04T22:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.69",
+"by_gsm": "3.09",
+"bz_gsm": "-0.97",
+"bt": "6.20"
+},
+{
+"time_tag": "2026-07-04T22:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.91",
+"by_gsm": "-0.43",
+"bz_gsm": "-1.84",
+"bt": "5.13"
+},
+{
+"time_tag": "2026-07-04T22:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.42",
+"by_gsm": "-2.90",
+"bz_gsm": "1.36",
+"bt": "3.45"
+},
+{
+"time_tag": "2026-07-04T22:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.08",
+"by_gsm": "-0.94",
+"bz_gsm": "0.05",
+"bt": "6.76"
+},
+{
+"time_tag": "2026-07-04T22:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.68",
+"by_gsm": "-3.18",
+"bz_gsm": "1.67",
+"bt": "5.74"
+},
+{
+"time_tag": "2026-07-04T22:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.90",
+"by_gsm": "1.79",
+"bz_gsm": "0.76",
+"bt": "4.08"
+},
+{
+"time_tag": "2026-07-04T22:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.49",
+"by_gsm": "0.05",
+"bz_gsm": "0.16",
+"bt": "4.70"
+},
+{
+"time_tag": "2026-07-04T22:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.06",
+"by_gsm": "1.99",
+"bz_gsm": "-0.87",
+"bt": "4.24"
+},
+{
+"time_tag": "2026-07-04T22:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.09",
+"by_gsm": "2.89",
+"bz_gsm": "-2.80",
+"bt": "5.04"
+},
+{
+"time_tag": "2026-07-04T22:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.84",
+"by_gsm": "-10.92",
+"bz_gsm": "0.05",
+"bt": "5.33"
+},
+{
+"time_tag": "2026-07-04T22:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.40",
+"by_gsm": "1.09",
+"bz_gsm": "-0.96",
+"bt": "5.20"
+},
+{
+"time_tag": "2026-07-04T23:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.80",
+"by_gsm": "-6.31",
+"bz_gsm": "0.00",
+"bt": "4.50"
+},
+{
+"time_tag": "2026-07-04T23:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.66",
+"by_gsm": "0.58",
+"bz_gsm": "-1.09",
+"bt": "4.33"
+},
+{
+"time_tag": "2026-07-04T23:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.01",
+"by_gsm": "-3.07",
+"bz_gsm": "-2.17",
+"bt": "5.71"
+},
+{
+"time_tag": "2026-07-04T23:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.46",
+"by_gsm": "0.36",
+"bz_gsm": "-2.67",
+"bt": "4.92"
+},
+{
+"time_tag": "2026-07-04T23:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.89",
+"by_gsm": "4.78",
+"bz_gsm": "0.04",
+"bt": "6.89"
+},
+{
+"time_tag": "2026-07-04T23:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.62",
+"by_gsm": "-5.98",
+"bz_gsm": "0.98",
+"bt": "4.32"
+},
+{
+"time_tag": "2026-07-04T23:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.89",
+"by_gsm": "0.67",
+"bz_gsm": "-1.53",
+"bt": "5.66"
+},
+{
+"time_tag": "2026-07-04T23:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.93",
+"by_gsm": "-0.27",
+"bz_gsm": "-0.35",
+"bt": "5.04"
+},
+{
+"time_tag": "2026-07-04T23:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.64",
+"by_gsm": "-6.62",
+"bz_gsm": "1.13",
+"bt": "4.36"
+},
+{
+"time_tag": "2026-07-04T23:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.09",
+"by_gsm": "2.27",
+"bz_gsm": "-2.40",
+"bt": "6.15"
+},
+{
+"time_tag": "2026-07-04T23:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.47",
+"by_gsm": "0.12",
+"bz_gsm": "-1.61",
+"bt": "5.10"
+},
+{
+"time_tag": "2026-07-04T23:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.25",
+"by_gsm": "-1.78",
+"bz_gsm": "-2.85",
+"bt": "4.25"
+},
+{
+"time_tag": "2026-07-04T23:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.66",
+"by_gsm": "-2.53",
+"bz_gsm": "0.81",
+"bt": "4.73"
+},
+{
+"time_tag": "2026-07-04T23:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.25",
+"by_gsm": "11.24",
+"bz_gsm": "-0.65",
+"bt": "5.86"
+},
+{
+"time_tag": "2026-07-04T23:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.84",
+"by_gsm": "-1.38",
+"bz_gsm": "-1.80",
+"bt": "3.97"
+},
+{
+"time_tag": "2026-07-04T23:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.28",
+"by_gsm": "-6.30",
+"bz_gsm": "-3.70",
+"bt": "6.16"
+},
+{
+"time_tag": "2026-07-04T23:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.65",
+"by_gsm": "-3.26",
+"bz_gsm": "-1.35",
+"bt": "5.58"
+},
+{
+"time_tag": "2026-07-04T23:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.80",
+"by_gsm": "-1.28",
+"bz_gsm": "0.52",
+"bt": "4.77"
+},
+{
+"time_tag": "2026-07-04T23:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.46",
+"by_gsm": "-1.35",
+"bz_gsm": "-1.54",
+"bt": "6.14"
+},
+{
+"time_tag": "2026-07-04T23:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.35",
+"by_gsm": "-0.28",
+"bz_gsm": "-1.74",
+"bt": "6.47"
+},
+{
+"time_tag": "2026-07-04T23:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.39",
+"by_gsm": "-3.66",
+"bz_gsm": "-0.05",
+"bt": "5.50"
+},
+{
+"time_tag": "2026-07-04T23:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.80",
+"by_gsm": "1.90",
+"bz_gsm": "-3.03",
+"bt": "5.14"
+},
+{
+"time_tag": "2026-07-04T23:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.90",
+"by_gsm": "-1.69",
+"bz_gsm": "-0.98",
+"bt": "6.55"
+},
+{
+"time_tag": "2026-07-04T23:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.78",
+"by_gsm": "-4.76",
+"bz_gsm": "-0.11",
+"bt": "6.26"
+},
+{
+"time_tag": "2026-07-04T23:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.34",
+"by_gsm": "-2.85",
+"bz_gsm": "-2.30",
+"bt": "4.22"
+},
+{
+"time_tag": "2026-07-04T23:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.88",
+"by_gsm": "-1.35",
+"bz_gsm": "-2.38",
+"bt": "4.83"
+},
+{
+"time_tag": "2026-07-04T23:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.47",
+"by_gsm": "2.97",
+"bz_gsm": "-0.67",
+"bt": "4.82"
+},
+{
+"time_tag": "2026-07-04T23:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.27",
+"by_gsm": "1.70",
+"bz_gsm": "-1.22",
+"bt": "4.65"
+},
+{
+"time_tag": "2026-07-04T23:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.31",
+"by_gsm": "-1.18",
+"bz_gsm": "-1.44",
+"bt": "3.74"
+},
+{
+"time_tag": "2026-07-04T23:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.72",
+"by_gsm": "0.07",
+"bz_gsm": "-0.73",
+"bt": "5.76"
+},
+{
+"time_tag": "2026-07-04T23:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.99",
+"by_gsm": "0.75",
+"bz_gsm": "-0.71",
+"bt": "5.07"
+},
+{
+"time_tag": "2026-07-04T23:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.02",
+"by_gsm": "7.14",
+"bz_gsm": "-2.53",
+"bt": "5.08"
+},
+{
+"time_tag": "2026-07-04T23:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.07",
+"by_gsm": "-2.16",
+"bz_gsm": "-2.12",
+"bt": "6.19"
+},
+{
+"time_tag": "2026-07-04T23:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.58",
+"by_gsm": "1.63",
+"bz_gsm": "-0.35",
+"bt": "4.52"
+},
+{
+"time_tag": "2026-07-04T23:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "7.02",
+"by_gsm": "2.54",
+"bz_gsm": "0.72",
+"bt": "4.95"
+},
+{
+"time_tag": "2026-07-04T23:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.00",
+"by_gsm": "-3.34",
+"bz_gsm": "1.09",
+"bt": "5.23"
+},
+{
+"time_tag": "2026-07-04T23:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.95",
+"by_gsm": "0.66",
+"bz_gsm": "-2.41",
+"bt": "4.64"
+},
+{
+"time_tag": "2026-07-04T23:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.55",
+"by_gsm": "0.57",
+"bz_gsm": "0.68",
+"bt": "4.91"
+},
+{
+"time_tag": "2026-07-04T23:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.83",
+"by_gsm": "-1.64",
+"bz_gsm": "0.15",
+"bt": "5.65"
+},
+{
+"time_tag": "2026-07-04T23:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.96",
+"by_gsm": "1.99",
+"bz_gsm": "-1.11",
+"bt": "4.99"
+},
+{
+"time_tag": "2026-07-04T23:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.18",
+"by_gsm": "3.60",
+"bz_gsm": "-0.28",
+"bt": "6.12"
+},
+{
+"time_tag": "2026-07-04T23:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.58",
+"by_gsm": "3.96",
+"bz_gsm": "0.26",
+"bt": "4.37"
+},
+{
+"time_tag": "2026-07-04T23:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.88",
+"by_gsm": "-0.67",
+"bz_gsm": "1.78",
+"bt": "5.17"
+},
+{
+"time_tag": "2026-07-04T23:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.09",
+"by_gsm": "0.66",
+"bz_gsm": "-2.73",
+"bt": "3.79"
+},
+{
+"time_tag": "2026-07-04T23:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.10",
+"by_gsm": "8.23",
+"bz_gsm": "-0.10",
+"bt": "4.90"
+},
+{
+"time_tag": "2026-07-04T23:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.88",
+"by_gsm": "-3.86",
+"bz_gsm": "-1.28",
+"bt": "4.41"
+},
+{
+"time_tag": "2026-07-04T23:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.09",
+"by_gsm": "0.78",
+"bz_gsm": "-1.38",
+"bt": "6.15"
+},
+{
+"time_tag": "2026-07-04T23:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.23",
+"by_gsm": "3.11",
+"bz_gsm": "0.77",
+"bt": "5.63"
+},
+{
+"time_tag": "2026-07-04T23:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.85",
+"by_gsm": "0.53",
+"bz_gsm": "0.24",
+"bt": "5.43"
+},
+{
+"time_tag": "2026-07-04T23:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.66",
+"by_gsm": "2.30",
+"bz_gsm": "-2.66",
+"bt": "6.56"
+},
+{
+"time_tag": "2026-07-04T23:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.10",
+"by_gsm": "0.60",
+"bz_gsm": "-1.50",
+"bt": "6.22"
+},
+{
+"time_tag": "2026-07-04T23:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.56",
+"by_gsm": "2.64",
+"bz_gsm": "-0.69",
+"bt": "5.61"
+},
+{
+"time_tag": "2026-07-04T23:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.15",
+"by_gsm": "4.49",
+"bz_gsm": "-3.29",
+"bt": "4.42"
+},
+{
+"time_tag": "2026-07-04T23:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.05",
+"by_gsm": "-0.77",
+"bz_gsm": "0.32",
+"bt": "3.78"
+},
+{
+"time_tag": "2026-07-04T23:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.79",
+"by_gsm": "0.69",
+"bz_gsm": "-1.17",
+"bt": "4.97"
+},
+{
+"time_tag": "2026-07-04T23:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.64",
+"by_gsm": "-0.19",
+"bz_gsm": "-0.79",
+"bt": "4.70"
+},
+{
+"time_tag": "2026-07-04T23:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.04",
+"by_gsm": "-1.41",
+"bz_gsm": "-0.52",
+"bt": "4.45"
+},
+{
+"time_tag": "2026-07-04T23:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.53",
+"by_gsm": "-0.07",
+"bz_gsm": "1.81",
+"bt": "4.75"
+},
+{
+"time_tag": "2026-07-04T23:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.60",
+"by_gsm": "-3.96",
+"bz_gsm": "-0.99",
+"bt": "3.60"
+},
+{
+"time_tag": "2026-07-04T23:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.15",
+"by_gsm": "2.61",
+"bz_gsm": "-1.62",
+"bt": "6.26"
+},
+{
+"time_tag": "2026-07-05T00:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.19",
+"by_gsm": "5.96",
+"bz_gsm": "1.71",
+"bt": "4.03"
+},
+{
+"time_tag": "2026-07-05T00:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "7.71",
+"by_gsm": "5.97",
+"bz_gsm": "-1.85",
+"bt": "4.43"
+},
+{
+"time_tag": "2026-07-05T00:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.18",
+"by_gsm": "4.47",
+"bz_gsm": "-1.88",
+"bt": "5.48"
+},
+{
+"time_tag": "2026-07-05T00:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.28",
+"by_gsm": "-3.37",
+"bz_gsm": "-3.25",
+"bt": "3.62"
+},
+{
+"time_tag": "2026-07-05T00:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.69",
+"by_gsm": "5.32",
+"bz_gsm": "0.66",
+"bt": "5.78"
+},
+{
+"time_tag": "2026-07-05T00:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.04",
+"by_gsm": "-2.50",
+"bz_gsm": "-0.62",
+"bt": "5.80"
+},
+{
+"time_tag": "2026-07-05T00:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.43",
+"by_gsm": "-0.19",
+"bz_gsm": "-0.30",
+"bt": "4.73"
+},
+{
+"time_tag": "2026-07-05T00:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.13",
+"by_gsm": "6.46",
+"bz_gsm": "-0.79",
+"bt": "4.09"
+},
+{
+"time_tag": "2026-07-05T00:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.96",
+"by_gsm": "-3.75",
+"bz_gsm": "-1.26",
+"bt": "4.60"
+},
+{
+"time_tag": "2026-07-05T00:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.08",
+"by_gsm": "2.94",
+"bz_gsm": "-2.29",
+"bt": "3.43"
+},
+{
+"time_tag": "2026-07-05T00:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.95",
+"by_gsm": "0.98",
+"bz_gsm": "-2.28",
+"bt": "6.18"
+},
+{
+"time_tag": "2026-07-05T00:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.22",
+"by_gsm": "-0.53",
+"bz_gsm": "-0.36",
+"bt": "5.05"
+},
+{
+"time_tag": "2026-07-05T00:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.56",
+"by_gsm": "-3.07",
+"bz_gsm": "-0.85",
+"bt": "4.37"
+},
+{
+"time_tag": "2026-07-05T00:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.31",
+"by_gsm": "1.48",
+"bz_gsm": "1.54",
+"bt": "4.23"
+},
+{
+"time_tag": "2026-07-05T00:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.16",
+"by_gsm": "-1.62",
+"bz_gsm": "-2.25",
+"bt": "5.49"
+},
+{
+"time_tag": "2026-07-05T00:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.85",
+"by_gsm": "3.66",
+"bz_gsm": "-1.82",
+"bt": "6.28"
+},
+{
+"time_tag": "2026-07-05T00:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.43",
+"by_gsm": "4.29",
+"bz_gsm": "-2.66",
+"bt": "3.92"
+},
+{
+"time_tag": "2026-07-05T00:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.20",
+"by_gsm": "-4.83",
+"bz_gsm": "1.14",
+"bt": "4.51"
+},
+{
+"time_tag": "2026-07-05T00:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.05",
+"by_gsm": "-1.77",
+"bz_gsm": "-3.00",
+"bt": "3.50"
+},
+{
+"time_tag": "2026-07-05T00:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.12",
+"by_gsm": "-1.12",
+"bz_gsm": "0.18",
+"bt": "5.57"
+},
+{
+"time_tag": "2026-07-05T00:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.65",
+"by_gsm": "-4.14",
+"bz_gsm": "1.23",
+"bt": "5.13"
+},
+{
+"time_tag": "2026-07-05T00:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.71",
+"by_gsm": "-3.91",
+"bz_gsm": "-1.27",
+"bt": "6.92"
+},
+{
+"time_tag": "2026-07-05T00:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.64",
+"by_gsm": "0.31",
+"bz_gsm": "0.10",
+"bt": "4.90"
+},
+{
+"time_tag": "2026-07-05T00:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.48",
+"by_gsm": "-0.73",
+"bz_gsm": "-4.41",
+"bt": "4.63"
+},
+{
+"time_tag": "2026-07-05T00:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.37",
+"by_gsm": "-5.78",
+"bz_gsm": "-1.66",
+"bt": "4.40"
+},
+{
+"time_tag": "2026-07-05T00:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.51",
+"by_gsm": "-1.88",
+"bz_gsm": "-3.67",
+"bt": "5.73"
+},
+{
+"time_tag": "2026-07-05T00:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.74",
+"by_gsm": "1.82",
+"bz_gsm": "-0.77",
+"bt": "3.61"
+},
+{
+"time_tag": "2026-07-05T00:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.60",
+"by_gsm": "-4.22",
+"bz_gsm": "-1.03",
+"bt": "5.64"
+},
+{
+"time_tag": "2026-07-05T00:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.77",
+"by_gsm": "-3.23",
+"bz_gsm": "-2.26",
+"bt": "5.21"
+},
+{
+"time_tag": "2026-07-05T00:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.16",
+"by_gsm": "5.56",
+"bz_gsm": "0.45",
+"bt": "4.57"
+},
+{
+"time_tag": "2026-07-05T00:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.91",
+"by_gsm": "4.61",
+"bz_gsm": "-0.48",
+"bt": "4.23"
+},
+{
+"time_tag": "2026-07-05T00:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.44",
+"by_gsm": "-5.67",
+"bz_gsm": "-1.87",
+"bt": "5.90"
+},
+{
+"time_tag": "2026-07-05T00:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.37",
+"by_gsm": "-4.73",
+"bz_gsm": "-1.85",
+"bt": "6.59"
+},
+{
+"time_tag": "2026-07-05T00:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.30",
+"by_gsm": "1.32",
+"bz_gsm": "-3.37",
+"bt": "4.62"
+},
+{
+"time_tag": "2026-07-05T00:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.52",
+"by_gsm": "-4.17",
+"bz_gsm": "-1.34",
+"bt": "5.45"
+},
+{
+"time_tag": "2026-07-05T00:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.13",
+"by_gsm": "-0.88",
+"bz_gsm": "2.31",
+"bt": "6.49"
+},
+{
+"time_tag": "2026-07-05T00:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.29",
+"by_gsm": "-1.58",
+"bz_gsm": "-2.17",
+"bt": "4.47"
+},
+{
+"time_tag": "2026-07-05T00:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.02",
+"by_gsm": "1.96",
+"bz_gsm": "-0.38",
+"bt": "4.79"
+},
+{
+"time_tag": "2026-07-05T00:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.49",
+"by_gsm": "-8.85",
+"bz_gsm": "-1.91",
+"bt": "3.96"
+},
+{
+"time_tag": "2026-07-05T00:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.02",
+"by_gsm": "-7.71",
+"bz_gsm": "0.23",
+"bt": "4.87"
+},
+{
+"time_tag": "2026-07-05T00:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.20",
+"by_gsm": "-4.29",
+"bz_gsm": "-0.35",
+"bt": "4.93"
+},
+{
+"time_tag": "2026-07-05T00:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.45",
+"by_gsm": "3.55",
+"bz_gsm": "-1.41",
+"bt": "4.64"
+},
+{
+"time_tag": "2026-07-05T00:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.61",
+"by_gsm": "-0.54",
+"bz_gsm": "-3.86",
+"bt": "4.37"
+},
+{
+"time_tag": "2026-07-05T00:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.73",
+"by_gsm": "-5.98",
+"bz_gsm": "-1.85",
+"bt": "3.65"
+},
+{
+"time_tag": "2026-07-05T00:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.40",
+"by_gsm": "1.73",
+"bz_gsm": "0.86",
+"bt": "3.85"
+},
+{
+"time_tag": "2026-07-05T00:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.03",
+"by_gsm": "2.48",
+"bz_gsm": "-1.43",
+"bt": "4.17"
+},
+{
+"time_tag": "2026-07-05T00:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.04",
+"by_gsm": "-0.86",
+"bz_gsm": "-0.05",
+"bt": "5.55"
+},
+{
+"time_tag": "2026-07-05T00:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.97",
+"by_gsm": "-1.16",
+"bz_gsm": "-1.80",
+"bt": "4.56"
+},
+{
+"time_tag": "2026-07-05T00:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.56",
+"by_gsm": "1.53",
+"bz_gsm": "-3.99",
+"bt": "4.27"
+},
+{
+"time_tag": "2026-07-05T00:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.13",
+"by_gsm": "4.23",
+"bz_gsm": "-0.37",
+"bt": "5.56"
+},
+{
+"time_tag": "2026-07-05T00:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.15",
+"by_gsm": "0.53",
+"bz_gsm": "-0.53",
+"bt": "5.48"
+},
+{
+"time_tag": "2026-07-05T00:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.50",
+"by_gsm": "1.87",
+"bz_gsm": "-1.95",
+"bt": "4.35"
+},
+{
+"time_tag": "2026-07-05T00:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.27",
+"by_gsm": "-0.17",
+"bz_gsm": "-1.63",
+"bt": "4.46"
+},
+{
+"time_tag": "2026-07-05T00:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.37",
+"by_gsm": "-1.33",
+"bz_gsm": "-0.58",
+"bt": "5.57"
+},
+{
+"time_tag": "2026-07-05T00:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.19",
+"by_gsm": "-3.21",
+"bz_gsm": "-1.98",
+"bt": "5.31"
+},
+{
+"time_tag": "2026-07-05T00:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.00",
+"by_gsm": "0.90",
+"bz_gsm": "-0.49",
+"bt": "4.28"
+},
+{
+"time_tag": "2026-07-05T00:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.04",
+"by_gsm": "-1.05",
+"bz_gsm": "-1.36",
+"bt": "5.21"
+},
+{
+"time_tag": "2026-07-05T00:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.19",
+"by_gsm": "-0.85",
+"bz_gsm": "-4.77",
+"bt": "4.97"
+},
+{
+"time_tag": "2026-07-05T00:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.15",
+"by_gsm": "3.25",
+"bz_gsm": "-1.27",
+"bt": "5.95"
+},
+{
+"time_tag": "2026-07-05T00:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.26",
+"by_gsm": "1.71",
+"bz_gsm": "-1.98",
+"bt": "4.26"
+},
+{
+"time_tag": "2026-07-05T01:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.92",
+"by_gsm": "3.05",
+"bz_gsm": "-2.36",
+"bt": "5.76"
+},
+{
+"time_tag": "2026-07-05T01:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.57",
+"by_gsm": "-5.51",
+"bz_gsm": "-0.40",
+"bt": "5.37"
+},
+{
+"time_tag": "2026-07-05T01:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.67",
+"by_gsm": "1.95",
+"bz_gsm": "-1.81",
+"bt": "4.14"
+},
+{
+"time_tag": "2026-07-05T01:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.36",
+"by_gsm": "-2.06",
+"bz_gsm": "-0.18",
+"bt": "5.90"
+},
+{
+"time_tag": "2026-07-05T01:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.22",
+"by_gsm": "-2.83",
+"bz_gsm": "0.69",
+"bt": "5.78"
+},
+{
+"time_tag": "2026-07-05T01:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.55",
+"by_gsm": "-2.98",
+"bz_gsm": "-0.81",
+"bt": "3.87"
+},
+{
+"time_tag": "2026-07-05T01:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.16",
+"by_gsm": "4.24",
+"bz_gsm": "-3.49",
+"bt": "6.70"
+},
+{
+"time_tag": "2026-07-05T01:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.45",
+"by_gsm": "2.90",
+"bz_gsm": "-2.19",
+"bt": "4.02"
+},
+{
+"time_tag": "2026-07-05T01:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.06",
+"by_gsm": "-2.51",
+"bz_gsm": "0.41",
+"bt": "4.21"
+},
+{
+"time_tag": "2026-07-05T01:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.24",
+"by_gsm": "-3.98",
+"bz_gsm": "-1.45",
+"bt": "4.72"
+},
+{
+"time_tag": "2026-07-05T01:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.20",
+"by_gsm": "0.05",
+"bz_gsm": "-2.31",
+"bt": "5.66"
+},
+{
+"time_tag": "2026-07-05T01:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.17",
+"by_gsm": "-1.61",
+"bz_gsm": "-1.18",
+"bt": "5.50"
+},
+{
+"time_tag": "2026-07-05T01:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.42",
+"by_gsm": "5.81",
+"bz_gsm": "-0.24",
+"bt": "4.92"
+},
+{
+"time_tag": "2026-07-05T01:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.79",
+"by_gsm": "-5.11",
+"bz_gsm": "-0.63",
+"bt": "6.17"
+},
+{
+"time_tag": "2026-07-05T01:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.73",
+"by_gsm": "-6.40",
+"bz_gsm": "-0.01",
+"bt": "5.35"
+},
+{
+"time_tag": "2026-07-05T01:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.34",
+"by_gsm": "-0.90",
+"bz_gsm": "-2.34",
+"bt": "6.20"
+},
+{
+"time_tag": "2026-07-05T01:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-7.06",
+"by_gsm": "0.04",
+"bz_gsm": "-1.47",
+"bt": "7.42"
+},
+{
+"time_tag": "2026-07-05T01:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.53",
+"by_gsm": "0.46",
+"bz_gsm": "-1.43",
+"bt": "5.17"
+},
+{
+"time_tag": "2026-07-05T01:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.37",
+"by_gsm": "2.64",
+"bz_gsm": "-1.07",
+"bt": "2.78"
+},
+{
+"time_tag": "2026-07-05T01:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.45",
+"by_gsm": "7.26",
+"bz_gsm": "-4.35",
+"bt": "4.61"
+},
+{
+"time_tag": "2026-07-05T01:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.49",
+"by_gsm": "-1.20",
+"bz_gsm": "-1.41",
+"bt": "4.07"
+},
+{
+"time_tag": "2026-07-05T01:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.01",
+"by_gsm": "-1.91",
+"bz_gsm": "-3.15",
+"bt": "5.08"
+},
+{
+"time_tag": "2026-07-05T01:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.59",
+"by_gsm": "-6.16",
+"bz_gsm": "1.17",
+"bt": "5.08"
+},
+{
+"time_tag": "2026-07-05T01:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.62",
+"by_gsm": "0.85",
+"bz_gsm": "1.43",
+"bt": "3.94"
+},
+{
+"time_tag": "2026-07-05T01:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.70",
+"by_gsm": "2.99",
+"bz_gsm": "1.63",
+"bt": "4.00"
+},
+{
+"time_tag": "2026-07-05T01:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.28",
+"by_gsm": "-0.91",
+"bz_gsm": "0.25",
+"bt": "4.77"
+},
+{
+"time_tag": "2026-07-05T01:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.76",
+"by_gsm": "4.13",
+"bz_gsm": "-1.80",
+"bt": "4.83"
+},
+{
+"time_tag": "2026-07-05T01:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.31",
+"by_gsm": "0.11",
+"bz_gsm": "0.49",
+"bt": "2.75"
+},
+{
+"time_tag": "2026-07-05T01:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.17",
+"by_gsm": "5.30",
+"bz_gsm": "-1.35",
+"bt": "5.84"
+},
+{
+"time_tag": "2026-07-05T01:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.03",
+"by_gsm": "1.17",
+"bz_gsm": "-0.06",
+"bt": "5.03"
+},
+{
+"time_tag": "2026-07-05T01:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.35",
+"by_gsm": "-3.70",
+"bz_gsm": "-2.46",
+"bt": "4.99"
+},
+{
+"time_tag": "2026-07-05T01:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.19",
+"by_gsm": "-2.23",
+"bz_gsm": "-1.96",
+"bt": "5.26"
+},
+{
+"time_tag": "2026-07-05T01:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.33",
+"by_gsm": "-5.37",
+"bz_gsm": "-0.29",
+"bt": "4.11"
+},
+{
+"time_tag": "2026-07-05T01:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.06",
+"by_gsm": "-6.08",
+"bz_gsm": "1.77",
+"bt": "4.96"
+},
+{
+"time_tag": "2026-07-05T01:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.69",
+"by_gsm": "0.93",
+"bz_gsm": "-1.07",
+"bt": "5.90"
+},
+{
+"time_tag": "2026-07-05T01:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "7.20",
+"by_gsm": "3.04",
+"bz_gsm": "2.54",
+"bt": "5.93"
+},
+{
+"time_tag": "2026-07-05T01:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.12",
+"by_gsm": "6.84",
+"bz_gsm": "3.33",
+"bt": "5.40"
+},
+{
+"time_tag": "2026-07-05T01:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.71",
+"by_gsm": "-0.19",
+"bz_gsm": "-3.06",
+"bt": "4.76"
+},
+{
+"time_tag": "2026-07-05T01:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.71",
+"by_gsm": "-0.83",
+"bz_gsm": "-1.07",
+"bt": "4.29"
+},
+{
+"time_tag": "2026-07-05T01:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.15",
+"by_gsm": "-3.88",
+"bz_gsm": "-2.53",
+"bt": "6.15"
+},
+{
+"time_tag": "2026-07-05T01:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.27",
+"by_gsm": "3.46",
+"bz_gsm": "-1.25",
+"bt": "5.46"
+},
+{
+"time_tag": "2026-07-05T01:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.54",
+"by_gsm": "1.36",
+"bz_gsm": "-1.87",
+"bt": "4.63"
+},
+{
+"time_tag": "2026-07-05T01:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.81",
+"by_gsm": "-2.08",
+"bz_gsm": "-1.13",
+"bt": "3.11"
+},
+{
+"time_tag": "2026-07-05T01:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.61",
+"by_gsm": "2.41",
+"bz_gsm": "0.50",
+"bt": "4.24"
+},
+{
+"time_tag": "2026-07-05T01:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.78",
+"by_gsm": "1.96",
+"bz_gsm": "0.46",
+"bt": "3.32"
+},
+{
+"time_tag": "2026-07-05T01:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.46",
+"by_gsm": "-6.54",
+"bz_gsm": "-0.62",
+"bt": "6.09"
+},
+{
+"time_tag": "2026-07-05T01:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.37",
+"by_gsm": "2.60",
+"bz_gsm": "-1.02",
+"bt": "5.16"
+},
+{
+"time_tag": "2026-07-05T01:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.27",
+"by_gsm": "0.48",
+"bz_gsm": "-0.84",
+"bt": "4.35"
+},
+{
+"time_tag": "2026-07-05T01:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.22",
+"by_gsm": "-1.37",
+"bz_gsm": "-0.82",
+"bt": "4.76"
+},
+{
+"time_tag": "2026-07-05T01:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.08",
+"by_gsm": "-1.46",
+"bz_gsm": "-0.12",
+"bt": "7.27"
+},
+{
+"time_tag": "2026-07-05T01:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.12",
+"by_gsm": "6.12",
+"bz_gsm": "-1.02",
+"bt": "6.06"
+},
+{
+"time_tag": "2026-07-05T01:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.52",
+"by_gsm": "5.38",
+"bz_gsm": "-0.23",
+"bt": "3.82"
+},
+{
+"time_tag": "2026-07-05T01:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.88",
+"by_gsm": "6.39",
+"bz_gsm": "-3.10",
+"bt": "4.89"
+},
+{
+"time_tag": "2026-07-05T01:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.58",
+"by_gsm": "-4.02",
+"bz_gsm": "0.23",
+"bt": "3.92"
+},
+{
+"time_tag": "2026-07-05T01:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.06",
+"by_gsm": "-2.29",
+"bz_gsm": "1.74",
+"bt": "3.49"
+},
+{
+"time_tag": "2026-07-05T01:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.68",
+"by_gsm": "3.17",
+"bz_gsm": "-0.73",
+"bt": "5.15"
+},
+{
+"time_tag": "2026-07-05T01:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.96",
+"by_gsm": "-4.23",
+"bz_gsm": "-3.26",
+"bt": "7.12"
+},
+{
+"time_tag": "2026-07-05T01:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.51",
+"by_gsm": "-2.52",
+"bz_gsm": "1.11",
+"bt": "6.37"
+},
+{
+"time_tag": "2026-07-05T01:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.95",
+"by_gsm": "-6.31",
+"bz_gsm": "-1.54",
+"bt": "5.04"
+},
+{
+"time_tag": "2026-07-05T01:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.04",
+"by_gsm": "6.49",
+"bz_gsm": "-5.75",
+"bt": "4.67"
+},
+{
+"time_tag": "2026-07-05T02:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.96",
+"by_gsm": "3.72",
+"bz_gsm": "-1.37",
+"bt": "5.18"
+},
+{
+"time_tag": "2026-07-05T02:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.43",
+"by_gsm": "1.60",
+"bz_gsm": "-0.06",
+"bt": "5.91"
+},
+{
+"time_tag": "2026-07-05T02:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.63",
+"by_gsm": "0.77",
+"bz_gsm": "-0.41",
+"bt": "3.71"
+},
+{
+"time_tag": "2026-07-05T02:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.13",
+"by_gsm": "-1.46",
+"bz_gsm": "0.94",
+"bt": "3.35"
+},
+{
+"time_tag": "2026-07-05T02:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.70",
+"by_gsm": "-1.39",
+"bz_gsm": "-0.04",
+"bt": "6.66"
+},
+{
+"time_tag": "2026-07-05T02:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.10",
+"by_gsm": "2.15",
+"bz_gsm": "-0.82",
+"bt": "5.25"
+},
+{
+"time_tag": "2026-07-05T02:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.39",
+"by_gsm": "-2.49",
+"bz_gsm": "-4.15",
+"bt": "6.42"
+},
+{
+"time_tag": "2026-07-05T02:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.28",
+"by_gsm": "4.30",
+"bz_gsm": "-2.78",
+"bt": "5.21"
+},
+{
+"time_tag": "2026-07-05T02:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.91",
+"by_gsm": "-1.72",
+"bz_gsm": "-0.74",
+"bt": "6.31"
+},
+{
+"time_tag": "2026-07-05T02:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.19",
+"by_gsm": "-3.06",
+"bz_gsm": "0.05",
+"bt": "4.46"
+},
+{
+"time_tag": "2026-07-05T02:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.42",
+"by_gsm": "4.54",
+"bz_gsm": "-2.65",
+"bt": "5.44"
+},
+{
+"time_tag": "2026-07-05T02:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.56",
+"by_gsm": "-0.50",
+"bz_gsm": "-1.99",
+"bt": "6.37"
+},
+{
+"time_tag": "2026-07-05T02:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.15",
+"by_gsm": "1.94",
+"bz_gsm": "-0.28",
+"bt": "5.90"
+},
+{
+"time_tag": "2026-07-05T02:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.08",
+"by_gsm": "-1.45",
+"bz_gsm": "-4.04",
+"bt": "4.59"
+},
+{
+"time_tag": "2026-07-05T02:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.19",
+"by_gsm": "-7.88",
+"bz_gsm": "-4.10",
+"bt": "5.79"
+},
+{
+"time_tag": "2026-07-05T02:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.43",
+"by_gsm": "1.92",
+"bz_gsm": "-1.38",
+"bt": "4.41"
+},
+{
+"time_tag": "2026-07-05T02:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.82",
+"by_gsm": "-4.71",
+"bz_gsm": "-0.62",
+"bt": "3.73"
+},
+{
+"time_tag": "2026-07-05T02:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.45",
+"by_gsm": "3.79",
+"bz_gsm": "-1.78",
+"bt": "5.46"
+},
+{
+"time_tag": "2026-07-05T02:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.37",
+"by_gsm": "-5.43",
+"bz_gsm": "-4.65",
+"bt": "6.24"
+},
+{
+"time_tag": "2026-07-05T02:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.80",
+"by_gsm": "-6.53",
+"bz_gsm": "-0.98",
+"bt": "5.75"
+},
+{
+"time_tag": "2026-07-05T02:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.07",
+"by_gsm": "1.08",
+"bz_gsm": "-3.12",
+"bt": "3.88"
+},
+{
+"time_tag": "2026-07-05T02:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-9.33",
+"by_gsm": "1.49",
+"bz_gsm": "0.02",
+"bt": "5.77"
+},
+{
+"time_tag": "2026-07-05T02:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.72",
+"by_gsm": "0.37",
+"bz_gsm": "-1.18",
+"bt": "5.60"
+},
+{
+"time_tag": "2026-07-05T02:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.90",
+"by_gsm": "-4.25",
+"bz_gsm": "-0.60",
+"bt": "4.59"
+},
+{
+"time_tag": "2026-07-05T02:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.47",
+"by_gsm": "3.11",
+"bz_gsm": "-0.00",
+"bt": "2.79"
+},
+{
+"time_tag": "2026-07-05T02:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.39",
+"by_gsm": "-5.13",
+"bz_gsm": "-1.85",
+"bt": "5.90"
+},
+{
+"time_tag": "2026-07-05T02:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.13",
+"by_gsm": "-1.62",
+"bz_gsm": "0.29",
+"bt": "5.79"
+},
+{
+"time_tag": "2026-07-05T02:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.75",
+"by_gsm": "-2.76",
+"bz_gsm": "0.95",
+"bt": "5.44"
+},
+{
+"time_tag": "2026-07-05T02:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.55",
+"by_gsm": "-1.32",
+"bz_gsm": "-0.39",
+"bt": "3.46"
+},
+{
+"time_tag": "2026-07-05T02:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.38",
+"by_gsm": "2.98",
+"bz_gsm": "1.09",
+"bt": "3.67"
+},
+{
+"time_tag": "2026-07-05T02:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.35",
+"by_gsm": "-2.22",
+"bz_gsm": "-2.01",
+"bt": "5.90"
+},
+{
+"time_tag": "2026-07-05T02:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.20",
+"by_gsm": "1.98",
+"bz_gsm": "0.43",
+"bt": "5.72"
+},
+{
+"time_tag": "2026-07-05T02:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.88",
+"by_gsm": "2.43",
+"bz_gsm": "-0.59",
+"bt": "5.44"
+},
+{
+"time_tag": "2026-07-05T02:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.61",
+"by_gsm": "-5.99",
+"bz_gsm": "-2.58",
+"bt": "4.78"
+},
+{
+"time_tag": "2026-07-05T02:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.32",
+"by_gsm": "-4.08",
+"bz_gsm": "-1.14",
+"bt": "5.35"
+},
+{
+"time_tag": "2026-07-05T02:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.33",
+"by_gsm": "-1.34",
+"bz_gsm": "-1.86",
+"bt": "4.52"
+},
+{
+"time_tag": "2026-07-05T02:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.64",
+"by_gsm": "-2.07",
+"bz_gsm": "-1.89",
+"bt": "4.72"
+},
+{
+"time_tag": "2026-07-05T02:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.00",
+"by_gsm": "1.08",
+"bz_gsm": "-0.88",
+"bt": "4.23"
+},
+{
+"time_tag": "2026-07-05T02:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.45",
+"by_gsm": "-6.76",
+"bz_gsm": "0.66",
+"bt": "5.23"
+},
+{
+"time_tag": "2026-07-05T02:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.86",
+"by_gsm": "2.52",
+"bz_gsm": "-1.52",
+"bt": "4.63"
+},
+{
+"time_tag": "2026-07-05T02:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.59",
+"by_gsm": "2.61",
+"bz_gsm": "-0.82",
+"bt": "5.85"
+},
+{
+"time_tag": "2026-07-05T02:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.02",
+"by_gsm": "-0.59",
+"bz_gsm": "-3.34",
+"bt": "5.64"
+},
+{
+"time_tag": "2026-07-05T02:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.59",
+"by_gsm": "-4.84",
+"bz_gsm": "-0.85",
+"bt": "4.27"
+},
+{
+"time_tag": "2026-07-05T02:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.13",
+"by_gsm": "0.02",
+"bz_gsm": "0.81",
+"bt": "6.64"
+},
+{
+"time_tag": "2026-07-05T02:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.87",
+"by_gsm": "-1.88",
+"bz_gsm": "0.26",
+"bt": "4.00"
+},
+{
+"time_tag": "2026-07-05T02:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.51",
+"by_gsm": "1.98",
+"bz_gsm": "-0.27",
+"bt": "5.40"
+},
+{
+"time_tag": "2026-07-05T02:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.10",
+"by_gsm": "-0.30",
+"bz_gsm": "-1.85",
+"bt": "5.97"
+},
+{
+"time_tag": "2026-07-05T02:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.80",
+"by_gsm": "2.55",
+"bz_gsm": "-2.56",
+"bt": "6.15"
+},
+{
+"time_tag": "2026-07-05T02:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.82",
+"by_gsm": "-1.52",
+"bz_gsm": "-1.17",
+"bt": "3.02"
+},
+{
+"time_tag": "2026-07-05T02:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.43",
+"by_gsm": "5.05",
+"bz_gsm": "-3.14",
+"bt": "5.90"
+},
+{
+"time_tag": "2026-07-05T02:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.76",
+"by_gsm": "-8.07",
+"bz_gsm": "-2.97",
+"bt": "6.09"
+},
+{
+"time_tag": "2026-07-05T02:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.11",
+"by_gsm": "-3.56",
+"bz_gsm": "0.47",
+"bt": "6.29"
+},
+{
+"time_tag": "2026-07-05T02:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.03",
+"by_gsm": "1.72",
+"bz_gsm": "-2.47",
+"bt": "3.00"
+},
+{
+"time_tag": "2026-07-05T02:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.97",
+"by_gsm": "-5.29",
+"bz_gsm": "1.83",
+"bt": "4.39"
+},
+{
+"time_tag": "2026-07-05T02:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.57",
+"by_gsm": "2.58",
+"bz_gsm": "-3.28",
+"bt": "4.91"
+},
+{
+"time_tag": "2026-07-05T02:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.32",
+"by_gsm": "-4.26",
+"bz_gsm": "-0.34",
+"bt": "4.60"
+},
+{
+"time_tag": "2026-07-05T02:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.16",
+"by_gsm": "0.33",
+"bz_gsm": "-2.87",
+"bt": "6.20"
+},
+{
+"time_tag": "2026-07-05T02:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.50",
+"by_gsm": "-3.20",
+"bz_gsm": "-0.74",
+"bt": "4.39"
+},
+{
+"time_tag": "2026-07-05T02:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.49",
+"by_gsm": "-1.54",
+"bz_gsm": "-2.67",
+"bt": "6.10"
+},
+{
+"time_tag": "2026-07-05T02:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.08",
+"by_gsm": "0.61",
+"bz_gsm": "-0.95",
+"bt": "5.50"
+},
+{
+"time_tag": "2026-07-05T03:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.77",
+"by_gsm": "-0.37",
+"bz_gsm": "-1.27",
+"bt": "3.69"
+},
+{
+"time_tag": "2026-07-05T03:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.55",
+"by_gsm": "-1.33",
+"bz_gsm": "-1.73",
+"bt": "4.11"
+},
+{
+"time_tag": "2026-07-05T03:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.26",
+"by_gsm": "7.54",
+"bz_gsm": "-0.21",
+"bt": "4.58"
+},
+{
+"time_tag": "2026-07-05T03:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.09",
+"by_gsm": "0.03",
+"bz_gsm": "1.37",
+"bt": "5.09"
+},
+{
+"time_tag": "2026-07-05T03:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.25",
+"by_gsm": "-3.39",
+"bz_gsm": "-1.96",
+"bt": "5.89"
+},
+{
+"time_tag": "2026-07-05T03:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.09",
+"by_gsm": "3.25",
+"bz_gsm": "0.38",
+"bt": "4.84"
+},
+{
+"time_tag": "2026-07-05T03:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.74",
+"by_gsm": "2.87",
+"bz_gsm": "-0.88",
+"bt": "5.82"
+},
+{
+"time_tag": "2026-07-05T03:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.01",
+"by_gsm": "4.28",
+"bz_gsm": "-1.07",
+"bt": "3.58"
+},
+{
+"time_tag": "2026-07-05T03:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.45",
+"by_gsm": "6.26",
+"bz_gsm": "2.46",
+"bt": "2.26"
+},
+{
+"time_tag": "2026-07-05T03:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.41",
+"by_gsm": "-3.29",
+"bz_gsm": "-4.46",
+"bt": "4.70"
+},
+{
+"time_tag": "2026-07-05T03:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.16",
+"by_gsm": "3.71",
+"bz_gsm": "-2.10",
+"bt": "5.41"
+},
+{
+"time_tag": "2026-07-05T03:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.87",
+"by_gsm": "3.99",
+"bz_gsm": "-3.89",
+"bt": "4.67"
+},
+{
+"time_tag": "2026-07-05T03:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.32",
+"by_gsm": "0.00",
+"bz_gsm": "-1.52",
+"bt": "4.09"
+},
+{
+"time_tag": "2026-07-05T03:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.17",
+"by_gsm": "0.86",
+"bz_gsm": "-1.38",
+"bt": "5.38"
+},
+{
+"time_tag": "2026-07-05T03:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.40",
+"by_gsm": "-10.51",
+"bz_gsm": "5.02",
+"bt": "6.74"
+},
+{
+"time_tag": "2026-07-05T03:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.03",
+"by_gsm": "-2.01",
+"bz_gsm": "-0.47",
+"bt": "4.91"
+},
+{
+"time_tag": "2026-07-05T03:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.29",
+"by_gsm": "6.26",
+"bz_gsm": "1.83",
+"bt": "4.35"
+},
+{
+"time_tag": "2026-07-05T03:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.00",
+"by_gsm": "-6.25",
+"bz_gsm": "1.04",
+"bt": "4.24"
+},
+{
+"time_tag": "2026-07-05T03:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.49",
+"by_gsm": "-1.87",
+"bz_gsm": "-1.72",
+"bt": "6.77"
+},
+{
+"time_tag": "2026-07-05T03:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.23",
+"by_gsm": "1.01",
+"bz_gsm": "-0.26",
+"bt": "4.96"
+},
+{
+"time_tag": "2026-07-05T03:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.46",
+"by_gsm": "2.01",
+"bz_gsm": "1.63",
+"bt": "5.55"
+},
+{
+"time_tag": "2026-07-05T03:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.18",
+"by_gsm": "5.71",
+"bz_gsm": "-0.74",
+"bt": "6.10"
+},
+{
+"time_tag": "2026-07-05T03:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.18",
+"by_gsm": "-6.17",
+"bz_gsm": "-0.69",
+"bt": "5.97"
+},
+{
+"time_tag": "2026-07-05T03:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.55",
+"by_gsm": "0.15",
+"bz_gsm": "-0.22",
+"bt": "4.17"
+},
+{
+"time_tag": "2026-07-05T03:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.62",
+"by_gsm": "3.01",
+"bz_gsm": "-3.40",
+"bt": "5.86"
+},
+{
+"time_tag": "2026-07-05T03:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.63",
+"by_gsm": "-4.60",
+"bz_gsm": "-2.31",
+"bt": "5.76"
+},
+{
+"time_tag": "2026-07-05T03:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.42",
+"by_gsm": "-0.14",
+"bz_gsm": "-0.49",
+"bt": "5.44"
+},
+{
+"time_tag": "2026-07-05T03:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.65",
+"by_gsm": "6.60",
+"bz_gsm": "-0.15",
+"bt": "5.91"
+},
+{
+"time_tag": "2026-07-05T03:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.39",
+"by_gsm": "4.61",
+"bz_gsm": "-2.48",
+"bt": "4.49"
+},
+{
+"time_tag": "2026-07-05T03:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.45",
+"by_gsm": "1.89",
+"bz_gsm": "-1.53",
+"bt": "4.93"
+},
+{
+"time_tag": "2026-07-05T03:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.49",
+"by_gsm": "-9.15",
+"bz_gsm": "-1.21",
+"bt": "4.53"
+},
+{
+"time_tag": "2026-07-05T03:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.17",
+"by_gsm": "-0.46",
+"bz_gsm": "-1.26",
+"bt": "5.68"
+},
+{
+"time_tag": "2026-07-05T03:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.33",
+"by_gsm": "1.35",
+"bz_gsm": "0.08",
+"bt": "4.41"
+},
+{
+"time_tag": "2026-07-05T03:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.01",
+"by_gsm": "-1.08",
+"bz_gsm": "-0.85",
+"bt": "5.35"
+},
+{
+"time_tag": "2026-07-05T03:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.85",
+"by_gsm": "-0.23",
+"bz_gsm": "-0.76",
+"bt": "4.02"
+},
+{
+"time_tag": "2026-07-05T03:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.38",
+"by_gsm": "10.79",
+"bz_gsm": "-3.26",
+"bt": "4.89"
+},
+{
+"time_tag": "2026-07-05T03:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.03",
+"by_gsm": "-0.75",
+"bz_gsm": "-2.69",
+"bt": "4.67"
+},
+{
+"time_tag": "2026-07-05T03:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.19",
+"by_gsm": "-3.39",
+"bz_gsm": "-0.51",
+"bt": "4.90"
+},
+{
+"time_tag": "2026-07-05T03:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.43",
+"by_gsm": "0.85",
+"bz_gsm": "-3.55",
+"bt": "5.12"
+},
+{
+"time_tag": "2026-07-05T03:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.28",
+"by_gsm": "-1.10",
+"bz_gsm": "-0.59",
+"bt": "4.83"
+},
+{
+"time_tag": "2026-07-05T03:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.99",
+"by_gsm": "-1.08",
+"bz_gsm": "-2.07",
+"bt": "4.80"
+},
+{
+"time_tag": "2026-07-05T03:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.30",
+"by_gsm": "-0.30",
+"bz_gsm": "-2.31",
+"bt": "3.14"
+},
+{
+"time_tag": "2026-07-05T03:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.51",
+"by_gsm": "2.71",
+"bz_gsm": "0.00",
+"bt": "5.99"
+},
+{
+"time_tag": "2026-07-05T03:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.18",
+"by_gsm": "0.83",
+"bz_gsm": "-2.10",
+"bt": "4.44"
+},
+{
+"time_tag": "2026-07-05T03:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.28",
+"by_gsm": "-4.21",
+"bz_gsm": "-2.39",
+"bt": "4.78"
+},
+{
+"time_tag": "2026-07-05T03:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.76",
+"by_gsm": "-0.46",
+"bz_gsm": "-2.10",
+"bt": "4.26"
+},
+{
+"time_tag": "2026-07-05T03:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.06",
+"by_gsm": "1.66",
+"bz_gsm": "-0.93",
+"bt": "5.90"
+},
+{
+"time_tag": "2026-07-05T03:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.57",
+"by_gsm": "-1.64",
+"bz_gsm": "3.33",
+"bt": "4.19"
+},
+{
+"time_tag": "2026-07-05T03:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.62",
+"by_gsm": "4.02",
+"bz_gsm": "-4.39",
+"bt": "5.45"
+},
+{
+"time_tag": "2026-07-05T03:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.99",
+"by_gsm": "2.72",
+"bz_gsm": "-1.06",
+"bt": "6.06"
+},
+{
+"time_tag": "2026-07-05T03:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.32",
+"by_gsm": "-3.47",
+"bz_gsm": "-1.41",
+"bt": "6.48"
+},
+{
+"time_tag": "2026-07-05T03:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.75",
+"by_gsm": "1.12",
+"bz_gsm": "0.48",
+"bt": "6.07"
+},
+{
+"time_tag": "2026-07-05T03:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.66",
+"by_gsm": "6.94",
+"bz_gsm": "-1.62",
+"bt": "5.56"
+},
+{
+"time_tag": "2026-07-05T03:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.04",
+"by_gsm": "5.46",
+"bz_gsm": "-4.95",
+"bt": "3.92"
+},
+{
+"time_tag": "2026-07-05T03:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.53",
+"by_gsm": "-0.20",
+"bz_gsm": "1.08",
+"bt": "6.16"
+},
+{
+"time_tag": "2026-07-05T03:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.03",
+"by_gsm": "3.14",
+"bz_gsm": "-2.76",
+"bt": "6.07"
+},
+{
+"time_tag": "2026-07-05T03:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.52",
+"by_gsm": "-2.36",
+"bz_gsm": "-1.13",
+"bt": "5.76"
+},
+{
+"time_tag": "2026-07-05T03:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.69",
+"by_gsm": "-5.07",
+"bz_gsm": "-3.21",
+"bt": "5.72"
+},
+{
+"time_tag": "2026-07-05T03:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.18",
+"by_gsm": "1.94",
+"bz_gsm": "-2.77",
+"bt": "5.07"
+},
+{
+"time_tag": "2026-07-05T03:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.69",
+"by_gsm": "0.86",
+"bz_gsm": "-1.82",
+"bt": "4.54"
+},
+{
+"time_tag": "2026-07-05T04:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.80",
+"by_gsm": "1.80",
+"bz_gsm": "0.33",
+"bt": "5.98"
+},
+{
+"time_tag": "2026-07-05T04:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.13",
+"by_gsm": "-0.09",
+"bz_gsm": "0.30",
+"bt": "6.15"
+},
+{
+"time_tag": "2026-07-05T04:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.94",
+"by_gsm": "1.14",
+"bz_gsm": "-1.99",
+"bt": "4.07"
+},
+{
+"time_tag": "2026-07-05T04:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.11",
+"by_gsm": "-1.80",
+"bz_gsm": "-0.24",
+"bt": "5.83"
+},
+{
+"time_tag": "2026-07-05T04:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.05",
+"by_gsm": "1.66",
+"bz_gsm": "-1.63",
+"bt": "5.23"
+},
+{
+"time_tag": "2026-07-05T04:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.88",
+"by_gsm": "2.92",
+"bz_gsm": "-0.86",
+"bt": "5.80"
+},
+{
+"time_tag": "2026-07-05T04:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.52",
+"by_gsm": "-0.20",
+"bz_gsm": "-0.79",
+"bt": "5.25"
+},
+{
+"time_tag": "2026-07-05T04:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.53",
+"by_gsm": "2.85",
+"bz_gsm": "-0.05",
+"bt": "6.01"
+},
+{
+"time_tag": "2026-07-05T04:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.06",
+"by_gsm": "-6.20",
+"bz_gsm": "-2.02",
+"bt": "5.93"
+},
+{
+"time_tag": "2026-07-05T04:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.94",
+"by_gsm": "-2.75",
+"bz_gsm": "-1.25",
+"bt": "5.81"
+},
+{
+"time_tag": "2026-07-05T04:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.65",
+"by_gsm": "5.06",
+"bz_gsm": "-0.69",
+"bt": "3.77"
+},
+{
+"time_tag": "2026-07-05T04:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.41",
+"by_gsm": "6.17",
+"bz_gsm": "-0.90",
+"bt": "5.75"
+},
+{
+"time_tag": "2026-07-05T04:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.40",
+"by_gsm": "0.88",
+"bz_gsm": "-2.31",
+"bt": "5.06"
+},
+{
+"time_tag": "2026-07-05T04:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.35",
+"by_gsm": "-0.36",
+"bz_gsm": "1.70",
+"bt": "4.00"
+},
+{
+"time_tag": "2026-07-05T04:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.72",
+"by_gsm": "-4.44",
+"bz_gsm": "-1.77",
+"bt": "5.65"
+},
+{
+"time_tag": "2026-07-05T04:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.11",
+"by_gsm": "1.27",
+"bz_gsm": "0.16",
+"bt": "3.79"
+},
+{
+"time_tag": "2026-07-05T04:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.16",
+"by_gsm": "2.72",
+"bz_gsm": "-0.72",
+"bt": "5.81"
+},
+{
+"time_tag": "2026-07-05T04:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.58",
+"by_gsm": "-5.19",
+"bz_gsm": "0.90",
+"bt": "6.53"
+},
+{
+"time_tag": "2026-07-05T04:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.83",
+"by_gsm": "1.96",
+"bz_gsm": "-4.52",
+"bt": "4.56"
+},
+{
+"time_tag": "2026-07-05T04:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.69",
+"by_gsm": "1.72",
+"bz_gsm": "2.22",
+"bt": "5.84"
+},
+{
+"time_tag": "2026-07-05T04:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.29",
+"by_gsm": "1.54",
+"bz_gsm": "-1.38",
+"bt": "5.42"
+},
+{
+"time_tag": "2026-07-05T04:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.98",
+"by_gsm": "-3.95",
+"bz_gsm": "-3.00",
+"bt": "5.60"
+},
+{
+"time_tag": "2026-07-05T04:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.22",
+"by_gsm": "1.90",
+"bz_gsm": "-0.84",
+"bt": "3.81"
+},
+{
+"time_tag": "2026-07-05T04:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.82",
+"by_gsm": "-5.24",
+"bz_gsm": "2.54",
+"bt": "5.56"
+},
+{
+"time_tag": "2026-07-05T04:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.12",
+"by_gsm": "5.21",
+"bz_gsm": "-0.24",
+"bt": "5.14"
+},
+{
+"time_tag": "2026-07-05T04:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.83",
+"by_gsm": "0.47",
+"bz_gsm": "-3.00",
+"bt": "5.68"
+},
+{
+"time_tag": "2026-07-05T04:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.40",
+"by_gsm": "-4.07",
+"bz_gsm": "-1.78",
+"bt": "5.03"
+},
+{
+"time_tag": "2026-07-05T04:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.88",
+"by_gsm": "4.71",
+"bz_gsm": "1.08",
+"bt": "6.00"
+},
+{
+"time_tag": "2026-07-05T04:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.83",
+"by_gsm": "4.04",
+"bz_gsm": "-3.28",
+"bt": "5.26"
+},
+{
+"time_tag": "2026-07-05T04:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.34",
+"by_gsm": "-2.28",
+"bz_gsm": "-1.33",
+"bt": "5.63"
+},
+{
+"time_tag": "2026-07-05T04:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.88",
+"by_gsm": "7.71",
+"bz_gsm": "-1.52",
+"bt": "6.24"
+},
+{
+"time_tag": "2026-07-05T04:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.49",
+"by_gsm": "-3.51",
+"bz_gsm": "2.40",
+"bt": "5.18"
+},
+{
+"time_tag": "2026-07-05T04:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.06",
+"by_gsm": "1.10",
+"bz_gsm": "-1.51",
+"bt": "5.91"
+},
+{
+"time_tag": "2026-07-05T04:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.46",
+"by_gsm": "4.14",
+"bz_gsm": "1.04",
+"bt": "5.23"
+},
+{
+"time_tag": "2026-07-05T04:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.74",
+"by_gsm": "-7.95",
+"bz_gsm": "-2.12",
+"bt": "5.49"
+},
+{
+"time_tag": "2026-07-05T04:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.29",
+"by_gsm": "3.51",
+"bz_gsm": "-2.33",
+"bt": "4.55"
+},
+{
+"time_tag": "2026-07-05T04:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.07",
+"by_gsm": "-0.23",
+"bz_gsm": "0.55",
+"bt": "5.72"
+},
+{
+"time_tag": "2026-07-05T04:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.76",
+"by_gsm": "-0.05",
+"bz_gsm": "-0.06",
+"bt": "6.12"
+},
+{
+"time_tag": "2026-07-05T04:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.68",
+"by_gsm": "-3.77",
+"bz_gsm": "-3.80",
+"bt": "4.95"
+},
+{
+"time_tag": "2026-07-05T04:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.96",
+"by_gsm": "1.16",
+"bz_gsm": "-0.03",
+"bt": "5.73"
+},
+{
+"time_tag": "2026-07-05T04:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.53",
+"by_gsm": "-3.88",
+"bz_gsm": "-0.03",
+"bt": "5.41"
+},
+{
+"time_tag": "2026-07-05T04:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.72",
+"by_gsm": "-3.39",
+"bz_gsm": "-2.02",
+"bt": "4.04"
+},
+{
+"time_tag": "2026-07-05T04:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.05",
+"by_gsm": "-1.57",
+"bz_gsm": "-0.70",
+"bt": "5.34"
+},
+{
+"time_tag": "2026-07-05T04:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.56",
+"by_gsm": "-4.30",
+"bz_gsm": "-0.62",
+"bt": "6.20"
+},
+{
+"time_tag": "2026-07-05T04:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.80",
+"by_gsm": "5.50",
+"bz_gsm": "-1.82",
+"bt": "4.60"
+},
+{
+"time_tag": "2026-07-05T04:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.15",
+"by_gsm": "-4.65",
+"bz_gsm": "-1.98",
+"bt": "3.44"
+},
+{
+"time_tag": "2026-07-05T04:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.25",
+"by_gsm": "-2.64",
+"bz_gsm": "-2.12",
+"bt": "5.21"
+},
+{
+"time_tag": "2026-07-05T04:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.39",
+"by_gsm": "-1.11",
+"bz_gsm": "-1.48",
+"bt": "4.46"
+},
+{
+"time_tag": "2026-07-05T04:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.60",
+"by_gsm": "0.01",
+"bz_gsm": "-3.16",
+"bt": "6.71"
+},
+{
+"time_tag": "2026-07-05T04:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.56",
+"by_gsm": "2.77",
+"bz_gsm": "-1.12",
+"bt": "4.99"
+},
+{
+"time_tag": "2026-07-05T04:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.18",
+"by_gsm": "2.86",
+"bz_gsm": "-3.43",
+"bt": "5.03"
+},
+{
+"time_tag": "2026-07-05T04:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.62",
+"by_gsm": "-1.06",
+"bz_gsm": "-0.93",
+"bt": "4.47"
+},
+{
+"time_tag": "2026-07-05T04:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.00",
+"by_gsm": "-1.34",
+"bz_gsm": "-1.19",
+"bt": "5.25"
+},
+{
+"time_tag": "2026-07-05T04:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.42",
+"by_gsm": "0.12",
+"bz_gsm": "-2.70",
+"bt": "4.53"
+},
+{
+"time_tag": "2026-07-05T04:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.20",
+"by_gsm": "2.88",
+"bz_gsm": "0.30",
+"bt": "4.23"
+},
+{
+"time_tag": "2026-07-05T04:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.49",
+"by_gsm": "2.44",
+"bz_gsm": "2.02",
+"bt": "4.98"
+},
+{
+"time_tag": "2026-07-05T04:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.09",
+"by_gsm": "-1.81",
+"bz_gsm": "1.05",
+"bt": "4.31"
+},
+{
+"time_tag": "2026-07-05T04:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.47",
+"by_gsm": "-7.21",
+"bz_gsm": "-3.22",
+"bt": "6.20"
+},
+{
+"time_tag": "2026-07-05T04:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.25",
+"by_gsm": "7.50",
+"bz_gsm": "0.97",
+"bt": "4.00"
+},
+{
+"time_tag": "2026-07-05T04:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.45",
+"by_gsm": "3.33",
+"bz_gsm": "-0.71",
+"bt": "4.97"
+},
+{
+"time_tag": "2026-07-05T05:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.70",
+"by_gsm": "0.92",
+"bz_gsm": "-1.14",
+"bt": "4.42"
+},
+{
+"time_tag": "2026-07-05T05:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.20",
+"by_gsm": "1.19",
+"bz_gsm": "-2.00",
+"bt": "3.81"
+},
+{
+"time_tag": "2026-07-05T05:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.18",
+"by_gsm": "-1.83",
+"bz_gsm": "-1.06",
+"bt": "6.50"
+},
+{
+"time_tag": "2026-07-05T05:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.91",
+"by_gsm": "-3.50",
+"bz_gsm": "1.15",
+"bt": "3.17"
+},
+{
+"time_tag": "2026-07-05T05:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.39",
+"by_gsm": "-1.16",
+"bz_gsm": "-0.19",
+"bt": "6.32"
+},
+{
+"time_tag": "2026-07-05T05:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.60",
+"by_gsm": "-0.78",
+"bz_gsm": "-1.71",
+"bt": "3.78"
+},
+{
+"time_tag": "2026-07-05T05:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.22",
+"by_gsm": "-2.19",
+"bz_gsm": "-2.12",
+"bt": "5.11"
+},
+{
+"time_tag": "2026-07-05T05:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.80",
+"by_gsm": "-5.10",
+"bz_gsm": "-1.71",
+"bt": "7.03"
+},
+{
+"time_tag": "2026-07-05T05:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.04",
+"by_gsm": "-1.09",
+"bz_gsm": "-0.12",
+"bt": "3.15"
+},
+{
+"time_tag": "2026-07-05T05:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.47",
+"by_gsm": "2.02",
+"bz_gsm": "1.91",
+"bt": "3.82"
+},
+{
+"time_tag": "2026-07-05T05:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.62",
+"by_gsm": "-1.73",
+"bz_gsm": "-2.73",
+"bt": "6.19"
+},
+{
+"time_tag": "2026-07-05T05:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.95",
+"by_gsm": "0.08",
+"bz_gsm": "-1.06",
+"bt": "5.18"
+},
+{
+"time_tag": "2026-07-05T05:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.17",
+"by_gsm": "-7.25",
+"bz_gsm": "-1.67",
+"bt": "4.55"
+},
+{
+"time_tag": "2026-07-05T05:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.36",
+"by_gsm": "-0.73",
+"bz_gsm": "-2.25",
+"bt": "5.00"
+},
+{
+"time_tag": "2026-07-05T05:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.75",
+"by_gsm": "-0.43",
+"bz_gsm": "-0.42",
+"bt": "4.18"
+},
+{
+"time_tag": "2026-07-05T05:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.31",
+"by_gsm": "-4.29",
+"bz_gsm": "-0.18",
+"bt": "5.14"
+},
+{
+"time_tag": "2026-07-05T05:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.02",
+"by_gsm": "-6.05",
+"bz_gsm": "-3.30",
+"bt": "6.35"
+},
+{
+"time_tag": "2026-07-05T05:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.40",
+"by_gsm": "1.44",
+"bz_gsm": "-2.70",
+"bt": "4.69"
+},
+{
+"time_tag": "2026-07-05T05:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.12",
+"by_gsm": "-2.83",
+"bz_gsm": "0.84",
+"bt": "5.15"
+},
+{
+"time_tag": "2026-07-05T05:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.42",
+"by_gsm": "1.71",
+"bz_gsm": "-0.55",
+"bt": "6.09"
+},
+{
+"time_tag": "2026-07-05T05:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.05",
+"by_gsm": "-1.47",
+"bz_gsm": "-0.23",
+"bt": "6.79"
+},
+{
+"time_tag": "2026-07-05T05:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.89",
+"by_gsm": "2.18",
+"bz_gsm": "-1.85",
+"bt": "4.51"
+},
+{
+"time_tag": "2026-07-05T05:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.90",
+"by_gsm": "-1.19",
+"bz_gsm": "-1.66",
+"bt": "5.30"
+},
+{
+"time_tag": "2026-07-05T05:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.38",
+"by_gsm": "-5.27",
+"bz_gsm": "-0.33",
+"bt": "4.54"
+},
+{
+"time_tag": "2026-07-05T05:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.67",
+"by_gsm": "-0.30",
+"bz_gsm": "-1.84",
+"bt": "4.46"
+},
+{
+"time_tag": "2026-07-05T05:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.40",
+"by_gsm": "-1.15",
+"bz_gsm": "-2.82",
+"bt": "4.68"
+},
+{
+"time_tag": "2026-07-05T05:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.49",
+"by_gsm": "2.30",
+"bz_gsm": "-1.05",
+"bt": "4.47"
+},
+{
+"time_tag": "2026-07-05T05:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.33",
+"by_gsm": "-1.58",
+"bz_gsm": "0.38",
+"bt": "3.51"
+},
+{
+"time_tag": "2026-07-05T05:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.03",
+"by_gsm": "-1.38",
+"bz_gsm": "-2.69",
+"bt": "3.28"
+},
+{
+"time_tag": "2026-07-05T05:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.72",
+"by_gsm": "3.01",
+"bz_gsm": "0.62",
+"bt": "4.39"
+},
+{
+"time_tag": "2026-07-05T05:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.12",
+"by_gsm": "4.08",
+"bz_gsm": "0.06",
+"bt": "5.15"
+},
+{
+"time_tag": "2026-07-05T05:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.49",
+"by_gsm": "2.66",
+"bz_gsm": "-2.42",
+"bt": "6.10"
+},
+{
+"time_tag": "2026-07-05T05:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.96",
+"by_gsm": "3.63",
+"bz_gsm": "-1.04",
+"bt": "4.56"
+},
+{
+"time_tag": "2026-07-05T05:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.22",
+"by_gsm": "1.59",
+"bz_gsm": "-1.12",
+"bt": "4.88"
+},
+{
+"time_tag": "2026-07-05T05:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.53",
+"by_gsm": "2.70",
+"bz_gsm": "-0.05",
+"bt": "5.61"
+},
+{
+"time_tag": "2026-07-05T05:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.47",
+"by_gsm": "3.07",
+"bz_gsm": "0.00",
+"bt": "5.68"
+},
+{
+"time_tag": "2026-07-05T05:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.26",
+"by_gsm": "1.41",
+"bz_gsm": "-3.12",
+"bt": "4.93"
+},
+{
+"time_tag": "2026-07-05T05:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.01",
+"by_gsm": "0.22",
+"bz_gsm": "-3.19",
+"bt": "4.98"
+},
+{
+"time_tag": "2026-07-05T05:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.07",
+"by_gsm": "0.50",
+"bz_gsm": "0.58",
+"bt": "6.68"
+},
+{
+"time_tag": "2026-07-05T05:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.87",
+"by_gsm": "8.42",
+"bz_gsm": "-0.88",
+"bt": "4.74"
+},
+{
+"time_tag": "2026-07-05T05:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.10",
+"by_gsm": "0.05",
+"bz_gsm": "-0.39",
+"bt": "4.60"
+},
+{
+"time_tag": "2026-07-05T05:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.25",
+"by_gsm": "-0.83",
+"bz_gsm": "-0.53",
+"bt": "3.60"
+},
+{
+"time_tag": "2026-07-05T05:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.46",
+"by_gsm": "-1.27",
+"bz_gsm": "1.37",
+"bt": "5.41"
+},
+{
+"time_tag": "2026-07-05T05:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.11",
+"by_gsm": "-0.12",
+"bz_gsm": "-2.97",
+"bt": "4.80"
+},
+{
+"time_tag": "2026-07-05T05:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.98",
+"by_gsm": "0.85",
+"bz_gsm": "0.67",
+"bt": "6.71"
+},
+{
+"time_tag": "2026-07-05T05:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.83",
+"by_gsm": "-3.96",
+"bz_gsm": "-2.35",
+"bt": "4.74"
+},
+{
+"time_tag": "2026-07-05T05:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.41",
+"by_gsm": "-6.93",
+"bz_gsm": "0.10",
+"bt": "5.75"
+},
+{
+"time_tag": "2026-07-05T05:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.55",
+"by_gsm": "1.03",
+"bz_gsm": "1.07",
+"bt": "5.85"
+},
+{
+"time_tag": "2026-07-05T05:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.00",
+"by_gsm": "-5.62",
+"bz_gsm": "-3.24",
+"bt": "6.48"
+},
+{
+"time_tag": "2026-07-05T05:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.70",
+"by_gsm": "0.91",
+"bz_gsm": "-0.42",
+"bt": "3.88"
+},
+{
+"time_tag": "2026-07-05T05:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.22",
+"by_gsm": "0.49",
+"bz_gsm": "-1.49",
+"bt": "6.41"
+},
+{
+"time_tag": "2026-07-05T05:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.37",
+"by_gsm": "4.04",
+"bz_gsm": "-1.51",
+"bt": "5.04"
+},
+{
+"time_tag": "2026-07-05T05:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.79",
+"by_gsm": "5.85",
+"bz_gsm": "-0.99",
+"bt": "4.94"
+},
+{
+"time_tag": "2026-07-05T05:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.66",
+"by_gsm": "1.29",
+"bz_gsm": "-2.72",
+"bt": "4.76"
+},
+{
+"time_tag": "2026-07-05T05:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.59",
+"by_gsm": "-1.94",
+"bz_gsm": "-2.58",
+"bt": "4.68"
+},
+{
+"time_tag": "2026-07-05T05:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.20",
+"by_gsm": "-4.11",
+"bz_gsm": "-0.01",
+"bt": "4.73"
+},
+{
+"time_tag": "2026-07-05T05:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.20",
+"by_gsm": "-2.77",
+"bz_gsm": "0.28",
+"bt": "2.98"
+},
+{
+"time_tag": "2026-07-05T05:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.99",
+"by_gsm": "0.14",
+"bz_gsm": "-1.95",
+"bt": "5.48"
+},
+{
+"time_tag": "2026-07-05T05:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.27",
+"by_gsm": "-7.24",
+"bz_gsm": "-3.36",
+"bt": "5.09"
+},
+{
+"time_tag": "2026-07-05T05:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.54",
+"by_gsm": "0.26",
+"bz_gsm": "2.61",
+"bt": "4.19"
+},
+{
+"time_tag": "2026-07-05T06:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.64",
+"by_gsm": "-0.04",
+"bz_gsm": "0.68",
+"bt": "4.98"
+},
+{
+"time_tag": "2026-07-05T06:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.64",
+"by_gsm": "2.26",
+"bz_gsm": "-0.49",
+"bt": "7.06"
+},
+{
+"time_tag": "2026-07-05T06:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.04",
+"by_gsm": "-1.17",
+"bz_gsm": "-2.68",
+"bt": "5.37"
+},
+{
+"time_tag": "2026-07-05T06:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.35",
+"by_gsm": "0.36",
+"bz_gsm": "-1.98",
+"bt": "4.69"
+},
+{
+"time_tag": "2026-07-05T06:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.50",
+"by_gsm": "-2.58",
+"bz_gsm": "-0.67",
+"bt": "6.54"
+},
+{
+"time_tag": "2026-07-05T06:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.99",
+"by_gsm": "-1.62",
+"bz_gsm": "-2.57",
+"bt": "4.33"
+},
+{
+"time_tag": "2026-07-05T06:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.53",
+"by_gsm": "-6.21",
+"bz_gsm": "1.48",
+"bt": "4.90"
+},
+{
+"time_tag": "2026-07-05T06:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.80",
+"by_gsm": "0.43",
+"bz_gsm": "-0.84",
+"bt": "4.54"
+},
+{
+"time_tag": "2026-07-05T06:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.29",
+"by_gsm": "5.42",
+"bz_gsm": "-0.43",
+"bt": "4.82"
+},
+{
+"time_tag": "2026-07-05T06:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.12",
+"by_gsm": "0.57",
+"bz_gsm": "-2.68",
+"bt": "5.67"
+},
+{
+"time_tag": "2026-07-05T06:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.40",
+"by_gsm": "1.28",
+"bz_gsm": "-2.49",
+"bt": "5.54"
+},
+{
+"time_tag": "2026-07-05T06:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.31",
+"by_gsm": "-3.44",
+"bz_gsm": "-2.30",
+"bt": "4.39"
+},
+{
+"time_tag": "2026-07-05T06:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "7.02",
+"by_gsm": "5.01",
+"bz_gsm": "-0.62",
+"bt": "4.92"
+},
+{
+"time_tag": "2026-07-05T06:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.03",
+"by_gsm": "-2.68",
+"bz_gsm": "-1.47",
+"bt": "5.11"
+},
+{
+"time_tag": "2026-07-05T06:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.06",
+"by_gsm": "2.81",
+"bz_gsm": "-1.51",
+"bt": "4.67"
+},
+{
+"time_tag": "2026-07-05T06:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.69",
+"by_gsm": "0.38",
+"bz_gsm": "-0.56",
+"bt": "5.00"
+},
+{
+"time_tag": "2026-07-05T06:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.25",
+"by_gsm": "-3.36",
+"bz_gsm": "-0.70",
+"bt": "4.40"
+},
+{
+"time_tag": "2026-07-05T06:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.73",
+"by_gsm": "3.60",
+"bz_gsm": "1.29",
+"bt": "4.38"
+},
+{
+"time_tag": "2026-07-05T06:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.14",
+"by_gsm": "0.05",
+"bz_gsm": "-1.37",
+"bt": "5.07"
+},
+{
+"time_tag": "2026-07-05T06:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.86",
+"by_gsm": "0.63",
+"bz_gsm": "-2.65",
+"bt": "4.12"
+},
+{
+"time_tag": "2026-07-05T06:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.06",
+"by_gsm": "1.58",
+"bz_gsm": "-1.07",
+"bt": "5.40"
+},
+{
+"time_tag": "2026-07-05T06:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.44",
+"by_gsm": "-0.08",
+"bz_gsm": "1.25",
+"bt": "4.86"
+},
+{
+"time_tag": "2026-07-05T06:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.93",
+"by_gsm": "-1.33",
+"bz_gsm": "-1.93",
+"bt": "4.22"
+},
+{
+"time_tag": "2026-07-05T06:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.74",
+"by_gsm": "1.63",
+"bz_gsm": "-0.98",
+"bt": "4.49"
+},
+{
+"time_tag": "2026-07-05T06:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.56",
+"by_gsm": "-1.42",
+"bz_gsm": "-1.62",
+"bt": "4.61"
+},
+{
+"time_tag": "2026-07-05T06:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.33",
+"by_gsm": "0.23",
+"bz_gsm": "-0.42",
+"bt": "4.89"
+},
+{
+"time_tag": "2026-07-05T06:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.72",
+"by_gsm": "-2.34",
+"bz_gsm": "-0.65",
+"bt": "5.13"
+},
+{
+"time_tag": "2026-07-05T06:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.07",
+"by_gsm": "-5.22",
+"bz_gsm": "-2.33",
+"bt": "4.85"
+},
+{
+"time_tag": "2026-07-05T06:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.30",
+"by_gsm": "-2.36",
+"bz_gsm": "-1.41",
+"bt": "4.27"
+},
+{
+"time_tag": "2026-07-05T06:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.61",
+"by_gsm": "-1.73",
+"bz_gsm": "0.43",
+"bt": "6.28"
+},
+{
+"time_tag": "2026-07-05T06:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.85",
+"by_gsm": "0.05",
+"bz_gsm": "0.67",
+"bt": "5.82"
+},
+{
+"time_tag": "2026-07-05T06:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.57",
+"by_gsm": "4.15",
+"bz_gsm": "0.40",
+"bt": "5.12"
+},
+{
+"time_tag": "2026-07-05T06:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.41",
+"by_gsm": "-5.91",
+"bz_gsm": "0.30",
+"bt": "5.86"
+},
+{
+"time_tag": "2026-07-05T06:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.11",
+"by_gsm": "0.45",
+"bz_gsm": "-1.58",
+"bt": "5.31"
+},
+{
+"time_tag": "2026-07-05T06:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.40",
+"by_gsm": "-7.74",
+"bz_gsm": "-1.63",
+"bt": "4.80"
+},
+{
+"time_tag": "2026-07-05T06:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.71",
+"by_gsm": "-3.66",
+"bz_gsm": "0.41",
+"bt": "5.10"
+},
+{
+"time_tag": "2026-07-05T06:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.92",
+"by_gsm": "-1.77",
+"bz_gsm": "-2.90",
+"bt": "7.36"
+},
+{
+"time_tag": "2026-07-05T06:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.98",
+"by_gsm": "-7.89",
+"bz_gsm": "-1.14",
+"bt": "5.90"
+},
+{
+"time_tag": "2026-07-05T06:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.88",
+"by_gsm": "-6.50",
+"bz_gsm": "-3.98",
+"bt": "5.94"
+},
+{
+"time_tag": "2026-07-05T06:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.16",
+"by_gsm": "0.54",
+"bz_gsm": "-1.65",
+"bt": "4.68"
+},
+{
+"time_tag": "2026-07-05T06:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.34",
+"by_gsm": "0.27",
+"bz_gsm": "-2.16",
+"bt": "5.55"
+},
+{
+"time_tag": "2026-07-05T06:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.57",
+"by_gsm": "-0.40",
+"bz_gsm": "-2.95",
+"bt": "7.00"
+},
+{
+"time_tag": "2026-07-05T06:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.13",
+"by_gsm": "-2.81",
+"bz_gsm": "-0.14",
+"bt": "5.40"
+},
+{
+"time_tag": "2026-07-05T06:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-7.15",
+"by_gsm": "7.54",
+"bz_gsm": "-2.21",
+"bt": "5.96"
+},
+{
+"time_tag": "2026-07-05T06:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.39",
+"by_gsm": "-0.56",
+"bz_gsm": "-1.63",
+"bt": "6.13"
+},
+{
+"time_tag": "2026-07-05T06:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.70",
+"by_gsm": "-3.02",
+"bz_gsm": "-1.46",
+"bt": "5.59"
+},
+{
+"time_tag": "2026-07-05T06:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.43",
+"by_gsm": "5.87",
+"bz_gsm": "-2.21",
+"bt": "6.40"
+},
+{
+"time_tag": "2026-07-05T06:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.16",
+"by_gsm": "2.15",
+"bz_gsm": "1.18",
+"bt": "5.23"
+},
+{
+"time_tag": "2026-07-05T06:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.13",
+"by_gsm": "-1.30",
+"bz_gsm": "-1.83",
+"bt": "5.46"
+},
+{
+"time_tag": "2026-07-05T06:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.48",
+"by_gsm": "4.17",
+"bz_gsm": "-0.74",
+"bt": "4.48"
+},
+{
+"time_tag": "2026-07-05T06:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.55",
+"by_gsm": "0.55",
+"bz_gsm": "-3.11",
+"bt": "7.33"
+},
+{
+"time_tag": "2026-07-05T06:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.96",
+"by_gsm": "2.25",
+"bz_gsm": "-1.80",
+"bt": "5.29"
+},
+{
+"time_tag": "2026-07-05T06:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.70",
+"by_gsm": "0.82",
+"bz_gsm": "-1.56",
+"bt": "5.12"
+},
+{
+"time_tag": "2026-07-05T06:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.37",
+"by_gsm": "-3.60",
+"bz_gsm": "-1.53",
+"bt": "6.24"
+},
+{
+"time_tag": "2026-07-05T06:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.98",
+"by_gsm": "3.40",
+"bz_gsm": "-1.97",
+"bt": "4.60"
+},
+{
+"time_tag": "2026-07-05T06:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.61",
+"by_gsm": "0.56",
+"bz_gsm": "-0.83",
+"bt": "5.02"
+},
+{
+"time_tag": "2026-07-05T06:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.43",
+"by_gsm": "-3.53",
+"bz_gsm": "1.40",
+"bt": "4.34"
+},
+{
+"time_tag": "2026-07-05T06:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.23",
+"by_gsm": "-2.67",
+"bz_gsm": "-1.26",
+"bt": "5.05"
+},
+{
+"time_tag": "2026-07-05T06:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.68",
+"by_gsm": "3.34",
+"bz_gsm": "-1.27",
+"bt": "4.69"
+},
+{
+"time_tag": "2026-07-05T06:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.38",
+"by_gsm": "-1.29",
+"bz_gsm": "-1.67",
+"bt": "5.50"
+},
+{
+"time_tag": "2026-07-05T07:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.50",
+"by_gsm": "0.16",
+"bz_gsm": "2.93",
+"bt": "4.91"
+},
+{
+"time_tag": "2026-07-05T07:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.32",
+"by_gsm": "2.29",
+"bz_gsm": "1.48",
+"bt": "4.50"
+},
+{
+"time_tag": "2026-07-05T07:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.75",
+"by_gsm": "0.45",
+"bz_gsm": "-0.18",
+"bt": "4.77"
+},
+{
+"time_tag": "2026-07-05T07:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.61",
+"by_gsm": "-5.34",
+"bz_gsm": "0.06",
+"bt": "4.92"
+},
+{
+"time_tag": "2026-07-05T07:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.89",
+"by_gsm": "2.23",
+"bz_gsm": "-2.17",
+"bt": "4.58"
+},
+{
+"time_tag": "2026-07-05T07:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.69",
+"by_gsm": "3.28",
+"bz_gsm": "-1.29",
+"bt": "5.84"
+},
+{
+"time_tag": "2026-07-05T07:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.30",
+"by_gsm": "3.03",
+"bz_gsm": "-0.72",
+"bt": "5.61"
+},
+{
+"time_tag": "2026-07-05T07:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.84",
+"by_gsm": "5.66",
+"bz_gsm": "-0.86",
+"bt": "5.15"
+},
+{
+"time_tag": "2026-07-05T07:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.82",
+"by_gsm": "1.27",
+"bz_gsm": "-2.40",
+"bt": "3.99"
+},
+{
+"time_tag": "2026-07-05T07:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.39",
+"by_gsm": "2.72",
+"bz_gsm": "-2.28",
+"bt": "5.48"
+},
+{
+"time_tag": "2026-07-05T07:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.59",
+"by_gsm": "5.56",
+"bz_gsm": "-0.24",
+"bt": "3.91"
+},
+{
+"time_tag": "2026-07-05T07:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.33",
+"by_gsm": "-1.02",
+"bz_gsm": "-0.56",
+"bt": "5.19"
+},
+{
+"time_tag": "2026-07-05T07:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.26",
+"by_gsm": "6.08",
+"bz_gsm": "-4.36",
+"bt": "5.07"
+},
+{
+"time_tag": "2026-07-05T07:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.66",
+"by_gsm": "6.07",
+"bz_gsm": "-0.91",
+"bt": "4.51"
+},
+{
+"time_tag": "2026-07-05T07:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.79",
+"by_gsm": "2.74",
+"bz_gsm": "0.95",
+"bt": "4.30"
+},
+{
+"time_tag": "2026-07-05T07:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.61",
+"by_gsm": "6.44",
+"bz_gsm": "-2.06",
+"bt": "4.42"
+},
+{
+"time_tag": "2026-07-05T07:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.79",
+"by_gsm": "2.98",
+"bz_gsm": "-0.67",
+"bt": "6.81"
+},
+{
+"time_tag": "2026-07-05T07:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.99",
+"by_gsm": "-3.08",
+"bz_gsm": "-3.33",
+"bt": "4.79"
+},
+{
+"time_tag": "2026-07-05T07:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.11",
+"by_gsm": "3.98",
+"bz_gsm": "0.26",
+"bt": "4.84"
+},
+{
+"time_tag": "2026-07-05T07:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.01",
+"by_gsm": "1.14",
+"bz_gsm": "-2.80",
+"bt": "5.86"
+},
+{
+"time_tag": "2026-07-05T07:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.72",
+"by_gsm": "1.45",
+"bz_gsm": "-3.01",
+"bt": "5.39"
+},
+{
+"time_tag": "2026-07-05T07:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.14",
+"by_gsm": "0.54",
+"bz_gsm": "-1.55",
+"bt": "5.94"
+},
+{
+"time_tag": "2026-07-05T07:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.00",
+"by_gsm": "4.76",
+"bz_gsm": "2.67",
+"bt": "3.96"
+},
+{
+"time_tag": "2026-07-05T07:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.90",
+"by_gsm": "1.93",
+"bz_gsm": "-2.01",
+"bt": "4.08"
+},
+{
+"time_tag": "2026-07-05T07:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.99",
+"by_gsm": "-2.44",
+"bz_gsm": "-3.03",
+"bt": "7.92"
+},
+{
+"time_tag": "2026-07-05T07:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.57",
+"by_gsm": "1.70",
+"bz_gsm": "-0.32",
+"bt": "4.99"
+},
+{
+"time_tag": "2026-07-05T07:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-7.78",
+"by_gsm": "2.55",
+"bz_gsm": "-0.69",
+"bt": "4.77"
+},
+{
+"time_tag": "2026-07-05T07:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.59",
+"by_gsm": "-2.54",
+"bz_gsm": "1.55",
+"bt": "5.16"
+},
+{
+"time_tag": "2026-07-05T07:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.85",
+"by_gsm": "-1.52",
+"bz_gsm": "-3.04",
+"bt": "5.89"
+},
+{
+"time_tag": "2026-07-05T07:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.63",
+"by_gsm": "-1.34",
+"bz_gsm": "-3.55",
+"bt": "3.99"
+},
+{
+"time_tag": "2026-07-05T07:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.62",
+"by_gsm": "-2.13",
+"bz_gsm": "-1.54",
+"bt": "5.27"
+},
+{
+"time_tag": "2026-07-05T07:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.88",
+"by_gsm": "1.22",
+"bz_gsm": "-0.45",
+"bt": "5.00"
+},
+{
+"time_tag": "2026-07-05T07:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.22",
+"by_gsm": "3.56",
+"bz_gsm": "-0.49",
+"bt": "5.61"
+},
+{
+"time_tag": "2026-07-05T07:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.02",
+"by_gsm": "6.62",
+"bz_gsm": "0.65",
+"bt": "5.17"
+},
+{
+"time_tag": "2026-07-05T07:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.41",
+"by_gsm": "4.18",
+"bz_gsm": "-3.39",
+"bt": "4.56"
+},
+{
+"time_tag": "2026-07-05T07:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.93",
+"by_gsm": "3.58",
+"bz_gsm": "-2.34",
+"bt": "4.27"
+},
+{
+"time_tag": "2026-07-05T07:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.49",
+"by_gsm": "4.00",
+"bz_gsm": "-1.26",
+"bt": "2.91"
+},
+{
+"time_tag": "2026-07-05T07:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.57",
+"by_gsm": "4.67",
+"bz_gsm": "0.27",
+"bt": "5.87"
+},
+{
+"time_tag": "2026-07-05T07:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.45",
+"by_gsm": "-1.32",
+"bz_gsm": "-0.30",
+"bt": "3.75"
+},
+{
+"time_tag": "2026-07-05T07:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.44",
+"by_gsm": "2.43",
+"bz_gsm": "-1.71",
+"bt": "4.67"
+},
+{
+"time_tag": "2026-07-05T07:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.06",
+"by_gsm": "1.13",
+"bz_gsm": "-2.65",
+"bt": "6.47"
+},
+{
+"time_tag": "2026-07-05T07:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.84",
+"by_gsm": "-0.45",
+"bz_gsm": "0.34",
+"bt": "4.66"
+},
+{
+"time_tag": "2026-07-05T07:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.05",
+"by_gsm": "-1.59",
+"bz_gsm": "0.44",
+"bt": "5.55"
+},
+{
+"time_tag": "2026-07-05T07:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.68",
+"by_gsm": "-1.77",
+"bz_gsm": "3.21",
+"bt": "4.84"
+},
+{
+"time_tag": "2026-07-05T07:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.03",
+"by_gsm": "-0.94",
+"bz_gsm": "-1.33",
+"bt": "5.63"
+},
+{
+"time_tag": "2026-07-05T07:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.44",
+"by_gsm": "-4.32",
+"bz_gsm": "1.43",
+"bt": "5.11"
+},
+{
+"time_tag": "2026-07-05T07:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.91",
+"by_gsm": "1.83",
+"bz_gsm": "-3.08",
+"bt": "4.71"
+},
+{
+"time_tag": "2026-07-05T07:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.04",
+"by_gsm": "-0.08",
+"bz_gsm": "-2.10",
+"bt": "6.38"
+},
+{
+"time_tag": "2026-07-05T07:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.27",
+"by_gsm": "0.37",
+"bz_gsm": "-2.37",
+"bt": "5.04"
+},
+{
+"time_tag": "2026-07-05T07:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.00",
+"by_gsm": "1.19",
+"bz_gsm": "-2.10",
+"bt": "4.17"
+},
+{
+"time_tag": "2026-07-05T07:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.81",
+"by_gsm": "2.54",
+"bz_gsm": "-2.81",
+"bt": "5.11"
+},
+{
+"time_tag": "2026-07-05T07:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.11",
+"by_gsm": "-2.07",
+"bz_gsm": "-2.36",
+"bt": "5.92"
+},
+{
+"time_tag": "2026-07-05T07:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.67",
+"by_gsm": "-0.37",
+"bz_gsm": "-1.66",
+"bt": "4.55"
+},
+{
+"time_tag": "2026-07-05T07:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.65",
+"by_gsm": "-5.63",
+"bz_gsm": "-2.34",
+"bt": "6.26"
+},
+{
+"time_tag": "2026-07-05T07:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.89",
+"by_gsm": "-7.77",
+"bz_gsm": "-0.67",
+"bt": "6.30"
+},
+{
+"time_tag": "2026-07-05T07:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.39",
+"by_gsm": "-6.79",
+"bz_gsm": "-1.90",
+"bt": "7.54"
+},
+{
+"time_tag": "2026-07-05T07:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.82",
+"by_gsm": "5.38",
+"bz_gsm": "-1.83",
+"bt": "5.21"
+},
+{
+"time_tag": "2026-07-05T07:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.07",
+"by_gsm": "-6.39",
+"bz_gsm": "0.41",
+"bt": "6.40"
+},
+{
+"time_tag": "2026-07-05T07:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.39",
+"by_gsm": "1.65",
+"bz_gsm": "-1.47",
+"bt": "4.44"
+},
+{
+"time_tag": "2026-07-05T07:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.72",
+"by_gsm": "5.17",
+"bz_gsm": "-1.79",
+"bt": "5.58"
+},
+{
+"time_tag": "2026-07-05T08:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.89",
+"by_gsm": "-1.60",
+"bz_gsm": "-2.12",
+"bt": "6.10"
+},
+{
+"time_tag": "2026-07-05T08:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.22",
+"by_gsm": "5.70",
+"bz_gsm": "-2.06",
+"bt": "6.42"
+},
+{
+"time_tag": "2026-07-05T08:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.24",
+"by_gsm": "6.47",
+"bz_gsm": "-1.33",
+"bt": "6.08"
+},
+{
+"time_tag": "2026-07-05T08:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.89",
+"by_gsm": "3.31",
+"bz_gsm": "-3.55",
+"bt": "6.11"
+},
+{
+"time_tag": "2026-07-05T08:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.40",
+"by_gsm": "8.30",
+"bz_gsm": "-0.56",
+"bt": "5.72"
+},
+{
+"time_tag": "2026-07-05T08:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.04",
+"by_gsm": "2.18",
+"bz_gsm": "0.04",
+"bt": "5.93"
+},
+{
+"time_tag": "2026-07-05T08:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.35",
+"by_gsm": "-2.55",
+"bz_gsm": "-0.68",
+"bt": "6.64"
+},
+{
+"time_tag": "2026-07-05T08:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.51",
+"by_gsm": "1.83",
+"bz_gsm": "-3.32",
+"bt": "6.92"
+},
+{
+"time_tag": "2026-07-05T08:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.56",
+"by_gsm": "-1.54",
+"bz_gsm": "-5.11",
+"bt": "7.05"
+},
+{
+"time_tag": "2026-07-05T08:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.91",
+"by_gsm": "-4.55",
+"bz_gsm": "-3.37",
+"bt": "7.42"
+},
+{
+"time_tag": "2026-07-05T08:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.56",
+"by_gsm": "-4.45",
+"bz_gsm": "-2.51",
+"bt": "7.65"
+},
+{
+"time_tag": "2026-07-05T08:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.75",
+"by_gsm": "8.11",
+"bz_gsm": "-1.51",
+"bt": "5.13"
+},
+{
+"time_tag": "2026-07-05T08:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.03",
+"by_gsm": "-1.88",
+"bz_gsm": "-3.16",
+"bt": "6.29"
+},
+{
+"time_tag": "2026-07-05T08:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.58",
+"by_gsm": "-0.06",
+"bz_gsm": "-3.42",
+"bt": "6.67"
+},
+{
+"time_tag": "2026-07-05T08:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.09",
+"by_gsm": "-2.30",
+"bz_gsm": "-0.62",
+"bt": "6.31"
+},
+{
+"time_tag": "2026-07-05T08:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.69",
+"by_gsm": "0.51",
+"bz_gsm": "-4.12",
+"bt": "7.84"
+},
+{
+"time_tag": "2026-07-05T08:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.04",
+"by_gsm": "-0.81",
+"bz_gsm": "-1.47",
+"bt": "7.64"
+},
+{
+"time_tag": "2026-07-05T08:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.18",
+"by_gsm": "-1.40",
+"bz_gsm": "-1.79",
+"bt": "6.96"
+},
+{
+"time_tag": "2026-07-05T08:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.05",
+"by_gsm": "-4.21",
+"bz_gsm": "-5.35",
+"bt": "7.22"
+},
+{
+"time_tag": "2026-07-05T08:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.12",
+"by_gsm": "-4.91",
+"bz_gsm": "-2.90",
+"bt": "8.27"
+},
+{
+"time_tag": "2026-07-05T08:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.52",
+"by_gsm": "-2.57",
+"bz_gsm": "-4.27",
+"bt": "6.94"
+},
+{
+"time_tag": "2026-07-05T08:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.15",
+"by_gsm": "1.07",
+"bz_gsm": "-4.95",
+"bt": "7.03"
+},
+{
+"time_tag": "2026-07-05T08:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-7.32",
+"by_gsm": "7.31",
+"bz_gsm": "-6.43",
+"bt": "8.14"
+},
+{
+"time_tag": "2026-07-05T08:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.56",
+"by_gsm": "3.73",
+"bz_gsm": "-6.05",
+"bt": "7.83"
+},
+{
+"time_tag": "2026-07-05T08:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.64",
+"by_gsm": "6.43",
+"bz_gsm": "-3.01",
+"bt": "8.71"
+},
+{
+"time_tag": "2026-07-05T08:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.87",
+"by_gsm": "1.75",
+"bz_gsm": "-4.34",
+"bt": "7.87"
+},
+{
+"time_tag": "2026-07-05T08:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.85",
+"by_gsm": "-0.25",
+"bz_gsm": "-3.36",
+"bt": "8.25"
+},
+{
+"time_tag": "2026-07-05T08:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.70",
+"by_gsm": "-4.58",
+"bz_gsm": "-5.52",
+"bt": "7.20"
+},
+{
+"time_tag": "2026-07-05T08:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.46",
+"by_gsm": "0.06",
+"bz_gsm": "-4.43",
+"bt": "6.92"
+},
+{
+"time_tag": "2026-07-05T08:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.55",
+"by_gsm": "-7.45",
+"bz_gsm": "-4.41",
+"bt": "7.78"
+},
+{
+"time_tag": "2026-07-05T08:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.39",
+"by_gsm": "-0.99",
+"bz_gsm": "-6.48",
+"bt": "5.56"
+},
+{
+"time_tag": "2026-07-05T08:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.51",
+"by_gsm": "5.76",
+"bz_gsm": "-6.73",
+"bt": "8.27"
+},
+{
+"time_tag": "2026-07-05T08:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.26",
+"by_gsm": "1.21",
+"bz_gsm": "-3.49",
+"bt": "8.81"
+},
+{
+"time_tag": "2026-07-05T08:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.36",
+"by_gsm": "4.01",
+"bz_gsm": "-4.02",
+"bt": "8.10"
+},
+{
+"time_tag": "2026-07-05T08:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.03",
+"by_gsm": "-1.27",
+"bz_gsm": "-5.78",
+"bt": "7.91"
+},
+{
+"time_tag": "2026-07-05T08:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.51",
+"by_gsm": "-4.75",
+"bz_gsm": "-4.54",
+"bt": "9.10"
+},
+{
+"time_tag": "2026-07-05T08:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.56",
+"by_gsm": "-1.61",
+"bz_gsm": "-3.41",
+"bt": "8.19"
+},
+{
+"time_tag": "2026-07-05T08:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.73",
+"by_gsm": "-1.32",
+"bz_gsm": "-1.64",
+"bt": "9.13"
+},
+{
+"time_tag": "2026-07-05T08:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.65",
+"by_gsm": "4.29",
+"bz_gsm": "-5.97",
+"bt": "10.24"
+},
+{
+"time_tag": "2026-07-05T08:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.01",
+"by_gsm": "6.99",
+"bz_gsm": "-3.68",
+"bt": "9.03"
+},
+{
+"time_tag": "2026-07-05T08:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.13",
+"by_gsm": "-2.52",
+"bz_gsm": "-1.39",
+"bt": "9.28"
+},
+{
+"time_tag": "2026-07-05T08:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.88",
+"by_gsm": "-1.18",
+"bz_gsm": "-4.67",
+"bt": "8.96"
+},
+{
+"time_tag": "2026-07-05T08:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.02",
+"by_gsm": "-0.43",
+"bz_gsm": "-2.54",
+"bt": "8.81"
+},
+{
+"time_tag": "2026-07-05T08:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.66",
+"by_gsm": "-1.14",
+"bz_gsm": "-8.96",
+"bt": "8.89"
+},
+{
+"time_tag": "2026-07-05T08:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.00",
+"by_gsm": "-4.27",
+"bz_gsm": "-2.70",
+"bt": "8.77"
+},
+{
+"time_tag": "2026-07-05T08:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.66",
+"by_gsm": "0.41",
+"bz_gsm": "-5.05",
+"bt": "9.71"
+},
+{
+"time_tag": "2026-07-05T08:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.13",
+"by_gsm": "1.35",
+"bz_gsm": "-8.04",
+"bt": "7.45"
+},
+{
+"time_tag": "2026-07-05T08:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.50",
+"by_gsm": "1.44",
+"bz_gsm": "-3.94",
+"bt": "8.67"
+},
+{
+"time_tag": "2026-07-05T08:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.77",
+"by_gsm": "-4.14",
+"bz_gsm": "-3.59",
+"bt": "9.53"
+},
+{
+"time_tag": "2026-07-05T08:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.85",
+"by_gsm": "-0.31",
+"bz_gsm": "-3.40",
+"bt": "8.30"
+},
+{
+"time_tag": "2026-07-05T08:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.00",
+"by_gsm": "-6.00",
+"bz_gsm": "-3.48",
+"bt": "8.99"
+},
+{
+"time_tag": "2026-07-05T08:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.41",
+"by_gsm": "3.29",
+"bz_gsm": "-5.47",
+"bt": "8.55"
+},
+{
+"time_tag": "2026-07-05T08:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.95",
+"by_gsm": "-3.48",
+"bz_gsm": "-6.67",
+"bt": "9.59"
+},
+{
+"time_tag": "2026-07-05T08:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.05",
+"by_gsm": "-0.87",
+"bz_gsm": "-6.28",
+"bt": "10.01"
+},
+{
+"time_tag": "2026-07-05T08:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.49",
+"by_gsm": "-1.48",
+"bz_gsm": "-5.68",
+"bt": "10.58"
+},
+{
+"time_tag": "2026-07-05T08:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.73",
+"by_gsm": "-1.95",
+"bz_gsm": "-5.05",
+"bt": "9.83"
+},
+{
+"time_tag": "2026-07-05T08:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.18",
+"by_gsm": "-3.61",
+"bz_gsm": "-6.51",
+"bt": "8.84"
+},
+{
+"time_tag": "2026-07-05T08:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.22",
+"by_gsm": "-6.09",
+"bz_gsm": "-5.74",
+"bt": "9.73"
+},
+{
+"time_tag": "2026-07-05T08:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.17",
+"by_gsm": "6.16",
+"bz_gsm": "-4.51",
+"bt": "10.07"
+},
+{
+"time_tag": "2026-07-05T08:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.60",
+"by_gsm": "0.99",
+"bz_gsm": "-5.44",
+"bt": "10.85"
+},
+{
+"time_tag": "2026-07-05T09:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.59",
+"by_gsm": "1.03",
+"bz_gsm": "-2.42",
+"bt": "7.86"
+},
+{
+"time_tag": "2026-07-05T09:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.44",
+"by_gsm": "7.45",
+"bz_gsm": "-2.70",
+"bt": "10.08"
+},
+{
+"time_tag": "2026-07-05T09:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.24",
+"by_gsm": "-0.25",
+"bz_gsm": "-7.95",
+"bt": "8.25"
+},
+{
+"time_tag": "2026-07-05T09:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.16",
+"by_gsm": "2.04",
+"bz_gsm": "-7.10",
+"bt": "10.50"
+},
+{
+"time_tag": "2026-07-05T09:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.04",
+"by_gsm": "0.18",
+"bz_gsm": "-8.33",
+"bt": "10.33"
+},
+{
+"time_tag": "2026-07-05T09:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.21",
+"by_gsm": "4.26",
+"bz_gsm": "-8.17",
+"bt": "10.44"
+},
+{
+"time_tag": "2026-07-05T09:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.10",
+"by_gsm": "1.86",
+"bz_gsm": "-5.55",
+"bt": "10.83"
+},
+{
+"time_tag": "2026-07-05T09:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.51",
+"by_gsm": "1.21",
+"bz_gsm": "-8.03",
+"bt": "10.46"
+},
+{
+"time_tag": "2026-07-05T09:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.15",
+"by_gsm": "-0.79",
+"bz_gsm": "-8.18",
+"bt": "9.64"
+},
+{
+"time_tag": "2026-07-05T09:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.11",
+"by_gsm": "1.09",
+"bz_gsm": "-7.03",
+"bt": "10.56"
+},
+{
+"time_tag": "2026-07-05T09:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.88",
+"by_gsm": "4.18",
+"bz_gsm": "-5.41",
+"bt": "11.35"
+},
+{
+"time_tag": "2026-07-05T09:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.48",
+"by_gsm": "-7.16",
+"bz_gsm": "-7.29",
+"bt": "10.28"
+},
+{
+"time_tag": "2026-07-05T09:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.41",
+"by_gsm": "-0.34",
+"bz_gsm": "-7.36",
+"bt": "10.46"
+},
+{
+"time_tag": "2026-07-05T09:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.07",
+"by_gsm": "-1.35",
+"bz_gsm": "-5.42",
+"bt": "9.46"
+},
+{
+"time_tag": "2026-07-05T09:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.69",
+"by_gsm": "-0.94",
+"bz_gsm": "-6.19",
+"bt": "11.56"
+},
+{
+"time_tag": "2026-07-05T09:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.63",
+"by_gsm": "-6.80",
+"bz_gsm": "-6.28",
+"bt": "10.19"
+},
+{
+"time_tag": "2026-07-05T09:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.91",
+"by_gsm": "2.67",
+"bz_gsm": "-5.57",
+"bt": "10.05"
+},
+{
+"time_tag": "2026-07-05T09:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.29",
+"by_gsm": "-2.85",
+"bz_gsm": "-8.72",
+"bt": "10.36"
+},
+{
+"time_tag": "2026-07-05T09:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.17",
+"by_gsm": "-0.68",
+"bz_gsm": "-6.85",
+"bt": "10.07"
+},
+{
+"time_tag": "2026-07-05T09:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.73",
+"by_gsm": "-1.65",
+"bz_gsm": "-8.25",
+"bt": "10.65"
+},
+{
+"time_tag": "2026-07-05T09:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.98",
+"by_gsm": "-5.73",
+"bz_gsm": "-5.71",
+"bt": "12.03"
+},
+{
+"time_tag": "2026-07-05T09:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.84",
+"by_gsm": "-1.45",
+"bz_gsm": "-6.11",
+"bt": "11.67"
+},
+{
+"time_tag": "2026-07-05T09:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.35",
+"by_gsm": "-6.33",
+"bz_gsm": "-9.10",
+"bt": "12.28"
+},
+{
+"time_tag": "2026-07-05T09:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.36",
+"by_gsm": "-3.18",
+"bz_gsm": "-5.42",
+"bt": "12.39"
+},
+{
+"time_tag": "2026-07-05T09:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.12",
+"by_gsm": "-0.99",
+"bz_gsm": "-9.42",
+"bt": "10.41"
+},
+{
+"time_tag": "2026-07-05T09:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "12.18",
+"by_gsm": "0.10",
+"bz_gsm": "-5.81",
+"bt": "11.65"
+},
+{
+"time_tag": "2026-07-05T09:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.97",
+"by_gsm": "0.31",
+"bz_gsm": "-7.39",
+"bt": "12.59"
+},
+{
+"time_tag": "2026-07-05T09:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.12",
+"by_gsm": "-0.37",
+"bz_gsm": "-9.15",
+"bt": "13.34"
+},
+{
+"time_tag": "2026-07-05T09:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.19",
+"by_gsm": "7.60",
+"bz_gsm": "-9.61",
+"bt": "10.21"
+},
+{
+"time_tag": "2026-07-05T09:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.05",
+"by_gsm": "1.64",
+"bz_gsm": "-8.39",
+"bt": "10.26"
+},
+{
+"time_tag": "2026-07-05T09:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.12",
+"by_gsm": "-4.16",
+"bz_gsm": "-8.02",
+"bt": "11.95"
+},
+{
+"time_tag": "2026-07-05T09:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.55",
+"by_gsm": "-2.03",
+"bz_gsm": "-9.16",
+"bt": "11.32"
+},
+{
+"time_tag": "2026-07-05T09:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.94",
+"by_gsm": "-2.19",
+"bz_gsm": "-7.22",
+"bt": "10.82"
+},
+{
+"time_tag": "2026-07-05T09:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.77",
+"by_gsm": "-0.50",
+"bz_gsm": "-10.38",
+"bt": "12.06"
+},
+{
+"time_tag": "2026-07-05T09:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.49",
+"by_gsm": "-2.00",
+"bz_gsm": "-8.25",
+"bt": "11.12"
+},
+{
+"time_tag": "2026-07-05T09:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.15",
+"by_gsm": "-2.88",
+"bz_gsm": "-8.30",
+"bt": "9.90"
+},
+{
+"time_tag": "2026-07-05T09:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.85",
+"by_gsm": "5.89",
+"bz_gsm": "-11.32",
+"bt": "11.89"
+},
+{
+"time_tag": "2026-07-05T09:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.81",
+"by_gsm": "0.27",
+"bz_gsm": "-7.95",
+"bt": "12.08"
+},
+{
+"time_tag": "2026-07-05T09:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.11",
+"by_gsm": "-1.06",
+"bz_gsm": "-10.49",
+"bt": "12.58"
+},
+{
+"time_tag": "2026-07-05T09:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.35",
+"by_gsm": "-0.77",
+"bz_gsm": "-12.50",
+"bt": "12.91"
+},
+{
+"time_tag": "2026-07-05T09:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.19",
+"by_gsm": "-0.64",
+"bz_gsm": "-9.60",
+"bt": "12.32"
+},
+{
+"time_tag": "2026-07-05T09:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.74",
+"by_gsm": "4.99",
+"bz_gsm": "-9.06",
+"bt": "12.02"
+},
+{
+"time_tag": "2026-07-05T09:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.92",
+"by_gsm": "1.79",
+"bz_gsm": "-7.34",
+"bt": "11.71"
+},
+{
+"time_tag": "2026-07-05T09:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.66",
+"by_gsm": "4.05",
+"bz_gsm": "-9.59",
+"bt": "10.93"
+},
+{
+"time_tag": "2026-07-05T09:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.82",
+"by_gsm": "-10.80",
+"bz_gsm": "-6.57",
+"bt": "12.03"
+},
+{
+"time_tag": "2026-07-05T09:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.95",
+"by_gsm": "1.26",
+"bz_gsm": "-6.69",
+"bt": "13.32"
+},
+{
+"time_tag": "2026-07-05T09:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.57",
+"by_gsm": "3.83",
+"bz_gsm": "-7.30",
+"bt": "13.09"
+},
+{
+"time_tag": "2026-07-05T09:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.11",
+"by_gsm": "7.03",
+"bz_gsm": "-7.01",
+"bt": "14.35"
+},
+{
+"time_tag": "2026-07-05T09:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.30",
+"by_gsm": "0.22",
+"bz_gsm": "-8.60",
+"bt": "12.52"
+},
+{
+"time_tag": "2026-07-05T09:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.84",
+"by_gsm": "-5.89",
+"bz_gsm": "-10.10",
+"bt": "11.18"
+},
+{
+"time_tag": "2026-07-05T09:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.53",
+"by_gsm": "2.18",
+"bz_gsm": "-8.26",
+"bt": "13.48"
+},
+{
+"time_tag": "2026-07-05T09:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.14",
+"by_gsm": "-1.97",
+"bz_gsm": "-7.83",
+"bt": "13.73"
+},
+{
+"time_tag": "2026-07-05T09:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.01",
+"by_gsm": "-6.15",
+"bz_gsm": "-9.04",
+"bt": "11.89"
+},
+{
+"time_tag": "2026-07-05T09:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.24",
+"by_gsm": "-2.04",
+"bz_gsm": "-9.87",
+"bt": "11.57"
+},
+{
+"time_tag": "2026-07-05T09:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.64",
+"by_gsm": "3.82",
+"bz_gsm": "-12.02",
+"bt": "13.15"
+},
+{
+"time_tag": "2026-07-05T09:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.42",
+"by_gsm": "4.33",
+"bz_gsm": "-8.55",
+"bt": "13.69"
+},
+{
+"time_tag": "2026-07-05T09:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.57",
+"by_gsm": "2.65",
+"bz_gsm": "-9.12",
+"bt": "12.18"
+},
+{
+"time_tag": "2026-07-05T09:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.53",
+"by_gsm": "-3.54",
+"bz_gsm": "-11.80",
+"bt": "12.91"
+},
+{
+"time_tag": "2026-07-05T09:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.66",
+"by_gsm": "8.94",
+"bz_gsm": "-9.65",
+"bt": "12.60"
+},
+{
+"time_tag": "2026-07-05T09:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.80",
+"by_gsm": "-3.97",
+"bz_gsm": "-8.74",
+"bt": "12.31"
+},
+{
+"time_tag": "2026-07-05T10:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.04",
+"by_gsm": "-0.14",
+"bz_gsm": "-10.11",
+"bt": "12.26"
+},
+{
+"time_tag": "2026-07-05T10:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "7.02",
+"by_gsm": "-4.93",
+"bz_gsm": "-8.77",
+"bt": "13.57"
+},
+{
+"time_tag": "2026-07-05T10:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.16",
+"by_gsm": "4.74",
+"bz_gsm": "-8.88",
+"bt": "13.19"
+},
+{
+"time_tag": "2026-07-05T10:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.54",
+"by_gsm": "1.69",
+"bz_gsm": "-12.47",
+"bt": "12.99"
+},
+{
+"time_tag": "2026-07-05T10:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.15",
+"by_gsm": "3.24",
+"bz_gsm": "-10.68",
+"bt": "11.39"
+},
+{
+"time_tag": "2026-07-05T10:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.04",
+"by_gsm": "0.45",
+"bz_gsm": "-9.50",
+"bt": "15.20"
+},
+{
+"time_tag": "2026-07-05T10:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.91",
+"by_gsm": "-0.11",
+"bz_gsm": "-8.89",
+"bt": "12.94"
+},
+{
+"time_tag": "2026-07-05T10:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.40",
+"by_gsm": "0.74",
+"bz_gsm": "-8.17",
+"bt": "13.70"
+},
+{
+"time_tag": "2026-07-05T10:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.52",
+"by_gsm": "-6.47",
+"bz_gsm": "-13.49",
+"bt": "12.90"
+},
+{
+"time_tag": "2026-07-05T10:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.17",
+"by_gsm": "3.62",
+"bz_gsm": "-10.63",
+"bt": "14.26"
+},
+{
+"time_tag": "2026-07-05T10:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.41",
+"by_gsm": "3.33",
+"bz_gsm": "-9.46",
+"bt": "12.70"
+},
+{
+"time_tag": "2026-07-05T10:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.03",
+"by_gsm": "-1.24",
+"bz_gsm": "-8.73",
+"bt": "14.14"
+},
+{
+"time_tag": "2026-07-05T10:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.13",
+"by_gsm": "0.09",
+"bz_gsm": "-8.06",
+"bt": "13.96"
+},
+{
+"time_tag": "2026-07-05T10:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.20",
+"by_gsm": "1.19",
+"bz_gsm": "-12.27",
+"bt": "14.97"
+},
+{
+"time_tag": "2026-07-05T10:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.09",
+"by_gsm": "5.64",
+"bz_gsm": "-11.44",
+"bt": "13.30"
+},
+{
+"time_tag": "2026-07-05T10:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.45",
+"by_gsm": "1.65",
+"bz_gsm": "-12.59",
+"bt": "13.75"
+},
+{
+"time_tag": "2026-07-05T10:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.26",
+"by_gsm": "0.29",
+"bz_gsm": "-9.70",
+"bt": "14.17"
+},
+{
+"time_tag": "2026-07-05T10:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.85",
+"by_gsm": "-1.64",
+"bz_gsm": "-13.14",
+"bt": "16.23"
+},
+{
+"time_tag": "2026-07-05T10:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.51",
+"by_gsm": "-5.12",
+"bz_gsm": "-9.25",
+"bt": "13.22"
+},
+{
+"time_tag": "2026-07-05T10:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.29",
+"by_gsm": "-1.94",
+"bz_gsm": "-9.70",
+"bt": "14.80"
+},
+{
+"time_tag": "2026-07-05T10:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.23",
+"by_gsm": "0.40",
+"bz_gsm": "-10.48",
+"bt": "14.05"
+},
+{
+"time_tag": "2026-07-05T10:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.95",
+"by_gsm": "-0.73",
+"bz_gsm": "-14.74",
+"bt": "14.94"
+},
+{
+"time_tag": "2026-07-05T10:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.06",
+"by_gsm": "0.42",
+"bz_gsm": "-12.45",
+"bt": "15.30"
+},
+{
+"time_tag": "2026-07-05T10:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.84",
+"by_gsm": "2.76",
+"bz_gsm": "-10.26",
+"bt": "14.92"
+},
+{
+"time_tag": "2026-07-05T10:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.80",
+"by_gsm": "1.68",
+"bz_gsm": "-13.75",
+"bt": "15.08"
+},
+{
+"time_tag": "2026-07-05T10:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.78",
+"by_gsm": "1.12",
+"bz_gsm": "-11.95",
+"bt": "15.16"
+},
+{
+"time_tag": "2026-07-05T10:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.93",
+"by_gsm": "2.45",
+"bz_gsm": "-11.81",
+"bt": "14.48"
+},
+{
+"time_tag": "2026-07-05T10:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.67",
+"by_gsm": "0.81",
+"bz_gsm": "-10.30",
+"bt": "14.86"
+},
+{
+"time_tag": "2026-07-05T10:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.57",
+"by_gsm": "0.05",
+"bz_gsm": "-11.33",
+"bt": "13.68"
+},
+{
+"time_tag": "2026-07-05T10:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.44",
+"by_gsm": "1.80",
+"bz_gsm": "-11.40",
+"bt": "14.86"
+},
+{
+"time_tag": "2026-07-05T10:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.25",
+"by_gsm": "-5.89",
+"bz_gsm": "-12.60",
+"bt": "14.56"
+},
+{
+"time_tag": "2026-07-05T10:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.34",
+"by_gsm": "4.55",
+"bz_gsm": "-11.96",
+"bt": "15.07"
+},
+{
+"time_tag": "2026-07-05T10:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.64",
+"by_gsm": "-4.35",
+"bz_gsm": "-12.25",
+"bt": "15.98"
+},
+{
+"time_tag": "2026-07-05T10:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.41",
+"by_gsm": "3.09",
+"bz_gsm": "-10.95",
+"bt": "15.74"
+},
+{
+"time_tag": "2026-07-05T10:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.23",
+"by_gsm": "0.21",
+"bz_gsm": "-12.45",
+"bt": "15.87"
+},
+{
+"time_tag": "2026-07-05T10:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.63",
+"by_gsm": "4.04",
+"bz_gsm": "-10.60",
+"bt": "16.48"
+},
+{
+"time_tag": "2026-07-05T10:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.39",
+"by_gsm": "0.29",
+"bz_gsm": "-14.98",
+"bt": "13.54"
+},
+{
+"time_tag": "2026-07-05T10:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.83",
+"by_gsm": "-3.14",
+"bz_gsm": "-10.46",
+"bt": "16.02"
+},
+{
+"time_tag": "2026-07-05T10:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.52",
+"by_gsm": "3.93",
+"bz_gsm": "-12.70",
+"bt": "15.69"
+},
+{
+"time_tag": "2026-07-05T10:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.65",
+"by_gsm": "0.82",
+"bz_gsm": "-10.71",
+"bt": "15.69"
+},
+{
+"time_tag": "2026-07-05T10:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.64",
+"by_gsm": "0.59",
+"bz_gsm": "-12.43",
+"bt": "14.72"
+},
+{
+"time_tag": "2026-07-05T10:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.60",
+"by_gsm": "0.46",
+"bz_gsm": "-11.27",
+"bt": "16.37"
+},
+{
+"time_tag": "2026-07-05T10:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.92",
+"by_gsm": "3.68",
+"bz_gsm": "-10.33",
+"bt": "16.95"
+},
+{
+"time_tag": "2026-07-05T10:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.13",
+"by_gsm": "3.04",
+"bz_gsm": "-13.63",
+"bt": "16.91"
+},
+{
+"time_tag": "2026-07-05T10:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.57",
+"by_gsm": "0.98",
+"bz_gsm": "-12.69",
+"bt": "16.01"
+},
+{
+"time_tag": "2026-07-05T10:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.62",
+"by_gsm": "-5.25",
+"bz_gsm": "-13.15",
+"bt": "16.69"
+},
+{
+"time_tag": "2026-07-05T10:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.46",
+"by_gsm": "-1.24",
+"bz_gsm": "-12.62",
+"bt": "17.00"
+},
+{
+"time_tag": "2026-07-05T10:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.27",
+"by_gsm": "0.55",
+"bz_gsm": "-15.58",
+"bt": "17.83"
+},
+{
+"time_tag": "2026-07-05T10:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.31",
+"by_gsm": "6.46",
+"bz_gsm": "-13.35",
+"bt": "17.38"
+},
+{
+"time_tag": "2026-07-05T10:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.76",
+"by_gsm": "1.53",
+"bz_gsm": "-13.54",
+"bt": "16.51"
+},
+{
+"time_tag": "2026-07-05T10:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.43",
+"by_gsm": "-0.14",
+"bz_gsm": "-14.46",
+"bt": "16.53"
+},
+{
+"time_tag": "2026-07-05T10:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.46",
+"by_gsm": "4.37",
+"bz_gsm": "-13.59",
+"bt": "16.66"
+},
+{
+"time_tag": "2026-07-05T10:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.22",
+"by_gsm": "-0.20",
+"bz_gsm": "-15.78",
+"bt": "16.77"
+},
+{
+"time_tag": "2026-07-05T10:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.26",
+"by_gsm": "0.09",
+"bz_gsm": "-11.20",
+"bt": "16.21"
+},
+{
+"time_tag": "2026-07-05T10:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.87",
+"by_gsm": "0.74",
+"bz_gsm": "-12.77",
+"bt": "17.36"
+},
+{
+"time_tag": "2026-07-05T10:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.49",
+"by_gsm": "-5.06",
+"bz_gsm": "-10.56",
+"bt": "16.16"
+},
+{
+"time_tag": "2026-07-05T10:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.31",
+"by_gsm": "3.54",
+"bz_gsm": "-14.99",
+"bt": "16.13"
+},
+{
+"time_tag": "2026-07-05T10:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.22",
+"by_gsm": "1.68",
+"bz_gsm": "-15.52",
+"bt": "17.19"
+},
+{
+"time_tag": "2026-07-05T10:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.06",
+"by_gsm": "-0.80",
+"bz_gsm": "-13.29",
+"bt": "16.45"
+},
+{
+"time_tag": "2026-07-05T10:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.80",
+"by_gsm": "-3.81",
+"bz_gsm": "-16.44",
+"bt": "16.79"
+},
+{
+"time_tag": "2026-07-05T11:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.91",
+"by_gsm": "0.94",
+"bz_gsm": "-13.51",
+"bt": "15.28"
+},
+{
+"time_tag": "2026-07-05T11:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.87",
+"by_gsm": "5.09",
+"bz_gsm": "-15.04",
+"bt": "17.81"
+},
+{
+"time_tag": "2026-07-05T11:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.73",
+"by_gsm": "-2.05",
+"bz_gsm": "-14.53",
+"bt": "17.18"
+},
+{
+"time_tag": "2026-07-05T11:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.55",
+"by_gsm": "-3.52",
+"bz_gsm": "-13.66",
+"bt": "17.14"
+},
+{
+"time_tag": "2026-07-05T11:04:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.49",
+"by_gsm": "1.66",
+"bz_gsm": "-14.06",
+"bt": "17.71"
+},
+{
+"time_tag": "2026-07-05T11:05:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.31",
+"by_gsm": "-5.39",
+"bz_gsm": "-11.25",
+"bt": "17.55"
+},
+{
+"time_tag": "2026-07-05T11:06:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.51",
+"by_gsm": "-7.58",
+"bz_gsm": "-13.26",
+"bt": "16.83"
+},
+{
+"time_tag": "2026-07-05T11:07:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.33",
+"by_gsm": "-1.36",
+"bz_gsm": "-16.37",
+"bt": "19.22"
+},
+{
+"time_tag": "2026-07-05T11:08:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.82",
+"by_gsm": "-2.22",
+"bz_gsm": "-12.84",
+"bt": "17.17"
+},
+{
+"time_tag": "2026-07-05T11:09:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.87",
+"by_gsm": "-0.77",
+"bz_gsm": "-16.58",
+"bt": "18.46"
+},
+{
+"time_tag": "2026-07-05T11:10:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.54",
+"by_gsm": "-1.73",
+"bz_gsm": "-14.39",
+"bt": "19.25"
+},
+{
+"time_tag": "2026-07-05T11:11:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.72",
+"by_gsm": "1.36",
+"bz_gsm": "-16.56",
+"bt": "17.21"
+},
+{
+"time_tag": "2026-07-05T11:12:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.91",
+"by_gsm": "-0.57",
+"bz_gsm": "-15.96",
+"bt": "17.88"
+},
+{
+"time_tag": "2026-07-05T11:13:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.13",
+"by_gsm": "-1.90",
+"bz_gsm": "-12.64",
+"bt": "17.16"
+},
+{
+"time_tag": "2026-07-05T11:14:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.25",
+"by_gsm": "-1.40",
+"bz_gsm": "-15.67",
+"bt": "18.83"
+},
+{
+"time_tag": "2026-07-05T11:15:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.08",
+"by_gsm": "2.41",
+"bz_gsm": "-15.87",
+"bt": "17.70"
+},
+{
+"time_tag": "2026-07-05T11:16:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.52",
+"by_gsm": "3.56",
+"bz_gsm": "-15.81",
+"bt": "17.10"
+},
+{
+"time_tag": "2026-07-05T11:17:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.78",
+"by_gsm": "3.37",
+"bz_gsm": "-15.48",
+"bt": "19.24"
+},
+{
+"time_tag": "2026-07-05T11:18:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-5.62",
+"by_gsm": "2.64",
+"bz_gsm": "-12.77",
+"bt": "18.96"
+},
+{
+"time_tag": "2026-07-05T11:19:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.97",
+"by_gsm": "-11.34",
+"bz_gsm": "-16.98",
+"bt": "17.47"
+},
+{
+"time_tag": "2026-07-05T11:20:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.19",
+"by_gsm": "-3.30",
+"bz_gsm": "-17.14",
+"bt": "19.31"
+},
+{
+"time_tag": "2026-07-05T11:21:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.23",
+"by_gsm": "-0.90",
+"bz_gsm": "-14.33",
+"bt": "18.52"
+},
+{
+"time_tag": "2026-07-05T11:22:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.57",
+"by_gsm": "0.92",
+"bz_gsm": "-17.83",
+"bt": "20.75"
+},
+{
+"time_tag": "2026-07-05T11:23:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.61",
+"by_gsm": "-5.46",
+"bz_gsm": "-15.96",
+"bt": "19.95"
+},
+{
+"time_tag": "2026-07-05T11:24:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.03",
+"by_gsm": "5.18",
+"bz_gsm": "-13.66",
+"bt": "18.06"
+},
+{
+"time_tag": "2026-07-05T11:25:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.91",
+"by_gsm": "1.27",
+"bz_gsm": "-15.51",
+"bt": "18.37"
+},
+{
+"time_tag": "2026-07-05T11:26:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-4.69",
+"by_gsm": "-1.97",
+"bz_gsm": "-16.34",
+"bt": "17.91"
+},
+{
+"time_tag": "2026-07-05T11:27:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.83",
+"by_gsm": "0.78",
+"bz_gsm": "-16.77",
+"bt": "18.84"
+},
+{
+"time_tag": "2026-07-05T11:28:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.24",
+"by_gsm": "-1.00",
+"bz_gsm": "-17.16",
+"bt": "18.83"
+},
+{
+"time_tag": "2026-07-05T11:29:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.41",
+"by_gsm": "-2.45",
+"bz_gsm": "-16.71",
+"bt": "19.48"
+},
+{
+"time_tag": "2026-07-05T11:30:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.12",
+"by_gsm": "1.98",
+"bz_gsm": "-15.63",
+"bt": "18.98"
+},
+{
+"time_tag": "2026-07-05T11:31:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.60",
+"by_gsm": "-1.38",
+"bz_gsm": "-13.94",
+"bt": "17.71"
+},
+{
+"time_tag": "2026-07-05T11:32:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.59",
+"by_gsm": "-4.73",
+"bz_gsm": "-14.45",
+"bt": "18.34"
+},
+{
+"time_tag": "2026-07-05T11:33:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.15",
+"by_gsm": "-2.01",
+"bz_gsm": "-16.93",
+"bt": "20.31"
+},
+{
+"time_tag": "2026-07-05T11:34:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.06",
+"by_gsm": "-0.19",
+"bz_gsm": "-17.26",
+"bt": "20.15"
+},
+{
+"time_tag": "2026-07-05T11:35:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.61",
+"by_gsm": "-3.57",
+"bz_gsm": "-15.07",
+"bt": "19.08"
+},
+{
+"time_tag": "2026-07-05T11:36:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.91",
+"by_gsm": "4.63",
+"bz_gsm": "-19.11",
+"bt": "19.16"
+},
+{
+"time_tag": "2026-07-05T11:37:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.03",
+"by_gsm": "-3.60",
+"bz_gsm": "-17.00",
+"bt": "19.19"
+},
+{
+"time_tag": "2026-07-05T11:38:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.21",
+"by_gsm": "6.36",
+"bz_gsm": "-16.89",
+"bt": "19.42"
+},
+{
+"time_tag": "2026-07-05T11:39:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-6.14",
+"by_gsm": "3.35",
+"bz_gsm": "-18.19",
+"bt": "18.02"
+},
+{
+"time_tag": "2026-07-05T11:40:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.70",
+"by_gsm": "-3.08",
+"bz_gsm": "-18.08",
+"bt": "20.29"
+},
+{
+"time_tag": "2026-07-05T11:41:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.09",
+"by_gsm": "0.67",
+"bz_gsm": "-16.02",
+"bt": "19.02"
+},
+{
+"time_tag": "2026-07-05T11:42:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-3.87",
+"by_gsm": "4.35",
+"bz_gsm": "-19.25",
+"bt": "19.77"
+},
+{
+"time_tag": "2026-07-05T11:43:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-0.79",
+"by_gsm": "-0.45",
+"bz_gsm": "-18.15",
+"bt": "17.54"
+},
+{
+"time_tag": "2026-07-05T11:44:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "6.27",
+"by_gsm": "-3.95",
+"bz_gsm": "-17.80",
+"bt": "19.97"
+},
+{
+"time_tag": "2026-07-05T11:45:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.16",
+"by_gsm": "0.61",
+"bz_gsm": "-16.71",
+"bt": "20.98"
+},
+{
+"time_tag": "2026-07-05T11:46:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.75",
+"by_gsm": "7.19",
+"bz_gsm": "-19.07",
+"bt": "17.97"
+},
+{
+"time_tag": "2026-07-05T11:47:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "4.19",
+"by_gsm": "-4.99",
+"bz_gsm": "-15.26",
+"bt": "21.26"
+},
+{
+"time_tag": "2026-07-05T11:48:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "3.46",
+"by_gsm": "2.17",
+"bz_gsm": "-17.53",
+"bt": "20.42"
+},
+{
+"time_tag": "2026-07-05T11:49:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.24",
+"by_gsm": "0.26",
+"bz_gsm": "-17.52",
+"bt": "19.45"
+},
+{
+"time_tag": "2026-07-05T11:50:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.05",
+"by_gsm": "-0.18",
+"bz_gsm": "-17.75",
+"bt": "18.78"
+},
+{
+"time_tag": "2026-07-05T11:51:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.62",
+"by_gsm": "-1.13",
+"bz_gsm": "-18.30",
+"bt": "21.20"
+},
+{
+"time_tag": "2026-07-05T11:52:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.71",
+"by_gsm": "-0.89",
+"bz_gsm": "-18.86",
+"bt": "20.49"
+},
+{
+"time_tag": "2026-07-05T11:53:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.65",
+"by_gsm": "3.86",
+"bz_gsm": "-15.56",
+"bt": "20.83"
+},
+{
+"time_tag": "2026-07-05T11:54:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "2.11",
+"by_gsm": "2.32",
+"bz_gsm": "-17.12",
+"bt": "20.15"
+},
+{
+"time_tag": "2026-07-05T11:55:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.33",
+"by_gsm": "-3.26",
+"bz_gsm": "-17.68",
+"bt": "19.76"
+},
+{
+"time_tag": "2026-07-05T11:56:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "5.47",
+"by_gsm": "5.69",
+"bz_gsm": "-16.00",
+"bt": "21.26"
+},
+{
+"time_tag": "2026-07-05T11:57:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.09",
+"by_gsm": "-4.30",
+"bz_gsm": "-18.76",
+"bt": "19.75"
+},
+{
+"time_tag": "2026-07-05T11:58:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-7.31",
+"by_gsm": "2.56",
+"bz_gsm": "-16.71",
+"bt": "21.41"
+},
+{
+"time_tag": "2026-07-05T11:59:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-1.09",
+"by_gsm": "0.88",
+"bz_gsm": "-17.74",
+"bt": "19.26"
+},
+{
+"time_tag": "2026-07-05T12:00:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.74",
+"by_gsm": "4.44",
+"bz_gsm": "-19.24",
+"bt": "19.96"
+},
+{
+"time_tag": "2026-07-05T12:01:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "1.06",
+"by_gsm": "1.49",
+"bz_gsm": "-16.71",
+"bt": "19.57"
+},
+{
+"time_tag": "2026-07-05T12:02:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "0.12",
+"by_gsm": "3.94",
+"bz_gsm": "-20.33",
+"bt": "22.00"
+},
+{
+"time_tag": "2026-07-05T12:03:00.000Z",
+"source": "SOLAR1",
+"active": true,
+"bx_gsm": "-2.56",
+"by_gsm": "0.16",
+"bz_gsm": "-17.01",
+"bt": "19.43"
+}
+]

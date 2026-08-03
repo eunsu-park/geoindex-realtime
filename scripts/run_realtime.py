@@ -53,6 +53,10 @@ def parse_args() -> argparse.Namespace:
                         help="Path to runtime config YAML")
     parser.add_argument("--now", type=str, default=None,
                         help="Override reference time (ISO 8601, UTC).")
+    parser.add_argument("--output-root", default=None,
+                        help="Write cache/events/results under this directory instead of the "
+                             "paths in the config. Needed for a dry run off the deployment "
+                             "host, whose config holds Windows paths.")
     parser.add_argument("--dry-run", action="store_true",
                         help="Use tests/fixtures/ instead of live network.")
     parser.add_argument("--device", type=str, default=None,
@@ -121,18 +125,18 @@ def _load_fixtures(fixtures_dir: Path) -> tuple[pd.DataFrame, pd.DataFrame]:
     Returns:
         Tuple of (swpc_1min, hpo_30min) DataFrames.
     """
-    from src.fetch.noaa_swpc import _rows_to_dataframe, _MAG_RENAME, _PLASMA_RENAME, _numeric
+    from src.fetch.noaa_swpc import _records_to_dataframe, _MAG_RENAME, _PLASMA_RENAME, _numeric
     from src._vendor.parse_hpo import HP30, parse_hpo
 
     plasma_payload = json.loads((fixtures_dir / "plasma.json").read_text())
     mag_payload = json.loads((fixtures_dir / "mag.json").read_text())
     hpo_text = (fixtures_dir / "hpo.txt").read_text()
 
-    plasma = _rows_to_dataframe(plasma_payload).rename(columns=_PLASMA_RENAME)
+    plasma = _records_to_dataframe(plasma_payload).rename(columns=_PLASMA_RENAME)
     plasma = _numeric(plasma, ["np", "v", "t"])
     plasma = plasma[["datetime", "np", "v", "t"]].sort_values("datetime").reset_index(drop=True)
 
-    mag = _rows_to_dataframe(mag_payload).rename(columns=_MAG_RENAME)
+    mag = _records_to_dataframe(mag_payload).rename(columns=_MAG_RENAME)
     mag = _numeric(mag, ["bx", "by", "bz", "bt"])
     mag = mag[["datetime", "bx", "by", "bz", "bt"]].sort_values("datetime").reset_index(drop=True)
 
@@ -155,6 +159,16 @@ def main() -> int:
     cache_root = _PROJECT_ROOT / cfg.paths.cache_dir
     event_dir = _PROJECT_ROOT / cfg.paths.event_dir
     results_dir = _PROJECT_ROOT / cfg.paths.results_dir
+
+    if args.output_root:
+        # cfg.paths hold the deployment host's Windows paths, and on POSIX
+        # `_PROJECT_ROOT / "D:/realtime/..."` silently creates a literal "D:" directory
+        # inside the repo. A dry run on any other host needs somewhere sane to write.
+        root = Path(args.output_root).expanduser().resolve()
+        cache_root = root / "cache"
+        event_dir = root / "events"
+        results_dir = root / "results"
+        logger.info("Output root overridden: %s", root)
 
     if args.dry_run:
         fixtures = _PROJECT_ROOT / "tests" / "fixtures"
