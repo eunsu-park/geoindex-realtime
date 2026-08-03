@@ -55,8 +55,8 @@ def parse_args() -> argparse.Namespace:
                         help="Override reference time (ISO 8601, UTC).")
     parser.add_argument("--output-root", default=None,
                         help="Write cache/events/results under this directory instead of the "
-                             "paths in the config. Needed for a dry run off the deployment "
-                             "host, whose config holds Windows paths.")
+                             "paths in the config, for a scratch run. To run normally on macOS "
+                             "use --config configs/realtime.mac.yaml instead.")
     parser.add_argument("--dry-run", action="store_true",
                         help="Use tests/fixtures/ instead of live network.")
     parser.add_argument("--device", type=str, default=None,
@@ -161,9 +161,10 @@ def main() -> int:
     results_dir = _PROJECT_ROOT / cfg.paths.results_dir
 
     if args.output_root:
-        # cfg.paths hold the deployment host's Windows paths, and on POSIX
-        # `_PROJECT_ROOT / "D:/realtime/..."` silently creates a literal "D:" directory
-        # inside the repo. A dry run on any other host needs somewhere sane to write.
+        # For a scratch run that should not touch the configured tree. Note the normal way to
+        # run off Windows is `--config configs/realtime.mac.yaml`; the default config holds the
+        # Windows workspace, and on POSIX `_PROJECT_ROOT / "D:/realtime/..."` would create a
+        # literal "D:" directory inside the repo.
         root = Path(args.output_root).expanduser().resolve()
         cache_root = root / "cache"
         event_dir = root / "events"

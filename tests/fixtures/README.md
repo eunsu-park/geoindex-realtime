@@ -1,6 +1,12 @@
 # `--dry-run` fixtures
 
-Pinned inputs for `python scripts/run_realtime.py --dry-run --now 2026-07-05T12:03:00`.
+Pinned inputs for:
+
+```
+python scripts/run_realtime.py --dry-run --now 2026-07-05T12:03:00 \
+    --config configs/realtime.mac.yaml
+```
+
 Regenerate with `python scripts/make_fixtures.py`.
 
 | file | contents |
