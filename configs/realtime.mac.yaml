@@ -49,6 +49,10 @@ analysis:
     enable: true
     num_samples: 100
     n_std: 2.0
+    # Optional residual variance added in quadrature to the MC-dropout variance
+    # (σ_pred² = σ_MC² + σ_residual², denormalized target units squared). It is
+    # a per-checkpoint number measured on a validation split; 0 = raw MC band.
+    noise_variance: 0.0
   attention:
     enable: true
     save_npz: true
