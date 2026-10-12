@@ -14,7 +14,7 @@ from GFZ's `Hp30_ap30_complete_series.txt`, plus provenance columns (`era`, `n_p
 time whose input window is complete and whose target window has observed ap30 — the file
 `analysis/infer_checkpoint.py` (geoindex-model) takes as `--anchor-index`.
 
-    python scripts/build_nrt_table.py --src ~/PostBox/GeoIndex/NRT \\
+    python scripts/build_nrt_table.py --src ~/Projects/GeoIndex/postbox/NRT \\
         --hpo ~/Downloads/Hp30_ap30_complete_series.txt \\
         --out ~/Projects/GeoIndex/datasets/realtime_nrt/nrt_30min.parquet --io in6h_out6h
 """
